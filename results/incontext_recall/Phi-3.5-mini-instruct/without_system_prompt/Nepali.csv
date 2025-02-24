@@ -1,0 +1,477 @@
+Question,Predicted,answers,label,llm_output
+डेभिड भारत मा बस्छ र राहुल संयुक्त राज्य अमेरिका मा बस्छ। भारत मा को बस्छ?,"डेभिड भारत मा बस्छ है और राहुल संयुक्त राज्य अमेरिका मा बस्छ है। इसलिए, भारत मा बस्छ भी संयुक्त राज्य अमेरिका मा बस",डेभिड,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not fully align with the reference, as it incorrectly states that ""भारत मा बस्छ भी संयुक्त राज्य अमेरिका मा बस"" (those who live in India also live in the United States), which is not aligned with the reference. 
+
+Rating: [[4]]"
+डेभिड भारत मा बस्छ र राहुल संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"यदि डेभिड भारत मा बस्छ है और राहुल संयुक्त राज्य अमेरिका मा बस्छ है, तो संयुक्त राज्य अमेरिका मा भी बस्छ होगी। यह एक",राहुल,Nepali,"The assistant's response is in the same language as the reference but does not clearly and concisely answer the question. The response is somewhat vague and does not directly state that Rahul lives in the United States.
+
+Rating: [[4]]"
+डेभिड चीन मा बस्छ र ली वेई संयुक्त राज्य अमेरिका मा बस्छ। चीन मा को बस्छ?,चीन मा बस्छ नहीं है। यह दो विभिन्न देशों की नामों का उल्लेख है: चीन (चीन मा) और संयुक्त राज्य अमेरिका (वेई मा बस्छ). चीन,डेभिड,Nepali,"The assistant's response is in a different language (Hindi) and does not align with the reference provided, which is in Nepali. The assistant also does not correctly answer the question, which asks who lives in China.
+
+Rating: [[4]]"
+डेभिड चीन मा बस्छ र ली वेई संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,डेभिड चीन मा बस्छ र ली वेई संयुक्त राज्य अमेरिका मा बस्छ होने से संयुक्त राज्य अमेरिका मा भी बस्छ होगा। यदि कोई व्यक्,ली वेई,Nepali,"The assistant's response is in the same language as the reference but does not clearly and accurately answer the question. The response is somewhat confusing and does not directly state that Lee Wei lives in the United States.
+
+Rating: [[4]]"
+डेभिड रूस मा बस्छ र सर्गेई संयुक्त राज्य अमेरिका मा बस्छ। रूस मा को बस्छ?,"डेभिड रूस मा बस्छ है, और सर्गेई संयुक्त राज्य अमेरिका मा बस्छ है। दोनों को ""बस्छ"" कहने से यह स्पष्ट होता है कि डेभिड र",डेभिड,Nepali,"The assistant's response is in a language that is not English (appears to be a mix of Hindi and Nepali) and partially aligns with the reference provided. However, the answer is cut off and does not fully address the question.
+
+Rating: [[3]]"
+डेभिड रूस मा बस्छ र सर्गेई संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"डेभिड रूस मा बस्छ को संयुक्त राज्य अमेरिका मा बस्छ में बदलने के लिए, आपको संयुक्त राज्य अमेरिका मा बस्छ को डेभिड रूस मा",सर्गेई,Nepali,"The assistant's response is in a different language (Hindi) and does not align with the reference provided. The response is also incoherent and does not answer the question correctly.
+
+Rating: [[4]]"
+डेभिड साउदी अरेबिया मा बस्छ र अब्दुलाजिज संयुक्त राज्य अमेरिका मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हाँ, डेभिड साउदी अरेबिया मा बस्छ है। दिए गए जानकारी के आधार पर, यदि अरेबिया मा बस्छ संयुक्त राज्य अमेरिका मा बस्छ",डेभिड,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is not fully coherent and complete. However, it does correctly state that David lives in Saudi Arabia, which is the main point of the question.
+
+Rating: [[1]]"
+डेभिड साउदी अरेबिया मा बस्छ र अब्दुलाजिज संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"संयुक्त राज्य अमेरिका को बस्छ करने के लिए, आप इसे इस प्रकार लिख सकते हैं: ""अब्दुलाजिज संयुक्त राज्य अमेरिका मा बस्छ।""",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference but does not directly answer the question. The question asks who lives in the United States, and the assistant provides a rephrased statement instead of a clear answer.
+
+Rating: [[4]]"
+डेभिड फ्रान्स मा बस्छ र गेब्रियल संयुक्त राज्य अमेरिका मा बस्छ। फ्रान्स मा को बस्छ?,"डेभिड फ्रान्स मा बस्छ हो सकता है, लेकिन गेब्रियल संयुक्त राज्य अमेरिका मा बस्छ नहीं हो सकता क्योंकि यह एक जापानी व्यक्त",डेभिड,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant correctly identifies that David lives in France but then goes on to incorrectly state that Gabriel does not live in the United States, which contradicts the reference. The response also seems to be cut off and incomplete.
+
+Rating: [[4]]"
+डेभिड फ्रान्स मा बस्छ र गेब्रियल संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"संयुक्त राज्य अमेरिका मा बस्छ होगा। दिए गए संबंध को समझने के लिए, यहाँ इसे तोड़ा गया है:
+
+- डेभिड फ्रान्स मा बस",गेब्रियल,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not fully align with the reference. The assistant should have directly answered the question in the language of the reference.
+
+Rating: [[3]]"
+डेभिड नेपाल मा बस्छ र बहादुर संयुक्त राज्य अमेरिका मा बस्छ। नेपाल मा को बस्छ?,"नेपाल मा बस्छ को बहादुर संयुक्त राज्य अमेरिका मा बस्छ से मिलाना सही है। यहाँ तर्क है:
+
+1. हमें दिया गया है कि डेभिड नेपाल",डेभिड,Nepali,"The assistant's response is in the same language as the reference but does not clearly answer the question. The response is incomplete and confusing, making it difficult to understand the intended answer. The assistant should have clearly stated that ""डेभिड"" lives in Nepal, as per the question.
+
+Rating: [[4]]"
+डेभिड नेपाल मा बस्छ र बहादुर संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"डेभिड नेपाल मा बस्छ को संयुक्त राज्य अमेरिका मा बस्छ कर देगा। यदि हम इसे सरल बनाते हैं, तो यह इस तरह दिखता है:
+
+डेभिड न",बहादुर,Nepali,"The assistant's response is in a different language (Hindi) and does not align with the reference provided. The answer is also incomplete and does not correctly identify who lives in the United States.
+
+Rating: [[4]]"
+डेभिड जापान मा बस्छ र हारुतो संयुक्त राज्य अमेरिका मा बस्छ। जापान मा को बस्छ?,"जापान मा बस्छ नहीं हो सकता। ""डेभिड"" और ""हारुतो"" जापानी भाषा में हैं, जबकि ""बस्छ"" अंग्रेजी शब्द है जिसका अर्थ ""बस"" है। जापान म",डेभिड,Nepali,"The assistant's response is in a mix of languages and does not align with the reference provided. The assistant should have answered in the same language as the reference and provided a clear answer to the question.
+
+Rating: [[4]]"
+डेभिड जापान मा बस्छ र हारुतो संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"संयुक्त राज्य अमेरिका मा बस्छ हो सकता है, लेकिन डेभिड जापान मा बस्छ नहीं होगा, क्योंकि यह एक जापानी नाम है। डेभिड और सं",हारुतो,Nepali,"The assistant's response is in a different language (Hindi/Urdu) and does not align with the reference provided. The assistant also does not correctly answer the question, as it speculates about the name rather than directly answering who lives in the United States.
+
+Rating: [[4]]"
+डेभिड युक्रेन मा बस्छ र निकोलाई संयुक्त राज्य अमेरिका मा बस्छ। युक्रेन मा को बस्छ?,"यदि डेभिड युक्रेन मा बस्छ है, और निकोलाई संयुक्त राज्य अमेरिका मा बस्छ है, तो यह निष्कर्ष निकालने के लिए कि युक्रेन म",डेभिड,Nepali,"The assistant's response is in a different language (Hindi) but aligns with the reference provided. The answer is cut off, but it is attempting to correctly identify that David lives in Ukraine.
+
+Rating: [[3]]"
+डेभिड युक्रेन मा बस्छ र निकोलाई संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"यदि डेभिड युक्रेन मा बस्छ है और निकोलाई संयुक्त राज्य अमेरिका मा बस्छ है, तो संयुक्त राज्य अमेरिका मा भी बस्छ होना चा",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question. However, since it does align and is in the same language, it should not be rated as unrelated.
+
+Rating: [[1]]"
+डेभिड ग्रीस मा बस्छ र मारिया संयुक्त राज्य अमेरिका मा बस्छ। ग्रीस मा को बस्छ?,"ग्रीस मा बस्छ है। दिए गए जानकारी के आधार पर, यदि डेभिड ग्रीस मा बस्छ है, तो इसका मतलब है कि ग्रीस मा भी बस्छ है। यह",डेभिड,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is somewhat redundant and not as concise as it could be. However, it does correctly identify that David lives in Greece, which is the key information requested.
+
+Rating: [[1]]"
+डेभिड ग्रीस मा बस्छ र मारिया संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"डेभिड ग्रीस मा बस्छ को संयुक्त राज्य अमेरिका मा बस्छ करने पर विचार करते समय, यह स्पष्ट है कि संयुक्त राज्य अमेरिका मा बस्",मारिया,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that David is considering living in the United States, instead of identifying that Maria lives in the United States.
+
+Rating: [[4]]"
+डेभिड टर्की मा बस्छ र मुस्तफा संयुक्त राज्य अमेरिका मा बस्छ। टर्की मा को बस्छ?,"यदि डेभिड टर्की मा बस्छ है, और मुस्तफा संयुक्त राज्य अमेरिका मा बस्छ है, तो दोनों को बस्छ होने की समानता है। इसलि",डेभिड,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly answer the question. The response is also incomplete and does not align with the reference.
+
+Rating: [[4]]"
+डेभिड टर्की मा बस्छ र मुस्तफा संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"डेभिड टर्की मा बस्छ र मुस्तफा संयुक्त राज्य अमेरिका मा बस्छ होता है, इसलिए संयुक्त राज्य अमेरिका मा भी बस्छ होता है",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Mustafa lives in the United States.
+
+Rating: [[1]]"
+डेभिड केन्या मा बस्छ र जिमोन संयुक्त राज्य अमेरिका मा बस्छ। केन्या मा को बस्छ?,"डेभिड केन्या मा को बस्छ करने का मतलब है कि केन्या मा अमेरिकी जिमोन से बस्ता हुआ है। इसलिए, केन्या मा अमेरिकी जिमोन है।",डेभिड,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that Jimon, who is said to live in the United States, is in Kenya. The correct answer should have been that David lives in Kenya.
+
+Rating: [[4]]"
+डेभिड केन्या मा बस्छ र जिमोन संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"डेभिड केन्या मा बस्छ होने की जानकारी दी गई है, लेकिन जिमोन को बस्छ होने की जानकारी नहीं दी गई है। इसलिए, हम इस जा",जिमोन,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant should have directly answered that Jimon lives in the United States, as per the reference. The response is incomplete and does not provide a clear answer.
+
+Rating: [[4]]"
+डेभिड थाइल्याण्ड मा बस्छ र सोमचाई संयुक्त राज्य अमेरिका मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हाँ, थाइल्याण्ड मा बस्छ सोमचाई संयुक्त राज्य अमेरिका मा को बस्छ था। यह प्रत्येक स्थान की स्थिति को दर्शाता है: डेभिड (",डेभिड,Nepali,"The assistant's response is in a different language (Hindi) and does not clearly answer the question. It also does not align with the reference provided, which is in Nepali.
+
+Rating: [[4]]"
+डेभिड थाइल्याण्ड मा बस्छ र सोमचाई संयुक्त राज्य अमेरिका मा बस्छ। संयुक्त राज्य अमेरिका मा को बस्छ?,"संयुक्त राज्य अमेरिका मा बस्छ है। डेभिड थाइल्याण्ड मा बस्छ और सोमचाई भी संयुक्त राज्य अमेरिका में बसे हैं, लेकिन सवाल",सोमचाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+राहुल चीन मा बस्छ र ली वेई भारत मा बस्छ। चीन मा को बस्छ?,"हाँ, राहुल चीन मा बस्छ र ली वेई भारत मा बस्छ को बस्छ कर चुका है। चीन मा अब भारत मा के साथ बस्छ है।",राहुल,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that Rahul now lives in India with Lee Wei, which is not supported by the reference.
+
+Rating: [[4]]"
+राहुल चीन मा बस्छ र ली वेई भारत मा बस्छ। भारत मा को बस्छ?,"हाँ, भारत मा बस्छ है। दिए गए जानकारी के अनुसार, राहुल चीन मा बस्छ र ली वेई भारत मा बस्छ है। इसलिए, भारत मा बस",ली वेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided is correct.
+
+Rating: [[1]]"
+राहुल रूस मा बस्छ र सर्गेई भारत मा बस्छ। रूस मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि राहुल रूस मा बस्छ है, तो सर्गेई भारत मा भी बस्छ होना चाहिए, क्योंकि दोनों को ""मा बस्",राहुल,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant should have clearly stated that Rahul lives in Russia, as per the question. The response is somewhat confusing and does not directly answer the question.
+
+Rating: [[4]]"
+राहुल रूस मा बस्छ र सर्गेई भारत मा बस्छ। भारत मा को बस्छ?,"दिए गए जानकारी के आधार पर, हम यह निष्कर्ष निकाल सकते हैं कि राहुल रूस मा बस्छ है, और सर्गेई भारत मा भी बस्छ है। यदि",सर्गेई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (which is also in Hindi), but it does not fully align with the reference. The assistant correctly identifies that Sergey lives in India, but it also incorrectly states that Rahul lives in Russia, which is not asked in the question. The assistant should have only mentioned Sergey as the person living in India.
+
+Rating: [[3]]"
+राहुल साउदी अरेबिया मा बस्छ र अब्दुलाजिज भारत मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हां, राहुल साउदी अरेबिया मा बस्छ है। दिया गया जानकारी से यह पता चलता है कि राहुल साउदी अरेबिया मा के साथ बस्बा करता है, ज",राहुल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided does correctly answer the question.
+
+Rating: [[1]]"
+राहुल साउदी अरेबिया मा बस्छ र अब्दुलाजिज भारत मा बस्छ। भारत मा को बस्छ?,"हां, अब्दुलाजिज भारत मा बस्छ है। राहुल साउदी अरेबिया मा बस्छ है, इसलिए भारत मा के बारे में जानकारी के अनुसार, यह अब्द",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the answer is incomplete and does not fully address the question. The assistant should have clearly stated that Abdulaziz lives in India without any additional unnecessary information.
+
+Rating: [[1]]"
+राहुल फ्रान्स मा बस्छ र गेब्रियल भारत मा बस्छ। फ्रान्स मा को बस्छ?,"हाँ, राहुल फ्रान्स मा बस्छ है। दिए गए जानकारी के अनुसार, राहुल फ्रान्स मा बस्छ है, जबकि गेब्रियल भारत मा बस्छ न",राहुल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+राहुल फ्रान्स मा बस्छ र गेब्रियल भारत मा बस्छ। भारत मा को बस्छ?,"हाँ, भारत मा बस्छ है। दिए गए जानकारी के अनुसार, राहुल फ्रान्स मा बस्छ है, और गेब्रियल भारत मा बस्छ है। इसलि",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided does correctly answer the question.
+
+Rating: [[1]]"
+राहुल नेपाल मा बस्छ र बहादुर भारत मा बस्छ। नेपाल मा को बस्छ?,"यदि राहुल नेपाल मा बस्छ है, और बहादुर भारत मा भी बस्छ है, तो नेपाल मा भी बस्छ होना चाहिए। यह एक सामान्यतः तार्किक",राहुल,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly answer the question. The response is somewhat aligned with the reference but is not precise and clear.
+
+Rating: [[3]]"
+राहुल नेपाल मा बस्छ र बहादुर भारत मा बस्छ। भारत मा को बस्छ?,"यदि राहुल नेपाल मा बस्छ है और भारत मा बस्छ भी है, तो भारत मा भी बस्छ है। यह स्थिति इस प्रकार दिखती है:
+
+राहुल (नेपाल म",बहादुर,Nepali,"The assistant's response is in a different language (Hindi) and does not align with the reference provided. The response is also incomplete and does not clearly answer the question.
+
+Rating: [[4]]"
+राहुल जापान मा बस्छ र हारुतो भारत मा बस्छ। जापान मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि राहुल जापान मा बस्छ है और हारुतो भारत मा बस्छ है, तो यह मानते हुए कि जापान मा भी बस्",राहुल,Nepali,"The assistant's response is in a language that is a mix of Hindi and Nepali, which is not the same as the reference (Nepali). However, the answer aligns with the reference as it correctly identifies that Rahul lives in Japan. 
+
+Rating: [[3]]"
+राहुल जापान मा बस्छ र हारुतो भारत मा बस्छ। भारत मा को बस्छ?,"दिए गए जानकारी के आधार पर, हम यह निष्कर्ष निकाल सकते हैं कि राहुल जापान मा बस्छ है, और हारुतो भारत मा बस्छ है। यदि हम",हारुतो,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) but aligns with the reference provided.
+
+Rating: [[3]]"
+राहुल युक्रेन मा बस्छ र निकोलाई भारत मा बस्छ। युक्रेन मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि राहुल युक्रेन मा बस्छ है, तो इसका अर्थ है कि निकोलाई भारत मा भी बस्छ है। तो, निकोला",राहुल,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant started to answer the question but did not complete the sentence, leaving the answer unclear and incomplete.
+
+Rating: [[4]]"
+राहुल युक्रेन मा बस्छ र निकोलाई भारत मा बस्छ। भारत मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि राहुल युक्रेन मा बस्छ है और निकोलाई भारत मा बस्छ है, तो यह मानते हुए कि भारत मा भी",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the answer is incomplete and does not fully address the question. Despite this, it is the closest to the criteria for a score of 1.
+
+Rating: [[1]]"
+राहुल ग्रीस मा बस्छ र मारिया भारत मा बस्छ। ग्रीस मा को बस्छ?,"हां, राहुल ग्रीस मा बस्छ है। दिए गए जानकारी के अनुसार, राहुल ग्रीस मा बस्छ है, जबकि मारिया भारत मा बस्छ है।",राहुल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+राहुल ग्रीस मा बस्छ र मारिया भारत मा बस्छ। भारत मा को बस्छ?,"हां, भारत मा बस्छ है। दिए गए जानकारी के अनुसार, राहुल ग्रीस मा बस्छ है, और मारिया भारत मा बस्छ है। इसलिए, भारत",मारिया,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Maria lives in India.
+
+Rating: [[1]]"
+राहुल टर्की मा बस्छ र मुस्तफा भारत मा बस्छ। टर्की मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि राहुल टर्की मा बस्छ है, और मुस्तफा भारत मा बस्छ है, तो यह मानते हुए कि टर्की और",राहुल,Nepali,"The assistant's response is in a language (Hindi) that is different from the reference (Nepali) and does not fully align with the reference, as it does not complete the answer to the question. The assistant should have clearly stated that Rahul lives in Turkey.
+
+Rating: [[3]]"
+राहुल टर्की मा बस्छ र मुस्तफा भारत मा बस्छ। भारत मा को बस्छ?,"हाँ, भारत मा बस्छ है। दिए गए जानकारी के आधार पर, यदि राहुल टर्की मा बस्छ है, तो उसकी विपरीत भारत मा बस्छ होनी चाह",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant should have clearly stated that Mustafa lives in India, instead of giving a vague and incomplete answer.
+
+Rating: [[4]]"
+राहुल केन्या मा बस्छ र जिमोन भारत मा बस्छ। केन्या मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि राहुल केन्या मा बस्छ है, तो इसका मतलब है कि जिमोन भारत मा भी बस्छ है। इसलिए, जिमोन",राहुल,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference. The question asks who lives in Kenya, and the assistant should have answered ""राहुल"" (Rahul). Instead, the assistant provides an incomplete and incorrect response.
+
+Rating: [[4]]"
+राहुल केन्या मा बस्छ र जिमोन भारत मा बस्छ। भारत मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि राहुल केन्या मा बस्छ है और जिमोन भारत मा बस्छ है, तो यह संकेत देता है कि भारत मा भी बस",जिमोन,Nepali,"The assistant's response is in the same language as the reference (Hindi) but does not fully align with the reference. The answer is incomplete and does not clearly state that Jimon lives in India, which is the correct answer based on the reference.
+
+Rating: [[1]]"
+राहुल थाइल्याण्ड मा बस्छ र सोमचाई भारत मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, राहुल थाइल्याण्ड मा बस्छ है। दिए गए जानकारी के अनुसार, राहुल थाइल्याण्ड मा का बस्छ है, जो भारत मा है।",राहुल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it contains a factual error by stating that Thailand is in India. However, the core of the answer is correct, as it identifies Rahul as living in Thailand.
+
+Rating: [[1]]"
+राहुल थाइल्याण्ड मा बस्छ र सोमचाई भारत मा बस्छ। भारत मा को बस्छ?,"हां, भारत मा बस्छ है। दिए गए जानकारी के अनुसार, राहुल थाइल्याण्ड मा बस्छ है, और सोमचाई भारत मा है। इसलिए, भार",सोमचाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided does correctly answer the question.
+
+Rating: [[1]]"
+ली वेई रूस मा बस्छ र सर्गेई चीन मा बस्छ। रूस मा को बस्छ?,"हाँ, रूस मा बस्छ है। दिए गए जानकारी के अनुसार, ली वेई रूस मा बस्छ है, इसलिए रूस मा भी बस्छ है।",ली वेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Lee Wei lives in Russia.
+
+Rating: [[1]]"
+ली वेई रूस मा बस्छ र सर्गेई चीन मा बस्छ। चीन मा को बस्छ?,"हाँ, चीन मा बस्छ है। दिए गए जानकारी के अनुसार, सर्गेई चीन मा बस्छ है, इसलिए यह स्पष्ट है कि चीन मा भी बस्छ है",सर्गेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Serge lives in China based on the information given.
+
+Rating: [[1]]"
+ली वेई साउदी अरेबिया मा बस्छ र अब्दुलाजिज चीन मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हां, ली वेई साउदी अरेबिया मा बस्छ है। यह प्रश्न स्पष्टता के साथ एक सरल संदर्भ को समझने के लिए है, जैसे कि किसी व्यक",ली वेई,Nepali,"The assistant's response starts in the same language as the reference (Nepali) but then switches to Hindi, which is a different language. The response also aligns with the reference but is incomplete and confusing. However, since the response is not entirely in the same language as the reference, it should be rated as follows:
+
+Rating: [[3]]"
+ली वेई साउदी अरेबिया मा बस्छ र अब्दुलाजिज चीन मा बस्छ। चीन मा को बस्छ?,"हाँ, चीन मा बस्छ है। इस जानकारी को साझा करने से, हमने जानकारी के आधार पर यह निष्कर्ष निकाला जा सकता है कि चीन मा बस्छ",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference but does not clearly and directly answer the question. The response is somewhat vague and does not explicitly state that Abdulaziz lives in China, which is the information the question is asking for.
+
+Rating: [[4]]"
+ली वेई फ्रान्स मा बस्छ र गेब्रियल चीन मा बस्छ। फ्रान्स मा को बस्छ?,"यदि ली वेई फ्रान्स मा बस्छ है और गेब्रियल चीन मा बस्छ है, तो फ्रान्स मा बस्छ होना सही है। यह इसलिए है क्योंकि",ली वेई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly answer the question. The response is somewhat aligned with the reference but is not precise and clear.
+
+Rating: [[3]]"
+ली वेई फ्रान्स मा बस्छ र गेब्रियल चीन मा बस्छ। चीन मा को बस्छ?,"चीन मा बस्छ हो गया है। यदि ली वेई फ्रान्स मा बस्छ है, और चीन मा ली वेई की तरह है, तो चीन मा भी बस्छ होना चाहिए।",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference but does not clearly and directly answer the question. The response is somewhat confusing and does not align well with the reference provided.
+
+Rating: [[4]]"
+ली वेई नेपाल मा बस्छ र बहादुर चीन मा बस्छ। नेपाल मा को बस्छ?,"हाँ, नेपाल मा बस्छ है। दिए गए जानकारी के अनुसार, ली वेई नेपाल मा बस्छ है, इसलिए नेपाल मा बस्छ है। चीन मा बस्",ली वेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ली वेई नेपाल मा बस्छ र बहादुर चीन मा बस्छ। चीन मा को बस्छ?,"हाँ, चीन मा बस्छ है। यदि ली वेई नेपाल मा बस्छ है, तो इसका उल्लेख करने से यह संकेत मिलता है कि चीन मा भी बस्छ है।",बहादुर,Nepali,"The assistant's response is in the same language as the reference but does not clearly and directly answer the question. The response is somewhat confusing and does not align well with the reference provided.
+
+Rating: [[4]]"
+ली वेई जापान मा बस्छ र हारुतो चीन मा बस्छ। जापान मा को बस्छ?,"यदि ली वेई जापान मा बस्छ है और हारुतो चीन मा बस्छ है, तो यह मानते हुए कि दोनों को ""बस्छ"" का मतलब समान है, तो हारुतो",ली वेई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not fully align with the reference, as it does not clearly answer the question about who lives in Japan.
+
+Rating: [[3]]"
+ली वेई जापान मा बस्छ र हारुतो चीन मा बस्छ। चीन मा को बस्छ?,"यदि ली वेई जापान मा बस्छ है और हारुतो चीन मा बस्छ है, तो यह मानते हुए कि दोनों के स्थान समान हैं, तो हारुतो चीन मा भी",हारुतो,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) but aligns with the reference. The assistant correctly identifies that Haruto lives in China, which is consistent with the reference.
+
+Rating: [[3]]"
+ली वेई युक्रेन मा बस्छ र निकोलाई चीन मा बस्छ। युक्रेन मा को बस्छ?,"यदि ली वेई युक्रेन मा बस्छ है और निकोलाई चीन मा बस्छ है, तो यह दर्शाता है कि निकोलाई चीन मा भी बस्छ है। यह जानकार",ली वेई,Nepali,"The assistant's response is in a different language (Hindi) and does not align with the reference provided, as it fails to answer the question correctly and is incomplete.
+
+Rating: [[4]]"
+ली वेई युक्रेन मा बस्छ र निकोलाई चीन मा बस्छ। चीन मा को बस्छ?,"यदि ली वेई युक्रेन मा बस्छ है और निकोलाई चीन मा बस्छ है, तो यह निष्कर्ष निकालने के लिए कि चीन मा बस्छ है, हमें",निकोलाई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly answer the question. The response is incomplete and does not align with the reference.
+
+Rating: [[4]]"
+ली वेई ग्रीस मा बस्छ र मारिया चीन मा बस्छ। ग्रीस मा को बस्छ?,"हाँ, ली वेई ग्रीस मा बस्छ है। दिए गए जानकारी के अनुसार, ली वेई ग्रीस मा बस्छ है, जबकि मारिया चीन मा बस्छ नहीं ह",ली वेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it contains a minor error at the end where it says ""मारिया चीन मा बस्छ नहीं ह"" which is incomplete. However, the main part of the answer is correct and in the same language as the reference.
+
+Rating: [[1]]"
+ली वेई ग्रीस मा बस्छ र मारिया चीन मा बस्छ। चीन मा को बस्छ?,"हाँ, चीन मा बस्छ है। दिए गए जानकारी के अनुसार, ली वेई ग्रीस मा बस्छ है, और चीन मा बस्छ भी है।",मारिया,Nepali,"The assistant's response is in the same language as the reference (Hindi) but does not clearly answer the question. The response is somewhat aligned with the reference but is not precise. However, since it does not directly state who lives in China, it is not fully aligned with the reference.
+
+Rating: [[4]]"
+ली वेई टर्की मा बस्छ र मुस्तफा चीन मा बस्छ। टर्की मा को बस्छ?,"यदि ली वेई टर्की मा बस्छ है और मुस्तफा चीन मा बस्छ है, तो टर्की मा भी बस्छ है। यह तार्किक दृष्टिकोण है कि यदि दोन",ली वेई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly answer the question. The response is also incomplete and confusing.
+
+Rating: [[4]]"
+ली वेई टर्की मा बस्छ र मुस्तफा चीन मा बस्छ। चीन मा को बस्छ?,"हाँ, चीन मा बस्छ है। दिए गए जानकारी के अनुसार, ली वेई टर्की मा बस्छ है, इसलिए चीन मा बस्छ नहीं होगा। बस्छ क",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference (Hindi) but does not fully align with the reference. The assistant correctly identifies that Lee Wei is not in China but fails to complete the sentence to state who is in China, which is Mustafa. The response is partially correct but incomplete.
+
+Rating: [[1]]"
+ली वेई केन्या मा बस्छ र जिमोन चीन मा बस्छ। केन्या मा को बस्छ?,"हाँ, ली वेई केन्या मा बस्छ है। दिए गए जानकारी के अनुसार, ली वेई केन्या मा बस्छ है, जबकि जिमोन चीन मा बस्छ नहीं",ली वेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ली वेई केन्या मा बस्छ र जिमोन चीन मा बस्छ। चीन मा को बस्छ?,"हाँ, चीन मा बस्छ है। दिए गए जानकारी के अनुसार, जिमोन चीन मा बस्छ है, इसलिए यह स्पष्ट है कि चीन मा बस्छ है।",जिमोन,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ली वेई थाइल्याण्ड मा बस्छ र सोमचाई चीन मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, ली वेई थाइल्याण्ड मा बस्छ है। यदि आपके पास यह जानकारी है कि ली वेई थाइल्याण्ड मा बस्छ, तो यह स्पष्ट है कि ली व",ली वेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided does correctly answer the question.
+
+Rating: [[1]]"
+ली वेई थाइल्याण्ड मा बस्छ र सोमचाई चीन मा बस्छ। चीन मा को बस्छ?,"हाँ, चीन मा बस्छ है। यदि ली वेई थाइल्याण्ड मा बस्छ है और सोमचाई चीन मा उसका पड़ोसी है, तो सोमचाई चीन मा भी बस",सोमचाई,Nepali,"The assistant's response is in a language other than the one used in the reference (Nepali) and partially aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[3]]"
+सर्गेई साउदी अरेबिया मा बस्छ र अब्दुलाजिज रूस मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हां, सर्गेई साउदी अरेबिया मा बस्छ है। दिए गए वाक्य में, ""साउदी अरेबिया मा बस्छ"" संकेत देता है कि सर्गेई साउदी",सर्गेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+सर्गेई साउदी अरेबिया मा बस्छ र अब्दुलाजिज रूस मा बस्छ। रूस मा को बस्छ?,"हां, रूस मा बस्छ है। सर्गेई साउदी अरेबिया मा और अब्दुलाजिज रूस मा दो अलग-अलग व्यक्ति हैं। यदि आप इसे एक संदर्भ या प",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference but does not directly answer the question. The response is somewhat related but does not clearly state that Abdulaziz lives in Russia, which is what the question asks.
+
+Rating: [[4]]"
+सर्गेई फ्रान्स मा बस्छ र गेब्रियल रूस मा बस्छ। फ्रान्स मा को बस्छ?,"सर्गेई फ्रान्स मा बस्छ हो सकता है, लेकिन गेब्रियल रूस मा बस्छ नहीं हो सकता। बस्छ एक संज्ञा है जो एक व्यक्ति को",सर्गेई,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant starts to answer the question but then diverges into an unrelated explanation about the word ""बस्छ"" (lives). The assistant should have clearly stated that ""सर्गेई फ्रान्स मा बस्छ"" (Sergei lives in France).
+
+Rating: [[4]]"
+सर्गेई फ्रान्स मा बस्छ र गेब्रियल रूस मा बस्छ। रूस मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि सर्गेई फ्रान्स मा बस्छ है, तो रूस मा भी बस्छ होना चाहिए, क्योंकि दोनों को ""मा बस्",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have clearly stated that Gabriel lives in Russia based on the information given.
+
+Rating: [[4]]"
+सर्गेई नेपाल मा बस्छ र बहादुर रूस मा बस्छ। नेपाल मा को बस्छ?,"सर्गेई नेपाल मा बस्छ होने की बात कह रहा है, इसलिए नेपाल मा बस्छ है। रूस मा बस्छ की बात नहीं की गई और इसलिए",सर्गेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that सर्गेई (Sergei) lives in Nepal.
+
+Rating: [[1]]"
+सर्गेई नेपाल मा बस्छ र बहादुर रूस मा बस्छ। रूस मा को बस्छ?,"यदि सर्गेई नेपाल मा बस्छ है, और रूस मा बस्छ है, तो दोनों मा बस्छ हैं। इसलिए, रूस मा भी बस्छ है। यह समस्या को स्",बहादुर,Nepali,"The assistant's response is in a language that is not the same as the reference (Hindi instead of Nepali) and does not align with the reference. The response is also incomplete and does not clearly answer the question.
+
+Rating: [[4]]"
+सर्गेई जापान मा बस्छ र हारुतो रूस मा बस्छ। जापान मा को बस्छ?,"सर्गेई जापान मा बस्छ है, और हारुतो रूस मा बस्छ नहीं है। इसलिए, जापान मा बस्छ है।",सर्गेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+सर्गेई जापान मा बस्छ र हारुतो रूस मा बस्छ। रूस मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि सर्गेई जापान मा बस्छ है, तो रूस मा भी बस्छ होना चाहिए, क्योंकि यह दोनों को बस्छ कर",हारुतो,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have identified that Haruto lives in Russia based on the given information.
+
+Rating: [[4]]"
+सर्गेई युक्रेन मा बस्छ र निकोलाई रूस मा बस्छ। युक्रेन मा को बस्छ?,"यदि सर्गेई युक्रेन मा बस्छ है, और निकोलाई रूस मा बस्छ है, तो यह भी सच है कि युक्रेन मा बस्छ है। यह स्थिति एक सम",सर्गेई,Nepali,"The assistant's response is in the same language as the reference but does not clearly and concisely answer the question. The response is somewhat confusing and does not directly state that Sergey lives in Ukraine, which is the correct answer based on the reference.
+
+Rating: [[4]]"
+सर्गेई युक्रेन मा बस्छ र निकोलाई रूस मा बस्छ। रूस मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि सर्गेई युक्रेन मा बस्छ है, तो रूस मा भी बस्छ होना चाहिए, क्योंकि यह दोनों को बस्छ",निकोलाई,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have clearly stated that Николай (Nikolai) lives in Russia based on the information given.
+
+Rating: [[4]]"
+सर्गेई ग्रीस मा बस्छ र मारिया रूस मा बस्छ। ग्रीस मा को बस्छ?,"सर्गेई ग्रीस मा बस्छ है। दिए गए जानकारी के आधार पर, हमें बताया गया है कि सर्गेई ग्रीस मा बस्छ है, और रूस मा बस्",सर्गेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+सर्गेई ग्रीस मा बस्छ र मारिया रूस मा बस्छ। रूस मा को बस्छ?,"हाँ, रूस मा बस्छ है। संदर्भ में, यदि सर्गेई ग्रीस मा बस्छ है, तो इसका उल्लेख करने पर रूस मा भी बस्छ होना उसके स",मारिया,Nepali,"The assistant's response is in the same language as the reference but does not clearly and accurately answer the question. The response is incomplete and confusing, not providing a clear answer to who lives in Russia.
+
+Rating: [[4]]"
+सर्गेई टर्की मा बस्छ र मुस्तफा रूस मा बस्छ। टर्की मा को बस्छ?,"सर्गेई टर्की मा बस्छ होने की बात कही गई है, इसलिए हम यह मान सकते हैं कि टर्की मा बस्छ है। इसलिए, टर्की मा बस्",सर्गेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided does correctly answer the question.
+
+Rating: [[1]]"
+सर्गेई टर्की मा बस्छ र मुस्तफा रूस मा बस्छ। रूस मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि सर्गेई टर्की मा बस्छ है, तो रूस मा भी बस्छ होना चाहिए, क्योंकि दोनों की पहचान एक स",मुस्तफा,Nepali,"The assistant's response is in a different language (Hindi) and does not align with the reference provided. The answer is incomplete and does not clearly state that Mustafa lives in Russia.
+
+Rating: [[4]]"
+सर्गेई केन्या मा बस्छ र जिमोन रूस मा बस्छ। केन्या मा को बस्छ?,"सर्गेई केन्या मा बस्छ है। यह जानकारी दी गई है कि सर्गेई केन्या मा बस्छ है, इसलिए यह सत्य है कि केन्या मा बस्छ।",सर्गेई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+सर्गेई केन्या मा बस्छ र जिमोन रूस मा बस्छ। रूस मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि सर्गेई केन्या मा बस्छ है, तो रूस मा भी बस्छ होना चाहिए, क्योंकि दोनों को ""मा बस्छ""",जिमोन,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that both individuals live in Russia, whereas the reference clearly states that Jimon lives in Russia.
+
+Rating: [[4]]"
+सर्गेई थाइल्याण्ड मा बस्छ र सोमचाई रूस मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, सर्गेई थाइल्याण्ड मा बस्छ था। यह जानकारी सर्गेई के नाम और उसके स्थान के बीच संबंध को दर्शाती है, जो बताता है क",सर्गेई,Nepali,"The assistant's response is in a mix of the same language (Nepali) and another language (Hindi), and it aligns with the reference but is incomplete and somewhat redundant.
+
+Rating: [[3]]"
+सर्गेई थाइल्याण्ड मा बस्छ र सोमचाई रूस मा बस्छ। रूस मा को बस्छ?,"हां, रूस मा बस्छ है। सर्गेई थाइल्याण्ड मा बस्छ का बयान दर्शाता है कि रूस मा बस्छ है, जो एक सर्गेई शब्द है जिसका अ",सोमचाई,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that ""सर्गेई थाइल्याण्ड मा बस्छ का बयान दर्शाता है कि रूस मा बस्छ है"" which is not true according to the reference. The correct answer should be ""सोमचाई"" as per the reference.
+
+Rating: [[4]]"
+अब्दुलाजिज फ्रान्स मा बस्छ र गेब्रियल साउदी अरेबिया मा बस्छ। फ्रान्स मा को बस्छ?,"हाँ, अब्दुलाजिज फ्रान्स मा बस्छ है। दिए गए जानकारी के आधार पर, यदि अब्दुलाजिज फ्रान्स मा बस्छ है, तो वह बस्छ है",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is somewhat redundant and could be more concise. However, it does correctly answer the question.
+
+Rating: [[1]]"
+अब्दुलाजिज फ्रान्स मा बस्छ र गेब्रियल साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हाँ, साउदी अरेबिया मा बस्छ है। दिए गए जानकारी के आधार पर, यदि अब्दुलाजिज फ्रान्स मा बस्छ है, तो साउदी अरेबिया म",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant did not complete the answer, leaving it unclear who lives in Saudi Arabia.
+
+Rating: [[4]]"
+अब्दुलाजिज नेपाल मा बस्छ र बहादुर साउदी अरेबिया मा बस्छ। नेपाल मा को बस्छ?,"हां, अब्दुलाजिज नेपाल मा बस्छ है। यदि आपने प्रदान किए गए जानकारी को देखा तो, यह स्पष्ट है कि अब्दुलाजिज नेपाल मा बस्छ ह",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+अब्दुलाजिज नेपाल मा बस्छ र बहादुर साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हाँ, साउदी अरेबिया मा बस्छ होगा। दिए गए संबंध के आधार पर, यदि अब्दुलाजिज नेपाल मा बस्छ है और बस्छ और बहादुर स",बहादुर,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The answer is incomplete and does not clearly state that Bahadur lives in Saudi Arabia.
+
+Rating: [[4]]"
+अब्दुलाजिज जापान मा बस्छ र हारुतो साउदी अरेबिया मा बस्छ। जापान मा को बस्छ?,"हाँ, अब्दुलाजिज जापान मा बस्छ है। यह संदर्भ में स्पष्टीकरण करता है कि अब्दुलाजिज जापान मा का पालन कर रहा है, जैसे कि एक ब",अब्दुलाजिज,Nepali,"The assistant's response is in a different language (Hindi) and partially aligns with the reference, but it is cut off and incomplete, making it difficult to fully evaluate. However, since it does not fully answer the question and is not in the same language as the reference, it should be penalized.
+
+Rating: [[3]]"
+अब्दुलाजिज जापान मा बस्छ र हारुतो साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हाँ, साउदी अरेबिया मा बस्छ है। दिए गए जानकारी के आधार पर, यदि अब्दुलाजिज जापान मा बस्छ है और साउदी अरेबिया जापा",हारुतो,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant started to answer the question but did not complete the sentence, leaving the answer unclear and incomplete.
+
+Rating: [[4]]"
+अब्दुलाजिज युक्रेन मा बस्छ र निकोलाई साउदी अरेबिया मा बस्छ। युक्रेन मा को बस्छ?,"यदि अब्दुलाजिज युक्रेन मा बस्छ है, और निकोलाई साउदी अरेबिया मा बस्छ है, तो यह दर्शाता है कि निकोलाई साउदी भी बस्",अब्दुलाजिज,Nepali,"The assistant's response is in a different language (Hindi) and does not fully align with the reference provided, as it does not clearly answer the question about who lives in Ukraine.
+
+Rating: [[3]]"
+अब्दुलाजिज युक्रेन मा बस्छ र निकोलाई साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हाँ, साउदी अरेबिया मा बस्छ है। दिए गए जानकारी के आधार पर, यदि अब्दुलाजिज युक्रेन मा बस्छ है, और निकोलाई साउदी",निकोलाई,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The answer is incomplete and does not clearly state that Николай (Nikolai) lives in Saudi Arabia.
+
+Rating: [[4]]"
+अब्दुलाजिज ग्रीस मा बस्छ र मारिया साउदी अरेबिया मा बस्छ। ग्रीस मा को बस्छ?,"हां, अब्दुलाजिज ग्रीस मा बस्छ है। दिए गए जानकारी के अनुसार, ग्रीस मा बस्छ और अरेबिया मा बस्छ दोनों हैं, लेकिन विशिष",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and somewhat unclear. However, it does correctly state that Abdulaziz lives in Greece, which is the key information requested.
+
+Rating: [[1]]"
+अब्दुलाजिज ग्रीस मा बस्छ र मारिया साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हाँ, साउदी अरेबिया मा बस्छ है। दिया गया जानकारी के आधार पर, यदि अब्दुलाजिज ग्रीस मा बस्छ है और साउदी अरेबिया मा अब्",मारिया,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant did not complete the answer, leaving it unclear who lives in Saudi Arabia. The response is cut off and does not provide a clear and complete answer to the question.
+
+Rating: [[4]]"
+अब्दुलाजिज टर्की मा बस्छ र मुस्तफा साउदी अरेबिया मा बस्छ। टर्की मा को बस्छ?,"यदि अब्दुलाजिज टर्की मा बस्छ है, और मुस्तफा साउदी अरेबिया मा बस्छ है, तो यह दर्शाता है कि दोनों को बस्छ होने का समा",अब्दुलाजिज,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not fully align with the reference, as it does not clearly answer the question. The response is cut off and does not provide a complete answer.
+
+Rating: [[3]]"
+अब्दुलाजिज टर्की मा बस्छ र मुस्तफा साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हां, यह समझ में आता है। यदि अब्दुलाजिज टर्की मा बस्छ है, और साउदी अरेबिया उसकी बस्ती है, तो साउदी अरेबिया भी बस्ती",मुस्तफा,Nepali,"The assistant's response is in a different language (Hindi) and does not align with the reference provided. The response is also incomplete and does not clearly answer the question.
+
+Rating: [[4]]"
+अब्दुलाजिज केन्या मा बस्छ र जिमोन साउदी अरेबिया मा बस्छ। केन्या मा को बस्छ?,"अब्दुलाजिज केन्या मा को बस्छ करता है, क्योंकि दिए गए जानकारी के अनुसार, अब्दुलाजिज केन्या मा और जिमोन साउदी अरेबिया म",अब्दुलाजिज,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Abdulajiz lives in Kenya.
+
+Rating: [[1]]"
+अब्दुलाजिज केन्या मा बस्छ र जिमोन साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हाँ, साउदी अरेबिया मा बस्छ है। दिया गया जानकारी के अनुसार, अब्दुलाजिज केन्या मा बस्छ है, और साउदी अरेबिया मा उससे",जिमोन,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant should have clearly stated that Jimon lives in Saudi Arabia, as per the reference. The response is incomplete and does not directly answer the question.
+
+Rating: [[4]]"
+अब्दुलाजिज थाइल्याण्ड मा बस्छ र सोमचाई साउदी अरेबिया मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, अब्दुलाजिज थाइल्याण्ड मा बस्छ था। यदि आपने प्रत्येक व्यक्ति को उनके स्थान के रूप में बताया, तो यह स्पष्ट है कि अब्दु",अब्दुलाजिज,Nepali,"The assistant's response is in a mixed language (Nepali and Hindi) and does not fully align with the reference provided, as it does not clearly answer the question.
+
+Rating: [[4]]"
+अब्दुलाजिज थाइल्याण्ड मा बस्छ र सोमचाई साउदी अरेबिया मा बस्छ। साउदी अरेबिया मा को बस्छ?,"हां, अब्दुलाजिज थाइल्याण्ड मा बस्छ के साथ साउदी अरेबिया मा बस्छ है। यदि किसी को बस्छ किया गया है, तो उसके पास बस्",सोमचाई,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unclear and does not directly answer the question.
+
+Rating: [[4]]"
+गेब्रियल नेपाल मा बस्छ र बहादुर फ्रान्स मा बस्छ। नेपाल मा को बस्छ?,"नेपाल मा बस्छ होना चाहिए, क्योंकि दिए गए जानकारी के अनुसार, गेब्रियल नेपाल मा बस्छ है और बहादुर फ्रान्स मा बस्छ",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+गेब्रियल नेपाल मा बस्छ र बहादुर फ्रान्स मा बस्छ। फ्रान्स मा को बस्छ?,"हाँ, फ्रान्स मा बस्छ है। दिए गए जानकारी के आधार पर, यदि गेब्रियल नेपाल मा बस्छ है, तो फ्रान्स मा भी बस्छ होना च",बहादुर,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant did not correctly identify that Bahadur lives in France.
+
+Rating: [[4]]"
+गेब्रियल जापान मा बस्छ र हारुतो फ्रान्स मा बस्छ। जापान मा को बस्छ?,"गेब्रियल जापान मा बस्छ है। यह जानकारी से यह निष्कर्ष निकाला जा सकता है कि जापान मा बस्छ है, जबकि हारुतो फ्रान्स मा बस्छ",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+गेब्रियल जापान मा बस्छ र हारुतो फ्रान्स मा बस्छ। फ्रान्स मा को बस्छ?,"हाँ, फ्रान्स मा बस्छ है। दिए गए जानकारी के अनुसार, गेब्रियल जापान मा बस्छ है, और फ्रान्स मा बस्छ है। इसलि",हारुतो,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Gabriel lives in France, when the question clearly asks who lives in France, and the reference indicates that Haruto lives in France.
+
+Rating: [[4]]"
+गेब्रियल युक्रेन मा बस्छ र निकोलाई फ्रान्स मा बस्छ। युक्रेन मा को बस्छ?,"यदि गेब्रियल युक्रेन मा बस्छ है, और निकोलाई फ्रान्स मा बस्छ है, तो यह दी गई जानकारी से युक्रेन मा को भी बस्छ होने",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+गेब्रियल युक्रेन मा बस्छ र निकोलाई फ्रान्स मा बस्छ। फ्रान्स मा को बस्छ?,"हाँ, फ्रान्स मा बस्छ है। दी गई जानकारी के अनुसार, गेब्रियल युक्रेन मा बस्छ है, और चूंकि फ्रान्स मा गेब्रियल की बस",निकोलाई,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Gabriel lives in Ukraine and then trails off without clearly answering the question.
+
+Rating: [[4]]"
+गेब्रियल ग्रीस मा बस्छ र मारिया फ्रान्स मा बस्छ। ग्रीस मा को बस्छ?,"हाँ, गेब्रियल ग्रीस मा बस्छ है। दिए गए जानकारी के अनुसार, गेब्रियल ग्रीस मा बस्छ है, जबकि मारिया फ्रान्स मा बस्छ",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+गेब्रियल ग्रीस मा बस्छ र मारिया फ्रान्स मा बस्छ। फ्रान्स मा को बस्छ?,"हाँ, फ्रान्स मा बस्छ है। दिए गए जानकारी के अनुसार, गेब्रियल ग्रीस मा बस्छ है, और फ्रान्स मा उसका पूर्ववर्ती ह",मारिया,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that Maria lives in France, but instead, the response is incomplete and does not clearly state the answer.
+
+Rating: [[4]]"
+गेब्रियल टर्की मा बस्छ र मुस्तफा फ्रान्स मा बस्छ। टर्की मा को बस्छ?,"गेब्रियल टर्की मा बस्छ होने की बात कही गई है, और इसलिए हम यह भी मान सकते हैं कि टर्की मा बस्छ है। इसलिए, यदि हम",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is not a clear and concise answer. However, it does not provide an unrelated response.
+
+Rating: [[1]]"
+गेब्रियल टर्की मा बस्छ र मुस्तफा फ्रान्स मा बस्छ। फ्रान्स मा को बस्छ?,"हाँ, फ्रान्स मा बस्छ है। दिए गए जानकारी के आधार पर, यदि गेब्रियल टर्की मा बस्छ है, तो फ्रान्स मा भी बस्छ होना च",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have clearly stated that Mustafa lives in France based on the information given.
+
+Rating: [[4]]"
+गेब्रियल केन्या मा बस्छ र जिमोन फ्रान्स मा बस्छ। केन्या मा को बस्छ?,"गेब्रियल केन्या मा बस्छ है। यह जानकारी दी गई है कि गेब्रियल केन्या मा बस्छ है, इसलिए हम यह भी जानते हैं कि केन्या मा",गेब्रियल,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+गेब्रियल केन्या मा बस्छ र जिमोन फ्रान्स मा बस्छ। फ्रान्स मा को बस्छ?,"दिए गए जानकारी के आधार पर, यदि गेब्रियल केन्या मा बस्छ है, और जिमोन फ्रान्स मा भी बस्छ है, तो फ्रान्स मा भी बस्",जिमोन,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question. However, since it does align and is in the correct language, it should not be rated as unrelated.
+
+Rating: [[1]]"
+गेब्रियल थाइल्याण्ड मा बस्छ र सोमचाई फ्रान्स मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, गेब्रियल थाइल्याण्ड मा बस्छ है। यदि आपने बताया है कि गेब्रियल थाइल्याण्ड मा बस्छ है, तो यह स्पष्ट रूप से बताता है",गेब्रियल,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and aligns with the reference, but it is not concise and adds unnecessary information.
+
+Rating: [[3]]"
+गेब्रियल थाइल्याण्ड मा बस्छ र सोमचाई फ्रान्स मा बस्छ। फ्रान्स मा को बस्छ?,"हां, फ्रान्स मा बस्छ है। गेब्रियल थाइल्याण्ड मा बस्छ है, और यह दोनों के बीच एक संबंध स्थापित करता है, जो यह दर्शाता",सोमचाई,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant fails to correctly identify who lives in France based on the information given in the question.
+
+Rating: [[4]]"
+बहादुर जापान मा बस्छ र हारुतो नेपाल मा बस्छ। जापान मा को बस्छ?,"बहादुर जापान मा को बस्छ करता है। दिए गए जानकारी के आधार पर, यदि हारुतो नेपाल मा बस्छ है, तो इसका मतलब है कि बहादुर जा",बहादुर,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided does correctly answer the question.
+
+Rating: [[1]]"
+बहादुर जापान मा बस्छ र हारुतो नेपाल मा बस्छ। नेपाल मा को बस्छ?,"हाँ, नेपाल मा बस्छ है। दिए गए जानकारी के आधार पर, यदि बहादुर जापान मा बस्छ है, तो उसकी विपरीत नेपाल मा बस्छ होना",हारुतो,Nepali,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the response is not clear and does not directly answer the question. The assistant should have clearly stated that Haruto lives in Nepal.
+
+Rating: [[1]]"
+बहादुर युक्रेन मा बस्छ र निकोलाई नेपाल मा बस्छ। युक्रेन मा को बस्छ?,"यदि बहादुर युक्रेन मा बस्छ है और निकोलाई नेपाल मा बस्छ है, तो यह मानते हुए कि बस्छ एक समान गुण या स्थिति का प्रति",बहादुर,Nepali,"The assistant's response is in the same language as the reference but does not fully answer the question. The response is incomplete and does not clearly state that Bahadur lives in Ukraine.
+
+Rating: [[4]]"
+बहादुर युक्रेन मा बस्छ र निकोलाई नेपाल मा बस्छ। नेपाल मा को बस्छ?,"हाँ, नेपाल मा बस्छ है। दिए गए जानकारी के आधार पर, यदि बहादुर युक्रेन मा बस्छ है और निकोलाई नेपाल मा बस्छ है, तो",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+बहादुर ग्रीस मा बस्छ र मारिया नेपाल मा बस्छ। ग्रीस मा को बस्छ?,"बहादुर ग्रीस मा बस्छ है। दिए गए जानकारी के आधार पर, यदि बहादुर ग्रीस मा बस्छ है, तो इसलिए ग्रीस मा भी बस्छ है। ने",बहादुर,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Bahadur lives in Greece based on the information given.
+
+Rating: [[1]]"
+बहादुर ग्रीस मा बस्छ र मारिया नेपाल मा बस्छ। नेपाल मा को बस्छ?,"हाँ, नेपाल मा बस्छ है। दिए गए जानकारी के आधार पर, यदि बहादुर ग्रीस मा बस्छ है और मारिया नेपाल मा बस्छ है, तो नेपा",मारिया,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided does correctly state that Maria lives in Nepal.
+
+Rating: [[1]]"
+बहादुर टर्की मा बस्छ र मुस्तफा नेपाल मा बस्छ। टर्की मा को बस्छ?,"यदि बहादुर टर्की मा बस्छ है और मुस्तफा नेपाल मा बस्छ है, तो यह मानते हुए कि बस्छ एक समान गुण या स्थिति है जो दोनो",बहादुर,Nepali,"The assistant's response is in the same language as the reference (Nepali) but does not fully align with the reference. The answer is incomplete and does not clearly state that Bahadur lives in Turkey, which is the correct answer based on the reference.
+
+Rating: [[1]]"
+बहादुर टर्की मा बस्छ र मुस्तफा नेपाल मा बस्छ। नेपाल मा को बस्छ?,"हाँ, नेपाल मा बस्छ है। दिए गए जानकारी के आधार पर, यदि बहादुर टर्की मा बस्छ है, तो इसका मतलब है कि नेपाल मा भी बस्",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant should have clearly stated that Mustafa lives in Nepal, as per the question.
+
+Rating: [[4]]"
+बहादुर केन्या मा बस्छ र जिमोन नेपाल मा बस्छ। केन्या मा को बस्छ?,"बहादुर केन्या मा को बस्छ होना प्रतीत होता है, क्योंकि दिए गए जानकारी के अनुसार, बहादुर केन्या मा बस्छ है। जिमोन नेपाल म",बहादुर,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+बहादुर केन्या मा बस्छ र जिमोन नेपाल मा बस्छ। नेपाल मा को बस्छ?,"यदि बहादुर केन्या मा बस्छ है और जिमोन नेपाल मा भी बस्छ है, तो नेपाल मा भी बस्छ होना मान्य होता है। इसलिए, नेपाल मा",जिमोन,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is not a complete answer. It should have clearly stated that Jimon lives in Nepal. However, since it does align and is in the same language, it deserves a score of 1, but with a slight deduction for not being fully clear and concise.
+
+Rating: [[1]]"
+बहादुर थाइल्याण्ड मा बस्छ र सोमचाई नेपाल मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, थाइल्याण्ड मा बस्छ था। दिए गए जानकारी के अनुसार, बहादुर थाइल्याण्ड मा बस्छ है, इसलिए यह सत्य है कि थाइल्",बहादुर,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+बहादुर थाइल्याण्ड मा बस्छ र सोमचाई नेपाल मा बस्छ। नेपाल मा को बस्छ?,"हां, नेपाल मा बस्छ है। दिए गए जानकारी के अनुसार, सोमचाई नेपाल मा बस्छ है, इसलिए नेपाल मा भी बस्छ है।",सोमचाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+हारुतो युक्रेन मा बस्छ र निकोलाई जापान मा बस्छ। युक्रेन मा को बस्छ?,"हारुतो युक्रेन मा को बस्छ होगा, क्योंकि दिए गए जानकारी के अनुसार, युक्रेन मा बस्छ है। निकोलाई जापान मा बस्छ नहीं है",हारुतो,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+हारुतो युक्रेन मा बस्छ र निकोलाई जापान मा बस्छ। जापान मा को बस्छ?,"हारुतो युक्रेन मा बस्छ हो गई है, और निकोलाई जापान मा भी बस्छ हो गई है। इसलिए, जापान मा बस्छ है।",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is somewhat redundant and could be more concise. However, it does correctly identify that Nikołaj (Николай) lives in Japan.
+
+Rating: [[1]]"
+हारुतो ग्रीस मा बस्छ र मारिया जापान मा बस्छ। ग्रीस मा को बस्छ?,"हारुतो ग्रीस मा बस्छ हो गई है, जिसका मतलब है कि ग्रीस मा अब बस्छ नहीं है। इसलिए, ग्रीस मा बस्छ नहीं है। जापान मा बस",हारुतो,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Haruto is no longer living in Greece, which contradicts the information given in the reference.
+
+Rating: [[4]]"
+हारुतो ग्रीस मा बस्छ र मारिया जापान मा बस्छ। जापान मा को बस्छ?,"हारुतो ग्रीस मा बस्छ हो गई है, और जापान मा भी बस्छ हो गई है। इसलिए, जापान मा बस्छ है।",मारिया,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Haruto also lives in Japan, which is not true according to the reference.
+
+Rating: [[4]]"
+हारुतो टर्की मा बस्छ र मुस्तफा जापान मा बस्छ। टर्की मा को बस्छ?,"यदि हारुतो टर्की मा बस्छ है और मुस्तफा जापान मा बस्छ है, तो यह दर्शाता है कि टर्की मा और जापान मा दोनों बस्छ नहीं ह",हारुतो,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly align with the reference. The response is confusing and does not directly answer the question.
+
+Rating: [[4]]"
+हारुतो टर्की मा बस्छ र मुस्तफा जापान मा बस्छ। जापान मा को बस्छ?,"हारुतो टर्की मा बस्छ होने के बावजूद, यदि हम जापान मा को भी बस्छ मानते हैं, तो दोनों हारुतो टर्की और जापान मा बस्छ होंगे",मुस्तफा,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not align with the reference. The assistant incorrectly states that Haruto lives in Turkey and Japan, while the reference clearly states that Mustafa lives in Japan.
+
+Rating: [[4]]"
+हारुतो केन्या मा बस्छ र जिमोन जापान मा बस्छ। केन्या मा को बस्छ?,"हारुतो केन्या मा को बस्छ होगा, क्योंकि दिए गए जानकारी के अनुसार, हारुतो केन्या मा जिमोन जापान मा से बस्छ है।",हारुतो,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+हारुतो केन्या मा बस्छ र जिमोन जापान मा बस्छ। जापान मा को बस्छ?,"हारुतो केन्या मा बस्छ हो गई है, लेकिन जापान मा अभी भी बस्छ है। यदि आप जापान मा को भी बस्छ करने की मांग कर रहे हैं, तो आ",जिमोन,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is incomplete and does not clearly state who lives in Japan.
+
+Rating: [[4]]"
+हारुतो थाइल्याण्ड मा बस्छ र सोमचाई जापान मा बस्छ। थाइल्याण्ड मा को बस्छ?,हारुतो थाइल्याण्ड मा को बस्छ करता है। यह स्पष्टीकरण प्रत्येक व्यक्ति की गतिविधि को दर्शाता है: हारुतो जापान मा से बस्छ जा,हारुतो,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that Haruto lives in Japan, while the question clearly states that Haruto lives in Thailand.
+
+Rating: [[4]]"
+हारुतो थाइल्याण्ड मा बस्छ र सोमचाई जापान मा बस्छ। जापान मा को बस्छ?,"हारुतो थाइल्याण्ड मा बस्छ र सोमचाई जापान मा भी बस्छ। इसलिए, जापान मा बस्छ है।",सोमचाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes an unnecessary repetition and a slight grammatical error. However, the core answer is correct.
+
+Rating: [[1]]"
+निकोलाई ग्रीस मा बस्छ र मारिया युक्रेन मा बस्छ। ग्रीस मा को बस्छ?,"निकोलाई ग्रीस मा बस्छ है और मारिया युक्रेन मा बस्छ है। इसलिए, निकोलाई ग्रीस मा बस्छ है।",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+निकोलाई ग्रीस मा बस्छ र मारिया युक्रेन मा बस्छ। युक्रेन मा को बस्छ?,"यदि निकोलाई ग्रीस मा बस्छ है और युक्रेन मा बस्छ है, तो युक्रेन मा बस्छ होना स्पष्ट रूप से स्पष्ट है। यह समस्या को स्प",मारिया,Nepali,"The assistant's response is in a different language (Hindi) and does not clearly answer the question. The response is confusing and does not align with the reference provided.
+
+Rating: [[4]]"
+निकोलाई टर्की मा बस्छ र मुस्तफा युक्रेन मा बस्छ। टर्की मा को बस्छ?,"निकोलाई टर्की मा बस्छ है, जो पहले से ही दी गई जानकारी को दर्शाता है। यदि टर्की मा बस्छ है, तो मुस्तफा युक्रेन मा भी ब",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided is correct.
+
+Rating: [[1]]"
+निकोलाई टर्की मा बस्छ र मुस्तफा युक्रेन मा बस्छ। युक्रेन मा को बस्छ?,"यदि निकोलाई टर्की मा बस्छ है, और युक्रेन मा भी बस्छ है, तो युक्रेन मा बस्छ ही है। यह जानकारी प्रश्न का समाधान प्रदान",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference but does not clearly and directly answer the question. The response is somewhat confusing and does not align well with the reference provided.
+
+Rating: [[4]]"
+निकोलाई केन्या मा बस्छ र जिमोन युक्रेन मा बस्छ। केन्या मा को बस्छ?,"निकोलाई केन्या मा बस्छ है, जो पहले से बताया गया है। इसलिए, यह सत्य है कि निकोलाई केन्या मा बस्छ।",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+निकोलाई केन्या मा बस्छ र जिमोन युक्रेन मा बस्छ। युक्रेन मा को बस्छ?,"यदि निकोलाई केन्या मा बस्छ है और जिमोन युक्रेन मा भी बस्छ है, तो युक्रेन मा भी बस्छ होना मानता है। यह स्थिति स्पष्ट र",जिमोन,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly align with the reference. The response is also incomplete and does not directly answer the question.
+
+Rating: [[4]]"
+निकोलाई थाइल्याण्ड मा बस्छ र सोमचाई युक्रेन मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, निकोलाई थाइल्याण्ड मा बस्छ है। दिए गए जानकारी के अनुसार, निकोलाई थाइल्याण्ड मा का पालन करती है, जिसका मतलब ह",निकोलाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+निकोलाई थाइल्याण्ड मा बस्छ र सोमचाई युक्रेन मा बस्छ। युक्रेन मा को बस्छ?,"यदि निकोलाई थाइल्याण्ड मा बस्छ है और सोमचाई युक्रेन मा बस्छ है, तो यह निष्कर्ष निकालने के लिए कि युक्रेन मा बस्",सोमचाई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not fully align with the reference, as it does not complete the answer to the question.
+
+Rating: [[3]]"
+मारिया टर्की मा बस्छ र मुस्तफा ग्रीस मा बस्छ। टर्की मा को बस्छ?,"हाँ, मारिया टर्की मा बस्छ है। दिया गया जानकारी के अनुसार, टर्की मा बस्छ है, इसलिए यदि आप पूछ रहे हैं कि टर्की मा बस",मारिया,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+मारिया टर्की मा बस्छ र मुस्तफा ग्रीस मा बस्छ। ग्रीस मा को बस्छ?,"हां, ग्रीस मा बस्छ है। दिया गया जानकारी के अनुसार, मारिया टर्की मा बस्छ है, और यह दोनों की स्थिति को समझाता है। इसलि",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant should have directly answered that Mustafa lives in Greece, instead of providing a partially complete and somewhat vague response.
+
+Rating: [[4]]"
+मारिया केन्या मा बस्छ र जिमोन ग्रीस मा बस्छ। केन्या मा को बस्छ?,"मारिया केन्या मा को बस्छ है। दिया गया जानकारी से यह निष्कर्ष निकाला जा सकता है कि मारिया केन्या मा बस्छ है, जो इस प्रकार",मारिया,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided. The answer correctly identifies that Maria lives in Kenya, which is consistent with the information given in the reference.
+
+Rating: [[1]]"
+मारिया केन्या मा बस्छ र जिमोन ग्रीस मा बस्छ। ग्रीस मा को बस्छ?,"जब आपने बताया कि मारिया केन्या मा बस्छ है और जिमोन ग्रीस मा भी बस्छ है, तो समस्या से पता चलता है कि ग्रीस मा बस्छ है। य",जिमोन,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not clearly state the answer. However, since it does align and is in the correct language, it should not receive the lowest score.
+
+Rating: [[1]]"
+मारिया थाइल्याण्ड मा बस्छ र सोमचाई ग्रीस मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, मारिया थाइल्याण्ड मा बस्छ है। यदि मारिया थाइल्याण्ड मा बस्छ है, तो इसका मतलब है कि वह बस्छ है, जो ग्रीस मा बस्",मारिया,Nepali,"The assistant's response is in a different language (Nepali) and aligns with the reference provided.
+
+Rating: [[3]]"
+मारिया थाइल्याण्ड मा बस्छ र सोमचाई ग्रीस मा बस्छ। ग्रीस मा को बस्छ?,"हां, ग्रीस मा बस्छ है। दिए गए जानकारी के अनुसार, मारिया थाइल्याण्ड मा बस्छ है, और सोमचाई ग्रीस मा बस्छ है। इस",सोमचाई,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question. However, since it does align and is in the correct language, it should not be penalized too harshly.
+
+Rating: [[1]]"
+मुस्तफा केन्या मा बस्छ र जिमोन टर्की मा बस्छ। केन्या मा को बस्छ?,"दी गई जानकारी के आधार पर, यदि मुस्तफा केन्या मा बस्छ है, तो इसका अर्थ है कि जिमोन टर्की मा भी बस्छ है। तो, जिमोन टर्क",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have identified that Mustafa lives in Kenya, but instead, it started to discuss Jimon, who is not the subject of the question.
+
+Rating: [[4]]"
+मुस्तफा केन्या मा बस्छ र जिमोन टर्की मा बस्छ। टर्की मा को बस्छ?,"यदि मुस्तफा केन्या मा बस्छ है, और जिमोन टर्की मा भी बस्छ है, तो दोनों टर्की मा बस्छ होते हैं। इसलिए, टर्की मा बस्",जिमोन,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not align with the reference. The assistant incorrectly states that both Mustafa and Jimon live in Turkey, while the reference only mentions Jimon living in Turkey.
+
+Rating: [[4]]"
+मुस्तफा थाइल्याण्ड मा बस्छ र सोमचाई टर्की मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, थाइल्याण्ड मा बस्छ है। दिए गए जानकारी के अनुसार, मुस्तफा थाइल्याण्ड मा बस्छ है, इसलिए थाइल्याण्ड मा बस",मुस्तफा,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+मुस्तफा थाइल्याण्ड मा बस्छ र सोमचाई टर्की मा बस्छ। टर्की मा को बस्छ?,"यदि मुस्तफा थाइल्याण्ड मा बस्छ है और सोमचाई टर्की मा बस्छ है, तो यह निष्कर्ष निकालने के लिए कि टर्की मा बस्छ है",सोमचाई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) and does not clearly answer the question. The response is incomplete and does not align with the reference.
+
+Rating: [[4]]"
+जिमोन थाइल्याण्ड मा बस्छ र सोमचाई केन्या मा बस्छ। थाइल्याण्ड मा को बस्छ?,"हां, जिमोन थाइल्याण्ड मा बस्छ है। दिए गए जानकारी के अनुसार, जिमोन थाइल्याण्ड मा बस्छ है, इसलिए यह सत्य है कि जि",जिमोन,Nepali,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+जिमोन थाइल्याण्ड मा बस्छ र सोमचाई केन्या मा बस्छ। केन्या मा को बस्छ?,"जिमोन थाइल्याण्ड मा बस्छ है और सोमचाई केन्या मा भी बस्छ है। इसलिए, केन्या मा बस्छ है।",सोमचाई,Nepali,"The assistant's response is in a different language (Hindi) than the reference (Nepali) but aligns with the reference. The assistant correctly identifies that Somchai lives in Kenya, which is in line with the reference.
+
+Rating: [[3]]"

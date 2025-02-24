@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+David lives in India and Rahul lives in United States. Who lives in India?,David lives in India.,David,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in India and Rahul lives in United States. Who lives in United States?,Rahul lives in the United States.,Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in China and Li Wei lives in United States. Who lives in China?,David lives in China.,David,English,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in China and Li Wei lives in United States. Who lives in United States?,Li Wei lives in the United States.,Li Wei,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Russia and Sergey lives in United States. Who lives in Russia?,David lives in Russia.,David,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Russia and Sergey lives in United States. Who lives in United States?,Sergey lives in the United States.,Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Saudi Arabia and Abdulaziz lives in United States. Who lives in Saudi Arabia?,David lives in Saudi Arabia.,David,English,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Saudi Arabia and Abdulaziz lives in United States. Who lives in United States?,Abdulaziz lives in the United States.,Abdulaziz,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in France and Gabriel lives in United States. Who lives in France?,David lives in France.,David,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in France and Gabriel lives in United States. Who lives in United States?,Gabriel lives in the United States.,Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Nepal and Bahadur lives in United States. Who lives in Nepal?,David lives in Nepal.,David,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Nepal and Bahadur lives in United States. Who lives in United States?,Bahadur lives in the United States.,Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Japan and Haruto lives in United States. Who lives in Japan?,David lives in Japan.,David,English,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Japan and Haruto lives in United States. Who lives in United States?,Haruto lives in the United States.,Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Ukraine and Nykolai lives in United States. Who lives in Ukraine?,David lives in Ukraine.,David,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Ukraine and Nykolai lives in United States. Who lives in United States?,Nykolai lives in the United States.,Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Greece and Maria lives in United States. Who lives in Greece?,David lives in Greece.,David,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Greece and Maria lives in United States. Who lives in United States?,Maria lives in the United States.,Maria,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Turkey and Mustafa lives in United States. Who lives in Turkey?,David lives in Turkey.,David,English,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Turkey and Mustafa lives in United States. Who lives in United States?,Mustafa lives in the United States.,Mustafa,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Kenya and Djimon lives in United States. Who lives in Kenya?,David lives in Kenya.,David,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Kenya and Djimon lives in United States. Who lives in United States?,Djimon lives in the United States.,Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Thailand and Somchai lives in United States. Who lives in Thailand?,David lives in Thailand.,David,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David lives in Thailand and Somchai lives in United States. Who lives in United States?,Somchai lives in the United States.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in China and Li Wei lives in India. Who lives in China?,Rahul lives in China.,Rahul,English,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in China and Li Wei lives in India. Who lives in India?,Li Wei lives in India.,Li Wei,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Russia and Sergey lives in India. Who lives in Russia?,Rahul lives in Russia.,Rahul,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Russia and Sergey lives in India. Who lives in India?,Sergey lives in India.,Sergey,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Saudi Arabia and Abdulaziz lives in India. Who lives in Saudi Arabia?,Rahul lives in Saudi Arabia.,Rahul,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Saudi Arabia and Abdulaziz lives in India. Who lives in India?,Abdulaziz lives in India.,Abdulaziz,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in France and Gabriel lives in India. Who lives in France?,Rahul lives in France.,Rahul,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in France and Gabriel lives in India. Who lives in India?,Gabriel lives in India.,Gabriel,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Nepal and Bahadur lives in India. Who lives in Nepal?,Rahul lives in Nepal.,Rahul,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Nepal and Bahadur lives in India. Who lives in India?,Bahadur lives in India.,Bahadur,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Japan and Haruto lives in India. Who lives in Japan?,Rahul lives in Japan.,Rahul,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Japan and Haruto lives in India. Who lives in India?,Haruto lives in India.,Haruto,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Ukraine and Nykolai lives in India. Who lives in Ukraine?,Rahul lives in Ukraine.,Rahul,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Ukraine and Nykolai lives in India. Who lives in India?,Nykolai lives in India.,Nykolai,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Greece and Maria lives in India. Who lives in Greece?,Rahul lives in Greece.,Rahul,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Greece and Maria lives in India. Who lives in India?,Maria lives in India.,Maria,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Turkey and Mustafa lives in India. Who lives in Turkey?,Rahul lives in Turkey.,Rahul,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Turkey and Mustafa lives in India. Who lives in India?,Mustafa lives in India.,Mustafa,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Kenya and Djimon lives in India. Who lives in Kenya?,Rahul lives in Kenya.,Rahul,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Kenya and Djimon lives in India. Who lives in India?,Djimon lives in India.,Djimon,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Thailand and Somchai lives in India. Who lives in Thailand?,Rahul lives in Thailand.,Rahul,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul lives in Thailand and Somchai lives in India. Who lives in India?,Somchai lives in India.,Somchai,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei lives in Russia and Sergey lives in China. Who lives in Russia?,"Li Wei lives in Russia. The question directly states that Li Wei resides in Russia, while Sergey lives in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Russia and Sergey lives in China. Who lives in China?,"Sergey lives in China. The instruction provides the information needed to answer the question directly. Li Wei lives in Russia, so by process of elimination, Sergey is the one who lives in China.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Saudi Arabia and Abdulaziz lives in China. Who lives in Saudi Arabia?,Li Wei lives in Saudi Arabia.,Li Wei,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Saudi Arabia and Abdulaziz lives in China. Who lives in China?,"Abdulaziz lives in China. The instruction provides the information needed to answer the question directly. Li Wei resides in Saudi Arabia, while Abdulaziz is the individual who lives in China.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in France and Gabriel lives in China. Who lives in France?,"Li Wei lives in France. The question directly states that Li Wei resides in France, while Gabriel lives in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in France and Gabriel lives in China. Who lives in China?,"Gabriel lives in China. The instruction provides the information needed to answer the question directly. Li Wei lives in France, so by process of elimination, Gabriel is the one who lives in China.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Nepal and Bahadur lives in China. Who lives in Nepal?,Li Wei lives in Nepal.,Li Wei,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei lives in Nepal and Bahadur lives in China. Who lives in China?,"Bahadur lives in China. The instruction provides the information needed to answer the question directly. Li Wei resides in Nepal, while Bahadur resides in China.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Japan and Haruto lives in China. Who lives in Japan?,"Li Wei lives in Japan. The question directly states that Li Wei resides in Japan, while Haruto lives in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Japan and Haruto lives in China. Who lives in China?,"Haruto lives in China. The instruction provides the information needed to answer the question directly. Li Wei is mentioned as living in Japan, so by process of elimination, Haruto is the one who lives in China.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Ukraine and Nykolai lives in China. Who lives in Ukraine?,Li Wei lives in Ukraine.,Li Wei,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei lives in Ukraine and Nykolai lives in China. Who lives in China?,Nykolai lives in China.,Nykolai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Greece and Maria lives in China. Who lives in Greece?,"Li Wei lives in Greece. The question directly states that Li Wei resides in Greece, while Maria lives in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Greece and Maria lives in China. Who lives in China?,"Maria lives in China. The instruction provides the information needed to answer the question directly. Li Wei lives in Greece, so by process of elimination, Maria is the one who lives in China.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Turkey and Mustafa lives in China. Who lives in Turkey?,"Li Wei lives in Turkey. The question directly states that Li Wei resides in Turkey, while Mustafa lives in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Turkey and Mustafa lives in China. Who lives in China?,"Mustafa lives in China. The instruction provides the information needed to answer the question directly. Li Wei is mentioned as living in Turkey, while Mustafa is stated to be in China.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Kenya and Djimon lives in China. Who lives in Kenya?,Li Wei lives in Kenya.,Li Wei,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei lives in Kenya and Djimon lives in China. Who lives in China?,Djimon lives in China.,Djimon,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Thailand and Somchai lives in China. Who lives in Thailand?,"Li Wei lives in Thailand. The question directly states that Li Wei resides in Thailand, while Somchai lives in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Thailand and Somchai lives in China. Who lives in China?,Somchai lives in China.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Saudi Arabia and Abdulaziz lives in Russia. Who lives in Saudi Arabia?,Sergey lives in Saudi Arabia.,Sergey,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Saudi Arabia and Abdulaziz lives in Russia. Who lives in Russia?,Abdulaziz lives in Russia.,Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in France and Gabriel lives in Russia. Who lives in France?,Sergey lives in France.,Sergey,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergey lives in France and Gabriel lives in Russia. Who lives in Russia?,Gabriel lives in Russia.,Gabriel,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Nepal and Bahadur lives in Russia. Who lives in Nepal?,Sergey lives in Nepal.,Sergey,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergey lives in Nepal and Bahadur lives in Russia. Who lives in Russia?,Bahadur lives in Russia.,Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Japan and Haruto lives in Russia. Who lives in Japan?,Sergey lives in Japan.,Sergey,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Japan and Haruto lives in Russia. Who lives in Russia?,Haruto lives in Russia.,Haruto,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Ukraine and Nykolai lives in Russia. Who lives in Ukraine?,Sergey lives in Ukraine.,Sergey,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Ukraine and Nykolai lives in Russia. Who lives in Russia?,Nykolai lives in Russia.,Nykolai,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergey lives in Greece and Maria lives in Russia. Who lives in Greece?,Sergey lives in Greece.,Sergey,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Greece and Maria lives in Russia. Who lives in Russia?,Maria lives in Russia.,Maria,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergey lives in Turkey and Mustafa lives in Russia. Who lives in Turkey?,Sergey lives in Turkey.,Sergey,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergey lives in Turkey and Mustafa lives in Russia. Who lives in Russia?,Mustafa lives in Russia.,Mustafa,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Kenya and Djimon lives in Russia. Who lives in Kenya?,Sergey lives in Kenya.,Sergey,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Kenya and Djimon lives in Russia. Who lives in Russia?,Djimon lives in Russia.,Djimon,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Thailand and Somchai lives in Russia. Who lives in Thailand?,Sergey lives in Thailand.,Sergey,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Thailand and Somchai lives in Russia. Who lives in Russia?,Somchai lives in Russia.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in France and Gabriel lives in Saudi Arabia. Who lives in France?,Abdulaziz lives in France.,Abdulaziz,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in France and Gabriel lives in Saudi Arabia. Who lives in Saudi Arabia?,Gabriel lives in Saudi Arabia.,Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Nepal and Bahadur lives in Saudi Arabia. Who lives in Nepal?,Abdulaziz lives in Nepal.,Abdulaziz,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdulaziz lives in Nepal and Bahadur lives in Saudi Arabia. Who lives in Saudi Arabia?,Bahadur lives in Saudi Arabia.,Bahadur,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdulaziz lives in Japan and Haruto lives in Saudi Arabia. Who lives in Japan?,Abdulaziz lives in Japan.,Abdulaziz,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Japan and Haruto lives in Saudi Arabia. Who lives in Saudi Arabia?,Haruto lives in Saudi Arabia.,Haruto,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdulaziz lives in Ukraine and Nykolai lives in Saudi Arabia. Who lives in Ukraine?,Abdulaziz lives in Ukraine.,Abdulaziz,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Ukraine and Nykolai lives in Saudi Arabia. Who lives in Saudi Arabia?,Nykolai lives in Saudi Arabia.,Nykolai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Greece and Maria lives in Saudi Arabia. Who lives in Greece?,Abdulaziz lives in Greece.,Abdulaziz,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Greece and Maria lives in Saudi Arabia. Who lives in Saudi Arabia?,Maria lives in Saudi Arabia.,Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Turkey and Mustafa lives in Saudi Arabia. Who lives in Turkey?,Abdulaziz lives in Turkey.,Abdulaziz,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdulaziz lives in Turkey and Mustafa lives in Saudi Arabia. Who lives in Saudi Arabia?,Mustafa lives in Saudi Arabia.,Mustafa,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdulaziz lives in Kenya and Djimon lives in Saudi Arabia. Who lives in Kenya?,Abdulaziz lives in Kenya.,Abdulaziz,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdulaziz lives in Kenya and Djimon lives in Saudi Arabia. Who lives in Saudi Arabia?,Djimon lives in Saudi Arabia.,Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Thailand and Somchai lives in Saudi Arabia. Who lives in Thailand?,Abdulaziz lives in Thailand.,Abdulaziz,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdulaziz lives in Thailand and Somchai lives in Saudi Arabia. Who lives in Saudi Arabia?,Somchai lives in Saudi Arabia.,Somchai,English,"The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Gabriel lives in Nepal and Bahadur lives in France. Who lives in Nepal?,Gabriel lives in Nepal.,Gabriel,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel lives in Nepal and Bahadur lives in France. Who lives in France?,Bahadur lives in France.,Bahadur,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Japan and Haruto lives in France. Who lives in Japan?,Gabriel lives in Japan.,Gabriel,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Japan and Haruto lives in France. Who lives in France?,Haruto lives in France.,Haruto,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Ukraine and Nykolai lives in France. Who lives in Ukraine?,Gabriel lives in Ukraine.,Gabriel,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Ukraine and Nykolai lives in France. Who lives in France?,Nykolai lives in France.,Nykolai,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel lives in Greece and Maria lives in France. Who lives in Greece?,Gabriel lives in Greece.,Gabriel,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel lives in Greece and Maria lives in France. Who lives in France?,Maria lives in France.,Maria,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Turkey and Mustafa lives in France. Who lives in Turkey?,Gabriel lives in Turkey.,Gabriel,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel lives in Turkey and Mustafa lives in France. Who lives in France?,Mustafa lives in France.,Mustafa,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Kenya and Djimon lives in France. Who lives in Kenya?,Gabriel lives in Kenya.,Gabriel,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Kenya and Djimon lives in France. Who lives in France?,Djimon lives in France.,Djimon,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel lives in Thailand and Somchai lives in France. Who lives in Thailand?,Gabriel lives in Thailand.,Gabriel,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Thailand and Somchai lives in France. Who lives in France?,Somchai lives in France.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Japan and Haruto lives in Nepal. Who lives in Japan?,Bahadur lives in Japan.,Bahadur,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Japan and Haruto lives in Nepal. Who lives in Nepal?,Haruto lives in Nepal.,Haruto,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur lives in Ukraine and Nykolai lives in Nepal. Who lives in Ukraine?,Bahadur lives in Ukraine.,Bahadur,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Ukraine and Nykolai lives in Nepal. Who lives in Nepal?,Nykolai lives in Nepal.,Nykolai,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur lives in Greece and Maria lives in Nepal. Who lives in Greece?,"The instruction provided already states that Bahadur lives in Greece. Therefore, the answer to the question ""Who lives in Greece?"" is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Greece and Maria lives in Nepal. Who lives in Nepal?,Maria lives in Nepal.,Maria,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur lives in Turkey and Mustafa lives in Nepal. Who lives in Turkey?,"The instruction provided already states that Bahadur lives in Turkey. Therefore, the answer to the question ""Who lives in Turkey?"" is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Turkey and Mustafa lives in Nepal. Who lives in Nepal?,Mustafa lives in Nepal.,Mustafa,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur lives in Kenya and Djimon lives in Nepal. Who lives in Kenya?,"The instruction asks to identify the person living in Kenya. The given information states that Bahadur lives in Kenya. Therefore, the answer is Bahadur. Djimon, who lives in Nepal, is not the person living in Kenya.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Kenya and Djimon lives in Nepal. Who lives in Nepal?,Djimon lives in Nepal.,Djimon,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur lives in Thailand and Somchai lives in Nepal. Who lives in Thailand?,"The instruction provided already states that Bahadur lives in Thailand. Therefore, the answer to the question ""Who lives in Thailand?"" is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Thailand and Somchai lives in Nepal. Who lives in Nepal?,Somchai lives in Nepal.,Somchai,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto lives in Ukraine and Nykolai lives in Japan. Who lives in Ukraine?,Haruto lives in Ukraine.,Haruto,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Ukraine and Nykolai lives in Japan. Who lives in Japan?,Nykolai lives in Japan.,Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Greece and Maria lives in Japan. Who lives in Greece?,"Haruto lives in Greece. The question directly states that Haruto resides in Greece, while it also mentions that Maria lives in Japan. Therefore, the answer to the question is Haruto.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Greece and Maria lives in Japan. Who lives in Japan?,Maria lives in Japan.,Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Turkey and Mustafa lives in Japan. Who lives in Turkey?,"The question asks for the identification of the person living in Turkey. According to the information provided, Haruto lives in Turkey. Therefore, the answer is Haruto.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Turkey and Mustafa lives in Japan. Who lives in Japan?,Mustafa lives in Japan.,Mustafa,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Kenya and Djimon lives in Japan. Who lives in Kenya?,Haruto lives in Kenya.,Haruto,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto lives in Kenya and Djimon lives in Japan. Who lives in Japan?,Djimon lives in Japan.,Djimon,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto lives in Thailand and Somchai lives in Japan. Who lives in Thailand?,"The question directly states that Haruto lives in Thailand. Therefore, the answer is Haruto.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Thailand and Somchai lives in Japan. Who lives in Japan?,Somchai lives in Japan.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Greece and Maria lives in Ukraine. Who lives in Greece?,Nykolai lives in Greece.,Nykolai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Greece and Maria lives in Ukraine. Who lives in Ukraine?,Maria lives in Ukraine.,Maria,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai lives in Turkey and Mustafa lives in Ukraine. Who lives in Turkey?,"The question directly states that Nykolai lives in Turkey. Therefore, the answer is Nykolai.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Turkey and Mustafa lives in Ukraine. Who lives in Ukraine?,Mustafa lives in Ukraine.,Mustafa,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Kenya and Djimon lives in Ukraine. Who lives in Kenya?,Nykolai lives in Kenya.,Nykolai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Kenya and Djimon lives in Ukraine. Who lives in Ukraine?,Djimon lives in Ukraine.,Djimon,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Thailand and Somchai lives in Ukraine. Who lives in Thailand?,"The question directly states that Nykolai lives in Thailand. Therefore, the answer is Nykolai.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Thailand and Somchai lives in Ukraine. Who lives in Ukraine?,Somchai lives in Ukraine.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Turkey and Mustafa lives in Greece. Who lives in Turkey?,Maria lives in Turkey.,Maria,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Maria lives in Turkey and Mustafa lives in Greece. Who lives in Greece?,Mustafa lives in Greece.,Mustafa,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Kenya and Djimon lives in Greece. Who lives in Kenya?,Maria lives in Kenya.,Maria,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Maria lives in Kenya and Djimon lives in Greece. Who lives in Greece?,Djimon lives in Greece.,Djimon,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Maria lives in Thailand and Somchai lives in Greece. Who lives in Thailand?,Maria lives in Thailand.,Maria,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Maria lives in Thailand and Somchai lives in Greece. Who lives in Greece?,Somchai lives in Greece.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Mustafa lives in Kenya and Djimon lives in Turkey. Who lives in Kenya?,Mustafa lives in Kenya.,Mustafa,English,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa lives in Kenya and Djimon lives in Turkey. Who lives in Turkey?,Djimon lives in Turkey.,Djimon,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Mustafa lives in Thailand and Somchai lives in Turkey. Who lives in Thailand?,Mustafa lives in Thailand.,Mustafa,English,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa lives in Thailand and Somchai lives in Turkey. Who lives in Turkey?,Somchai lives in Turkey.,Somchai,English,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Djimon lives in Thailand and Somchai lives in Kenya. Who lives in Thailand?,Djimon lives in Thailand.,Djimon,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Djimon lives in Thailand and Somchai lives in Kenya. Who lives in Kenya?,Somchai lives in Kenya.,Somchai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"

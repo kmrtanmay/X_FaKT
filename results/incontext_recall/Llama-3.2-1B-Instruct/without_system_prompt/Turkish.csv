@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+Davut Hindistan'de yaşıyor ve Rahul Amerika Birleşik Devletleri'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the assistant provides a population statistic instead of answering the question.
+
+Rating: [[4]]"
+Davut Hindistan'de yaşıyor ve Rahul Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 235 milyon  6 milyon  74 bin  5 bin  9 bin  7 bin  8 bin  9 bin  10 bin  11 bin  12 bin  13 bin  14 bin  15 bin  16 bin  17 bin  18 bin  19 bin  20 bin  21 bin  22 bin  23 bin  24 bin  25 bin  26 bin  27 bin  28 bin  29 bin",Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated and does not address the question about who lives in the United States.
+
+Rating: [[4]]"
+Davut Çin'de yaşıyor ve Li Wei Amerika Birleşik Devletleri'de yaşıyor. Çin'de kim yaşıyor?,Davut Çin'de 25 yaşını doldurmuş ve 2023 yılında Amerika Birleşik Devletleri'ne moving over 5.000 miles (8.000 km) uzakta living.,Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant added information not present in the reference and did not directly answer the question.
+
+Rating: [[4]]"
+Davut Çin'de yaşıyor ve Li Wei Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 235 milyon  6 milyon  8 milyon  7 milyon  8 milyon  9 milyon  10 milyon  11 milyon  12 milyon  13 milyon  14 milyon  15 milyon  16 milyon  17 milyon  18 milyon  19 milyon  20 milyon  21 milyon  22 milyon  23 milyon  24 milyon  25 milyon  26 milyon  27 milyon  28 milyon  29 milyon  30 milyon  31 milyon",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Li Wei"" instead of listing a series of numbers.
+
+Rating: [[4]]"
+Davut Rusya'de yaşıyor ve Sergey Amerika Birleşik Devletleri'de yaşıyor. Rusya'de kim yaşıyor?,"Rusya'da 2023 yılında 49 yaşındayken, Amerika Birleşik Devletleri'de 2023 yılında 67 yaşındayken.",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Davut"" as the person living in Russia.
+
+Rating: [[4]]"
+Davut Rusya'de yaşıyor ve Sergey Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 331,4 milyonluk nüfusa 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated and does not address the question about who lives in the United States.
+
+Rating: [[4]]"
+Davut Suudi Arabistan'de yaşıyor ve Abdülaziz Amerika Birleşik Devletleri'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Suudi Arabistan'da, 2023 yılına kadar 11,5 milyondan fazla insan yaşıyor.",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who is living in Saudi Arabia between Davut and Abdülaziz, and the assistant provides a general fact about the population of Saudi Arabia instead of answering the question directly.
+
+Rating: [[4]]"
+Davut Suudi Arabistan'de yaşıyor ve Abdülaziz Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 0,3 milyon 331 milyon (331 milyon) insan yaşıyor.",Abdülaziz,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Davut Fransa'de yaşıyor ve Cebrail Amerika Birleşik Devletleri'de yaşıyor. Fransa'de kim yaşıyor?,"Davut Çakır, 1990'lar daireleri ile 2000'li yıllarda Amerika Birleşik Devletleri'ne living in ve 2010'lar daireleri ile 2020'lar daireleri ile 2023 yılında 35 yaşını doldurmuştur.",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer given is unrelated to the question asked, which is about who lives in France.
+
+Rating: [[4]]"
+Davut Fransa'de yaşıyor ve Cebrail Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 331,4 milyonluk nüfusa 331,4 milyonluk bir nüfus yoğunluğunda 2023 yılında 213,8 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 milyonluk bir nüfus yoğunluğunda 331,4 mily",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated and does not address the question about who lives in the United States.
+
+Rating: [[4]]"
+Davut Nepal'de yaşıyor ve Bahadır Amerika Birleşik Devletleri'de yaşıyor. Nepal'de kim yaşıyor?,"Davut Nepal, 1990'lar dairelerindeki bir aylarını Amerika Birleşik Devletleri'de geçirdi.",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Davut"" as per the reference.
+
+Rating: [[4]]"
+Davut Nepal'de yaşıyor ve Bahadır Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 1,449.8 milyonluk bir nüfusa sahip olan 331 million people'dir.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who lives in the United States, and the correct answer should be ""Bahadır."" Instead, the assistant provides a general statement about the population of the United States.
+
+Rating: [[4]]"
+Davut Japonya'de yaşıyor ve Haruto Amerika Birleşik Devletleri'de yaşıyor. Japonya'de kim yaşıyor?,Japonya'da 2023 yılında 14 yaşını doldurmuş olan 2.5 milyon 7 milyon 7 milyon insan yaşıyor.,Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Japan, and the assistant provides a population statistic instead of the name ""Davut.""
+
+Rating: [[4]]"
+Davut Japonya'de yaşıyor ve Haruto Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 0,3 milyon 81 milyon 7 milyon 7 bin 5 bin 8 bin 8 bin 5 bin 8 bin 8 bin 7 bin 8 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin 7 bin",Haruto,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is not relevant to the question asked.
+
+Rating: [[4]]"
+Davut Ukrayna'de yaşıyor ve Nikolai Amerika Birleşik Devletleri'de yaşıyor. Ukrayna'de kim yaşıyor?,Ukrayna'da 2023 yılına kadar 40 million people.,Davut,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Davut Ukrayna'de yaşıyor ve Nikolai Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 235.8 milyondan fazla insan yaşıyor.",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not answer the specific question about who lives in the United States.
+
+Rating: [[4]]"
+Davut Yunanistan'de yaşıyor ve Meryem Amerika Birleşik Devletleri'de yaşıyor. Yunanistan'de kim yaşıyor?,"Amerika Birleşik Devletleri'de 2023 yılında 78 yaşındayken, Yunanistan'da ise 82 yaşındayken yaşıyor.",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer given is unrelated to the question asked, as it provides age information instead of answering who lives in Greece.
+
+Rating: [[4]]"
+Davut Yunanistan'de yaşıyor ve Meryem Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 2,4 milyarın üzerinde insan yaşamaktadır.",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who is living in the United States, and the answer should have been ""Meryem.""
+
+Rating: [[4]]"
+Davut Türkiye'de yaşıyor ve Mustafa Amerika Birleşik Devletleri'de yaşıyor. Türkiye'de kim yaşıyor?,"Amerika Birleşik Devletleri'de 2023 yılında 46,5 milyon 81 milyon  7,8 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon  7 milyon",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated to the question asked.
+
+Rating: [[4]]"
+Davut Türkiye'de yaşıyor ve Mustafa Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta 331,4 milyonluk nüfusta",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated and does not address the question about who lives in the United States.
+
+Rating: [[4]]"
+Davut Kenya'de yaşıyor ve Djimon Amerika Birleşik Devletleri'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 1990'lar daireleri ile 2000'lar daireleri arasında living in Kenya'da.",Davut,Turkish,"The assistant's response is in a mixed language and does not align with the reference provided. It also contains irrelevant information.
+
+Rating: [[4]]"
+Davut Kenya'de yaşıyor ve Djimon Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Djimon, 4 yaşını Amerika Birleşik Devletleri'de geçirdi.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The response provides additional information about Djimon but does not clearly state that Djimon lives in the United States, which is what the question asks.
+
+Rating: [[4]]"
+Davut Tayland'de yaşıyor ve Somçay Amerika Birleşik Devletleri'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da 2023 yılında 35 yaşındayken, Amerika Birleşik Devletleri'de 4 yaşındayken.",Davut,Turkish,"The assistant's response does not align with the reference provided. It does not answer the question about who lives in Thailand.
+
+Rating: [[4]]"
+Davut Tayland'de yaşıyor ve Somçay Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Amerika Birleşik Devletleri'de, 2023 yılı itibariyle 2,4 milyarın üzerinde insan yaşamaktadır.",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who lives in the United States, and the answer should have been ""Somçay."" Instead, the assistant provided a general statement about the population of the United States.
+
+Rating: [[4]]"
+Rahul Çin'de yaşıyor ve Li Wei Hindistan'de yaşıyor. Çin'de kim yaşıyor?,"Hindistan'da 2023 yılında 25 yaşını geçirmiş olan Rahul, Çin'de 2023 yılında 25 yaşını geçirmiş olan Li Wei'dir.",Rahul,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided. The answer should have been ""Rahul"" as per the reference.
+
+Rating: [[4]]"
+Rahul Çin'de yaşıyor ve Li Wei Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer should be ""Li Wei."" The assistant's response about the population of India is unrelated to the question.
+
+Rating: [[4]]"
+Rahul Rusya'de yaşıyor ve Sergey Hindistan'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey, 1990'lar da 2000'lar arasında Rusya'da 20 yaşını geçirmiş.",Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who is living in Russia, and the correct answer should be Rahul, not Sergey.
+
+Rating: [[4]]"
+Rahul Rusya'de yaşıyor ve Sergey Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer should be Sergey. The assistant's response about the population of India is unrelated to the question.
+
+Rating: [[4]]"
+Rahul Suudi Arabistan'de yaşıyor ve Abdülaziz Hindistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Suudi Arabistan'da, 2023 yılına kadar 38 yaşındayken, 2023 yılına kadar 35 yaşındayken Hindistan'da yaşıyor.",Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is confusing and does not directly answer the question.
+
+Rating: [[4]]"
+Rahul Suudi Arabistan'de yaşıyor ve Abdülaziz Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Abdülaziz,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Rahul Fransa'de yaşıyor ve Cebrail Hindistan'de yaşıyor. Fransa'de kim yaşıyor?,"Fransa'da, 2023 yılında 64 yaşındayken, Hindistan'da 57 yaşındayken yaşıyor.",Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Rahul"" as the one living in France.
+
+Rating: [[4]]"
+Rahul Fransa'de yaşıyor ve Cebrail Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer should be Cebrail, not a statement about the population of India.
+
+Rating: [[4]]"
+Rahul Nepal'de yaşıyor ve Bahadır Hindistan'de yaşıyor. Nepal'de kim yaşıyor?,"Rahul Nepal, 1990'lar da 2000'lar arasında Nepal'de doğmuştur.",Rahul,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided, as it gives information about Rahul's birth in Nepal rather than answering who lives in Nepal.
+
+Rating: [[4]]"
+Rahul Nepal'de yaşıyor ve Bahadır Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Rahul Japonya'de yaşıyor ve Haruto Hindistan'de yaşıyor. Japonya'de kim yaşıyor?,Rahul Japonya'da 25-30 yaş aralığındadır.,Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Japan, and the assistant's response provides an unrelated statement about Rahul's age.
+
+Rating: [[4]]"
+Rahul Japonya'de yaşıyor ve Haruto Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Haruto,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer should be ""Haruto."" The assistant's response about the population of India is unrelated to the question.
+
+Rating: [[4]]"
+Rahul Ukrayna'de yaşıyor ve Nikolai Hindistan'de yaşıyor. Ukrayna'de kim yaşıyor?,"İki country'da yaşayan iki farklı insan, Nikolai ve Rahul Ukrayna'da yaşıyor.",Rahul,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided, as it incorrectly states that both Nikolai and Rahul live in Ukraine.
+
+Rating: [[4]]"
+Rahul Ukrayna'de yaşıyor ve Nikolai Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Nikolai"" as per the reference.
+
+Rating: [[4]]"
+Rahul Yunanistan'de yaşıyor ve Meryem Hindistan'de yaşıyor. Yunanistan'de kim yaşıyor?,Rahul Yunanistan'da 25-30 yaş aralığındadır.,Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Greece (Yunanistan), and the correct answer should be Rahul. However, the assistant provides information about Rahul's age, which is not relevant to the question.
+
+Rating: [[4]]"
+Rahul Yunanistan'de yaşıyor ve Meryem Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Meryem,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Rahul Türkiye'de yaşıyor ve Mustafa Hindistan'de yaşıyor. Türkiye'de kim yaşıyor?,"Türkiye'de 2023 yılına kadar 84,5 milyon insan yaşıyor.",Rahul,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Rahul Türkiye'de yaşıyor ve Mustafa Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Rahul Kenya'de yaşıyor ve Djimon Hindistan'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 1990'lar da 2000'lar arasında Kenya'da doğdu.",Rahul,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The question asks who lives in Kenya, and the correct answer should be Rahul, but the assistant's response talks about Djimon being born in Kenya, which is not relevant to the question.
+
+Rating: [[4]]"
+Rahul Kenya'de yaşıyor ve Djimon Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Djimon, 1990'lar da 2000'lar arasında Hindistan'da living.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have stated that Djimon lives in India, but the response is unclear and includes unnecessary information.
+
+Rating: [[4]]"
+Rahul Tayland'de yaşıyor ve Somçay Hindistan'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da, 2023 yılında 35 yaşındayken, Hindistan'da 38 yaşındayken yaşıyor.",Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Rahul"" as per the reference.
+
+Rating: [[4]]"
+Rahul Tayland'de yaşıyor ve Somçay Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Hindistan'da 2023 yılına kadar 1,3 billion people.",Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Li Wei Rusya'de yaşıyor ve Sergey Çin'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey Rusya, 1990'lar da 2000'lar arasında living in Russia'da.",Li Wei,Turkish,"The assistant's response is in a mixed language and does not align with the reference provided. It also does not answer the question correctly.
+
+Rating: [[4]]"
+Li Wei Rusya'de yaşıyor ve Sergey Çin'de yaşıyor. Çin'de kim yaşıyor?,Sergey Çin'de 16 yaşındadır.,Sergey,Turkish,"The assistant's response is in the same language as the reference and the question, but it does not align with the reference. The assistant should have stated that Sergey lives in China, but instead, it provided an irrelevant detail about Sergey's age.
+
+Rating: [[4]]"
+Li Wei Suudi Arabistan'de yaşıyor ve Abdülaziz Çin'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Suudi Arabistan'da, 2017'de 38 yaşındayken, 2019'da 35 yaşındayken ve 2023'de 38 yaşındayken yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer given is not relevant to the question asked.
+
+Rating: [[4]]"
+Li Wei Suudi Arabistan'de yaşıyor ve Abdülaziz Çin'de yaşıyor. Çin'de kim yaşıyor?,"Li Wei Suudi, 2013'te Çin'de doğdu.",Abdülaziz,Turkish,"The assistant's response does not align with the reference provided. The question asks who lives in China, and the correct answer based on the reference is Abdülaziz. The assistant's response instead provides incorrect information about Li Wei.
+
+Rating: [[4]]"
+Li Wei Fransa'de yaşıyor ve Cebrail Çin'de yaşıyor. Fransa'de kim yaşıyor?,"Fransa'da, 2023 yılında 64 yaşındayken, Çin'de 57 yaşındayken yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Li Wei"" as the person living in France.
+
+Rating: [[4]]"
+Li Wei Fransa'de yaşıyor ve Cebrail Çin'de yaşıyor. Çin'de kim yaşıyor?,"Cebrail Çin'in 2023'te 64 yaşındayken, Li Wei Fransa'da yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language as the reference and mentions that Cebrail lives in China, which aligns with the reference. However, the additional information about Cebrail's age and Li Wei's location is not relevant to the question asked.
+
+Rating: [[1]]"
+Li Wei Nepal'de yaşıyor ve Bahadır Çin'de yaşıyor. Nepal'de kim yaşıyor?,"Nepal'de 2023 yılına kadar 8,5 milyondan fazla insan yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Li Wei Nepal'de yaşıyor ve Bahadır Çin'de yaşıyor. Çin'de kim yaşıyor?,"Li Wei, Çin'in Guangdong eyaletinde living'dir.",Bahadır,Turkish,"The assistant's response is in a different language (Turkish and English mixed) and does not align with the reference provided.
+
+Rating: [[4]]"
+Li Wei Japonya'de yaşıyor ve Haruto Çin'de yaşıyor. Japonya'de kim yaşıyor?,"Japonya'da 2023 yılında 64 yaşındayken, Çin'de 64 yaşındayken yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Li Wei"" as the person living in Japan.
+
+Rating: [[4]]"
+Li Wei Japonya'de yaşıyor ve Haruto Çin'de yaşıyor. Çin'de kim yaşıyor?,Li Wei Japonya'da 25 yaşındı ve Çin'de 30 yaşındı.,Haruto,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in China, and the correct answer should be Haruto. However, the assistant's response does not answer the question and instead provides irrelevant information about Li Wei's and Haruto's ages.
+
+Rating: [[4]]"
+Li Wei Ukrayna'de yaşıyor ve Nikolai Çin'de yaşıyor. Ukrayna'de kim yaşıyor?,"Ukrayna'da 2023 yılında 38 yaşındayken, Nikolai Nikolayevich Chernov, 38 yaşındayken Çin'de yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Li Wei"" as per the reference.
+
+Rating: [[4]]"
+Li Wei Ukrayna'de yaşıyor ve Nikolai Çin'de yaşıyor. Çin'de kim yaşıyor?,Nikolai Çin'in 64 yaşını geçmedi.,Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in China, and the correct answer should be Nikolai. However, the assistant's response does not answer the question and instead provides an unrelated statement about Nikolai's age.
+
+Rating: [[4]]"
+Li Wei Yunanistan'de yaşıyor ve Meryem Çin'de yaşıyor. Yunanistan'de kim yaşıyor?,Gürcistan'da yaşıyor.,Li Wei,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided.
+
+Rating: [[4]]"
+Li Wei Yunanistan'de yaşıyor ve Meryem Çin'de yaşıyor. Çin'de kim yaşıyor?,"Çin'de 2023 yılında 64 yaşındayken, Li Wei Yunanistan'da 64 yaşındayken Meryem Çin'de 64 yaşındayken.",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Meryem"" without the unnecessary and incorrect additional information.
+
+Rating: [[4]]"
+Li Wei Türkiye'de yaşıyor ve Mustafa Çin'de yaşıyor. Türkiye'de kim yaşıyor?,"Türkiye'de 2023 yılında 99,5 milyonun üzerinde insan yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who is living in Turkey, and the correct answer should be ""Li Wei."" The assistant's response, instead, provides a general fact about the population of Turkey, which is unrelated to the question.
+
+Rating: [[4]]"
+Li Wei Türkiye'de yaşıyor ve Mustafa Çin'de yaşıyor. Çin'de kim yaşıyor?,"Çin'de 2023 yılında 64 yaşını doldurmuş olan Li Wei, 2024 yılında 65 yaşını dolduracak.",Mustafa,Turkish,"The assistant's response is in the same language (Turkish) but does not align with the reference provided. The question asks who lives in China, and the correct answer should be ""Mustafa,"" but the assistant provides information about Li Wei's age, which is unrelated to the question.
+
+Rating: [[4]]"
+Li Wei Kenya'de yaşıyor ve Djimon Çin'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 35 yaşındadır.",Li Wei,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Li Wei Kenya'de yaşıyor ve Djimon Çin'de yaşıyor. Çin'de kim yaşıyor?,"Djimon, 1995 yılında Çin'de doğdu.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in China, and the assistant's response provides information about Djimon's birth year and place, which is not relevant to the question.
+
+Rating: [[4]]"
+Li Wei Tayland'de yaşıyor ve Somçay Çin'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da 2023 yılında 38 yaşındayken, 2024 yılında 39 yaşındayken ve 2025 yılında 40 yaşındayken yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Thailand, and the assistant's response does not answer this question.
+
+Rating: [[4]]"
+Li Wei Tayland'de yaşıyor ve Somçay Çin'de yaşıyor. Çin'de kim yaşıyor?,Li Wei Tayland'da 35 yaşındı.,Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Suudi Arabistan'de yaşıyor ve Abdülaziz Rusya'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,Süleyman bin Abdulaziz Saudi Arabia'da 80 yaşındadır.,Sergey,Turkish,"The assistant's response is in a different language (English) and does not align with the reference provided. The question asks who lives in Saudi Arabia, and the correct answer based on the reference should be Sergey. However, the assistant mentions Süleyman bin Abdulaziz, which is unrelated to the reference.
+
+Rating: [[4]]"
+Sergey Suudi Arabistan'de yaşıyor ve Abdülaziz Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey Suudi, 2014'te Rusya'ya sefere गए ve 2015'te Rusya'da 2 yıl geçirdi.",Abdülaziz,Turkish,"The assistant's response is in a mixed language (Turkish and Hindi) and does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Fransa'de yaşıyor ve Cebrail Rusya'de yaşıyor. Fransa'de kim yaşıyor?,"Sergey Fransa, 35 yaşındadır.",Sergey,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided, as it does not answer the question about who lives in France.
+
+Rating: [[4]]"
+Sergey Fransa'de yaşıyor ve Cebrail Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey Fransa, 35 yaşındadır.",Cebrail,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Nepal'de yaşıyor ve Bahadır Rusya'de yaşıyor. Nepal'de kim yaşıyor?,"Sergey Nepal, 35 yaşındadır.",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Nepal, and the correct answer should be Sergey. However, the assistant provides irrelevant information about Sergey's age, which is not mentioned in the reference.
+
+Rating: [[4]]"
+Sergey Nepal'de yaşıyor ve Bahadır Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey Nepal, 35 yaşındadır.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Japonya'de yaşıyor ve Haruto Rusya'de yaşıyor. Japonya'de kim yaşıyor?,Sergey Japonya'da 25 yaşındadır.,Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Japan, and the correct answer should be Sergey. However, the assistant provides an unrelated statement about Sergey's age.
+
+Rating: [[4]]"
+Sergey Japonya'de yaşıyor ve Haruto Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey Japonya, 1990'lar da 2000'lar arasında Rusya'da 20 yaşını geçirmiş.",Haruto,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Russia, and the correct answer should be Haruto, but the assistant talks about Sergey living in Japan and his age, which is irrelevant.
+
+Rating: [[4]]"
+Sergey Ukrayna'de yaşıyor ve Nikolai Rusya'de yaşıyor. Ukrayna'de kim yaşıyor?,"Sergey Ukrayna, 1990'lar da 2000'lar arasında Ukrayna'da living.",Sergey,Turkish,"The assistant's response is in a mixed language (partly in Turkish, partly in English) and does not clearly align with the reference provided. The answer should have been in Turkish and should have directly stated that Sergey lives in Ukraine.
+
+Rating: [[4]]"
+Sergey Ukrayna'de yaşıyor ve Nikolai Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey Ukrayna, 1990'lar da 2000'lar arasında Ukrayna'da doğdu.",Nikolai,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Yunanistan'de yaşıyor ve Meryem Rusya'de yaşıyor. Yunanistan'de kim yaşıyor?,Sergey Yunanistan'da 35 yaşındadır.,Sergey,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The question asks who lives in Greece (Yunanistan), and the assistant provides information about Sergey's age instead of confirming that Sergey lives in Greece.
+
+Rating: [[4]]"
+Sergey Yunanistan'de yaşıyor ve Meryem Rusya'de yaşıyor. Rusya'de kim yaşıyor?,Sergey Yunanistan'da 64 yaşındı ve Meryem Rusya'da 64 yaşındı.,Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Russia, and the correct answer should be ""Meryem."" The assistant's response provides unnecessary and incorrect information about the ages of Sergey and Meryem, which is not relevant to the question.
+
+Rating: [[4]]"
+Sergey Türkiye'de yaşıyor ve Mustafa Rusya'de yaşıyor. Türkiye'de kim yaşıyor?,"Sergey, 2023 yılında 35 yaşındadır.",Sergey,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Türkiye'de yaşıyor ve Mustafa Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Rusya'da, 2023 yılında 65 yaşını dolduran Sergey, 2024 yılında 66 yaşını doldu.",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Russia, and the correct answer should be Mustafa, not Sergey. 
+
+Rating: [[4]]"
+Sergey Kenya'de yaşıyor ve Djimon Rusya'de yaşıyor. Kenya'de kim yaşıyor?,"Sergey, 2013'te Rusya'ya seyahat etti.",Sergey,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Kenya'de yaşıyor ve Djimon Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey, 2013'te 32 yaşındı.",Djimon,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Sergey Tayland'de yaşıyor ve Somçay Rusya'de yaşıyor. Tayland'de kim yaşıyor?,"Sergey Tayland, 1970'lerde Rusya'da yaşıyor.",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Sergey is living in Russia in the 1970s, which contradicts the reference.
+
+Rating: [[4]]"
+Sergey Tayland'de yaşıyor ve Somçay Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Sergey Tayland, 2014'te Rusya'ya seyahat etti.",Somçay,Turkish,"The assistant's response does not answer the question and is not aligned with the reference provided. The question asks who lives in Russia, and the assistant provides information about Sergey traveling to Russia, which is not relevant to the question.
+
+Rating: [[4]]"
+Abdülaziz Fransa'de yaşıyor ve Cebrail Suudi Arabistan'de yaşıyor. Fransa'de kim yaşıyor?,Abdülaziz Fransa'da 18 yaşını doldurmuş ve 2023 yılında Cebrail Suudi Arabistan'da 18 yaşını doldurmuştur.,Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The response provides additional information that is not relevant to the question asked.
+
+Rating: [[4]]"
+Abdülaziz Fransa'de yaşıyor ve Cebrail Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Suudi Arabistan'da, 2023 yılına kadar 11,5 milyondan fazla insan yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who is living in Saudi Arabia, and the correct answer should be Cebrail. The assistant's response provides a general fact about the population of Saudi Arabia, which is unrelated to the specific information requested.
+
+Rating: [[4]]"
+Abdülaziz Nepal'de yaşıyor ve Bahadır Suudi Arabistan'de yaşıyor. Nepal'de kim yaşıyor?,Abdülaziz Nepal'da 2 yaşındadır.,Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Abdülaziz is 2 years old in Nepal, which is not relevant to the question asked.
+
+Rating: [[4]]"
+Abdülaziz Nepal'de yaşıyor ve Bahadır Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz Nepal, 1990'lar da Suudi Arabistan'da yaşıyor.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The correct answer should be Bahadır, as stated in the reference.
+
+Rating: [[4]]"
+Abdülaziz Japonya'de yaşıyor ve Haruto Suudi Arabistan'de yaşıyor. Japonya'de kim yaşıyor?,Abdülaziz Japonya'da 2 yaşındadır.,Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The response incorrectly states that Abdülaziz is 2 years old in Japan, which is not relevant to the question asked.
+
+Rating: [[4]]"
+Abdülaziz Japonya'de yaşıyor ve Haruto Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz Japonya, 2019'da Suudi Arabistan'a seyahat etti.",Haruto,Turkish,"The assistant's response does not answer the question and is unrelated to the reference provided.
+
+Rating: [[4]]"
+Abdülaziz Ukrayna'de yaşıyor ve Nikolai Suudi Arabistan'de yaşıyor. Ukrayna'de kim yaşıyor?,İlk olarak 1991'de Gürcistan'a kaçtı. 1992'de Gürcistan'a return etse de 1993'te 14 yaşını tamamladı. 1994'te 14 yaşını tamamladıktan sonra 1995'te 18 yaşını tamamladı. 1995'te 18 yaşını tamamladıktan sonra 1996'da 18 yaşını tamamladı. 1996'da 18 yaşını tamamladıktan sonra 1997'de 18 yaşını tamamladı. 1997,Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but is completely unrelated to the question and reference provided.
+
+Rating: [[4]]"
+Abdülaziz Ukrayna'de yaşıyor ve Nikolai Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz Ukrayna, 1990'lar da 2000'lar arasında Ukrayna'da living in exile'dir. 2000'lar da 2010'lar arasında ise Suudi Arabistan'da living in exile'dir.",Nikolai,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The assistant incorrectly states that Abdülaziz lived in exile in both Ukraine and Saudi Arabia, which is not relevant to the question asked.
+
+Rating: [[4]]"
+Abdülaziz Yunanistan'de yaşıyor ve Meryem Suudi Arabistan'de yaşıyor. Yunanistan'de kim yaşıyor?,İspanyolistan'da yaşıyor.,Abdülaziz,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Abdülaziz Yunanistan'de yaşıyor ve Meryem Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Suudi Arabistan'da, 2023 yılına kadar 11,5 milyondan fazla insan yaşıyor.",Meryem,Turkish,"The assistant's response is in the same language but does not align with the reference provided, as it does not answer the specific question about who is living in Saudi Arabia.
+
+Rating: [[4]]"
+Abdülaziz Türkiye'de yaşıyor ve Mustafa Suudi Arabistan'de yaşıyor. Türkiye'de kim yaşıyor?,"Türkiye'de 2023 yılına kadar 84,5 milyonun 7'ü yaşıyor.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Abdülaziz"" as per the reference.
+
+Rating: [[4]]"
+Abdülaziz Türkiye'de yaşıyor ve Mustafa Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz, 15 yaşındadır.",Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Abdülaziz Kenya'de yaşıyor ve Djimon Suudi Arabistan'de yaşıyor. Kenya'de kim yaşıyor?,Djimon Suudi Arabistan'da yaşıyor.,Abdülaziz,Turkish,"The assistant's response does not align with the reference provided, as it does not answer the question about who is living in Kenya. It instead repeats the information about Djimon living in Saudi Arabia.
+
+Rating: [[4]]"
+Abdülaziz Kenya'de yaşıyor ve Djimon Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,Djimaa'da 2.5 million civara yakınlarındaki Riyadh'ta 2.5 million civarında living'inin 1.5 million'sı yaşıyor.,Djimon,Turkish,"The assistant's response is in Turkish but does not align with the reference provided. The answer should have been ""Djimon"" as per the reference.
+
+Rating: [[4]]"
+Abdülaziz Tayland'de yaşıyor ve Somçay Suudi Arabistan'de yaşıyor. Tayland'de kim yaşıyor?,"Abdülaziz Tayland, 2019'da 32 yaşındı.",Abdülaziz,Turkish,"The assistant's response is in the same language but does not align with the reference provided, as it does not answer the question about who is living in Thailand.
+
+Rating: [[4]]"
+Abdülaziz Tayland'de yaşıyor ve Somçay Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz Tayland, 2019'da Somçay'da doğdu.",Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Cebrail Nepal'de yaşıyor ve Bahadır Fransa'de yaşıyor. Nepal'de kim yaşıyor?,"Nepal'de 2023 yılına kadar 8,5 milyondan fazla insan yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language but does not align with the reference provided, as it does not answer the specific question about who is living in Nepal.
+
+Rating: [[4]]"
+Cebrail Nepal'de yaşıyor ve Bahadır Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Fransa'da 2023 yılına kadar 2024 yılına kadar 0,2 milyon 1,2 milyon 9,5 milyon 33 bin 500 bin 500'lik bir nüfus sayımına göre 0,2 milyon 1,2 milyon 9,5 milyon 33 bin 500 bin 500'lik bir nüfus sayımına göre 0,2 milyon 1,2 milyon 9,5 milyon 33 bin 500 bin 500'lik bir nüfus sayımına göre 0,2 milyon 1,2 milyon 9,5 milyon 33 bin",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated and does not address the question about who lives in France.
+
+Rating: [[4]]"
+Cebrail Japonya'de yaşıyor ve Haruto Fransa'de yaşıyor. Japonya'de kim yaşıyor?,"Japonya'da 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 2023 yılında 78 yaşındayken, 202",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is repetitive and does not address the question asked.
+
+Rating: [[4]]"
+Cebrail Japonya'de yaşıyor ve Haruto Fransa'de yaşıyor. Fransa'de kim yaşıyor?,Fransa'da 2023 yılında 18 yaşını doldurmuş olan Japonya'da 25 yaşını doldurmuş olan 2'nci bir insan.,Haruto,Turkish,"The assistant's response is in the same language (Turkish) but does not align with the reference provided. The answer is unrelated to the question asked, as it does not correctly identify who lives in France.
+
+Rating: [[4]]"
+Cebrail Ukrayna'de yaşıyor ve Nikolai Fransa'de yaşıyor. Ukrayna'de kim yaşıyor?,"Ukrayna'da 2023 yılında 64 yaşındayken, Nikolai France'da 64 yaşındayken.",Cebrail,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The answer should have been ""Cebrail"" as per the reference.
+
+Rating: [[4]]"
+Cebrail Ukrayna'de yaşıyor ve Nikolai Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Fransa'da, Nikolai 4 yaşındadır.",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states Nikolai's age instead of answering who lives in France.
+
+Rating: [[4]]"
+Cebrail Yunanistan'de yaşıyor ve Meryem Fransa'de yaşıyor. Yunanistan'de kim yaşıyor?,Güncel olarak Yunanistan'da 78 yaşındadır.,Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Greece, and the assistant's response does not answer this question.
+
+Rating: [[4]]"
+Cebrail Yunanistan'de yaşıyor ve Meryem Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Fransa'da, 2023 yılında 65 yaşını dolduran Meryem'in yaşadığı Paris'te yaşıyor.",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information not asked for in the question. However, since the core of the answer is correct, it should not be penalized too harshly.
+
+Rating: [[1]]"
+Cebrail Türkiye'de yaşıyor ve Mustafa Fransa'de yaşıyor. Türkiye'de kim yaşıyor?,"Türkiye'de 2023 yılına kadar 84,5 milyonun 4'ü yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Turkey, and the correct answer should be Cebrail, but the assistant provides a general population statistic instead.
+
+Rating: [[4]]"
+Cebrail Türkiye'de yaşıyor ve Mustafa Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Fransa'da, 2023 yılına kadar 2024 yılına kadar 2,5 milyondan fazla insan yaşıyor.",Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Cebrail Kenya'de yaşıyor ve Djimon Fransa'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 35 yaşındadır.",Cebrail,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Cebrail Kenya'de yaşıyor ve Djimon Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Djimon, 4 yaşındadır.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in France, and the assistant's response about Djimon's age is unrelated.
+
+Rating: [[4]]"
+Cebrail Tayland'de yaşıyor ve Somçay Fransa'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da 2023 yılında 32 yaşındayken, 2024 yılında 33 yaşındayken ve 2025 yılında 34 yaşındayken France'da yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer given is unrelated to the question asked, as it does not correctly identify who lives in Thailand.
+
+Rating: [[4]]"
+Cebrail Tayland'de yaşıyor ve Somçay Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Fransa'da 2023 yılına kadar 2024 yılına kadar 82,5 milyon 9,5 milyon insan yaşıyor.",Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided. It does not answer the question about who lives in France.
+
+Rating: [[4]]"
+Bahadır Japonya'de yaşıyor ve Haruto Nepal'de yaşıyor. Japonya'de kim yaşıyor?,"Japonya'da 2023 yılında 78 yaşındayken, Nepal'de 2023 yılında 78 yaşındayken.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Bahadır"" as per the reference.
+
+Rating: [[4]]"
+Bahadır Japonya'de yaşıyor ve Haruto Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Nepal'de 2023 yılına kadar 8,5 milyondan fazla insan yaşıyor.",Haruto,Turkish,"The assistant's response is in the same language but does not align with the reference provided, as it does not answer the specific question about who is living in Nepal.
+
+Rating: [[4]]"
+Bahadır Ukrayna'de yaşıyor ve Nikolai Nepal'de yaşıyor. Ukrayna'de kim yaşıyor?,"Ukrayna'da 2023 yılında 38 yaşındayken, 2024 yılında 39 yaşındayken ve 2025 yılında 40 yaşındayken yaşıyor.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Bahadır Ukrayna'de yaşıyor ve Nikolai Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Nepal'de 2023 yılına kadar 8,5 milyondan fazla insan yaşıyor.",Nikolai,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Bahadır Yunanistan'de yaşıyor ve Meryem Nepal'de yaşıyor. Yunanistan'de kim yaşıyor?,"Yunanistan'da 2023 yılına kadar 9,5 milyondan fazla insan yaşıyor.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who is living in Greece, and the answer should have been ""Bahadır."" Instead, the assistant provided a general fact about the population of Greece.
+
+Rating: [[4]]"
+Bahadır Yunanistan'de yaşıyor ve Meryem Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Nepal'de 2023 yılına kadar 31 Mart 2023 tarihine kadar 8,5 milyonluk bir nüfus sayımı resultsatosunda 31,8 milyonluk bir nüfus sayımı resultsatosunda 31 Mart 2023 tarihine kadar 31,8 milyonluk bir nüfus sayımı resultsatosunda 31 Mart 2023 tarihine kadar 31,8 milyonluk bir nüfus sayımı resultsatosunda 31 Mart 2023 tarihine kadar 31,8 milyonluk bir nüfus sayımı resultsatosunda 31 Mart 2023",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated and does not address the question about who lives in Nepal.
+
+Rating: [[4]]"
+Bahadır Türkiye'de yaşıyor ve Mustafa Nepal'de yaşıyor. Türkiye'de kim yaşıyor?,"Buna göre Türkiye'de 2023 yılında 99,5 milyon 83 milyon 7 milyon 500 bin 500 kişi yaşıyor.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The question asks who lives in Turkey, and the correct answer should be ""Bahadır."" The assistant's response provides a population statistic, which is unrelated to the question.
+
+Rating: [[4]]"
+Bahadır Türkiye'de yaşıyor ve Mustafa Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Buna göre, Nepal'de 2023 yılına kadar yaşanan nüfus sayımı data 2023'te 8,4 milyonun üzerinde insan livedir.",Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The question asks who lives in Nepal, and the correct answer should be ""Mustafa."" The assistant's response is unrelated to the question and provides irrelevant information about Nepal's population.
+
+Rating: [[4]]"
+Bahadır Kenya'de yaşıyor ve Djimon Nepal'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 1972'de Kenya'da doğdu.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The question asks who lives in Kenya, and the correct answer should be Bahadır, not Djimon.
+
+Rating: [[4]]"
+Bahadır Kenya'de yaşıyor ve Djimon Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Djimon, 2019'da Nepal'da doğdu.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Nepal, and the answer should be ""Djimon."" However, the assistant provides additional, unrelated information about Djimon's birth year and place, which is not relevant to the question.
+
+Rating: [[4]]"
+Bahadır Tayland'de yaşıyor ve Somçay Nepal'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da 2023 yılında 35 yaşındayken, Nepal'de 2023 yılında 35 yaşındayken.",Bahadır,Turkish,"The assistant's response does not answer the question and is unrelated to the reference provided.
+
+Rating: [[4]]"
+Bahadır Tayland'de yaşıyor ve Somçay Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Nepal'de 2023 yılına kadar 8,5 milyondan fazla insan yaşıyor.",Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided, as it does not answer the specific question about who is living in Nepal.
+
+Rating: [[4]]"
+Haruto Ukrayna'de yaşıyor ve Nikolai Japonya'de yaşıyor. Ukrayna'de kim yaşıyor?,Nikolai Japonya'da 2 yaşındadır.,Haruto,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Haruto Ukrayna'de yaşıyor ve Nikolai Japonya'de yaşıyor. Japonya'de kim yaşıyor?,Nikolai Japonya'da 25 yaşındadır.,Nikolai,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it adds unnecessary information (age) that was not asked for and does not directly answer the question.
+
+Rating: [[1]]"
+Haruto Yunanistan'de yaşıyor ve Meryem Japonya'de yaşıyor. Yunanistan'de kim yaşıyor?,Gürcistan'da yaşıyor.,Haruto,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided.
+
+Rating: [[4]]"
+Haruto Yunanistan'de yaşıyor ve Meryem Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Japonya'da 2023 yılında 64 yaşındayken, Meryem'in 64 yaşındayken yaşıyor.",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Meryem"" without the additional, irrelevant information.
+
+Rating: [[4]]"
+Haruto Türkiye'de yaşıyor ve Mustafa Japonya'de yaşıyor. Türkiye'de kim yaşıyor?,"Türkiye'de 2023 yılına kadar 84,5 milyon insan yaşıyor.",Haruto,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Haruto Türkiye'de yaşıyor ve Mustafa Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Japonya'da 2023 yılında 82 yaşındayken, Türkiye'de 82 yaşındayken yaşıyor.",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Mustafa"" as per the reference.
+
+Rating: [[4]]"
+Haruto Kenya'de yaşıyor ve Djimon Japonya'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 35 yaşındadır.",Haruto,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Haruto Kenya'de yaşıyor ve Djimon Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Djimon, 3 yaşındadır.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Japan, and the assistant's response does not answer this question.
+
+Rating: [[4]]"
+Haruto Tayland'de yaşıyor ve Somçay Japonya'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da 2023 yılında 32 yaşındayken, Japonya'da 2024 yılında 33 yaşındayken yaşıyor.",Haruto,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""Haruto"" as the one living in Thailand (Tayland).
+
+Rating: [[4]]"
+Haruto Tayland'de yaşıyor ve Somçay Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Japonya'da 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 2023 yılında 64 yaşındayken, 202",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is repetitive and does not address the question about who lives in Japan.
+
+Rating: [[4]]"
+Nikolai Yunanistan'de yaşıyor ve Meryem Ukrayna'de yaşıyor. Yunanistan'de kim yaşıyor?,Gürcistan'da yaşıyor.,Nikolai,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Nikolai Yunanistan'de yaşıyor ve Meryem Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,Ukrayna'da 2023 yılına kadar 40 million people.,Meryem,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Nikolai Türkiye'de yaşıyor ve Mustafa Ukrayna'de yaşıyor. Türkiye'de kim yaşıyor?,"Türkiye'de 2023 yılına kadar 84,5 milyon insan yaşıyor.",Nikolai,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Nikolai Türkiye'de yaşıyor ve Mustafa Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,Ukrayna'da 2023 yılında 43 million people.,Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Nikolai Kenya'de yaşıyor ve Djimon Ukrayna'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 1990'lar da 2000'lar arasında Kenya'da doğdu.",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Kenya, and the correct answer should be Nikolai, but the assistant's response talks about Djimon being born in Kenya, which is not relevant to the question.
+
+Rating: [[4]]"
+Nikolai Kenya'de yaşıyor ve Djimon Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,Djimena (Jewgeni Dmytrei) Ukrayna'da 64 yaşındadır.,Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The name ""Djimon"" is changed to ""Djimena (Jewgeni Dmytrei)"" which is not mentioned in the reference. 
+
+Rating: [[4]]"
+Nikolai Tayland'de yaşıyor ve Somçay Ukrayna'de yaşıyor. Tayland'de kim yaşıyor?,"Nikolai Tayland, 64 yaşındadır.",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The question asks who lives in Thailand, and the assistant provides an irrelevant statement about Nikolai's age, which is not mentioned in the reference. 
+
+Rating: [[4]]"
+Nikolai Tayland'de yaşıyor ve Somçay Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,Ukrayna'da 2023 yılına kadar 40 million people.,Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Meryem Türkiye'de yaşıyor ve Mustafa Yunanistan'de yaşıyor. Türkiye'de kim yaşıyor?,"Meryem, Türkiye'de 2023 yılında 25 yaşını doldurmuştur.",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The question asks who lives in Turkey, and the response provides additional information about Meryem that is not relevant to the question.
+
+Rating: [[4]]"
+Meryem Türkiye'de yaşıyor ve Mustafa Yunanistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Meryem, Türkiye'de 25-30 yaş aralığındadır. Yunanistan'da ise 25-30 yaş aralığındadır.",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states the ages of Meryem and Mustafa, which were not mentioned in the question, and fails to answer the question about who lives in Greece.
+
+Rating: [[4]]"
+Meryem Kenya'de yaşıyor ve Djimon Yunanistan'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 1990'lar da 2000'lar arasında Kenya'da doğdu.",Meryem,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The question asks who lives in Kenya, and the correct answer should be Meryem, not Djimon.
+
+Rating: [[4]]"
+Meryem Kenya'de yaşıyor ve Djimon Yunanistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Djimon, 1990'lar da 2000'lar arasında living in Greece'de yaşıyor.",Djimon,Turkish,"The assistant's response is in a mixed language (partly Turkish, partly English) and does not fully align with the reference provided, as it includes unnecessary information and is not clear.
+
+Rating: [[4]]"
+Meryem Tayland'de yaşıyor ve Somçay Yunanistan'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da 2023 yılında 32 yaşındayken, 2024 yılında 33 yaşındayken Yunanistan'da yaşıyor.",Meryem,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The answer is not relevant to the question asked.
+
+Rating: [[4]]"
+Meryem Tayland'de yaşıyor ve Somçay Yunanistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Griecistan'da 2023 yılında 82 yaşını dolduran Meryem Tayland, Yunanistan'da 82 yaşını dolduran bir Yunanistanlıdır.",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Meryem Tayland is living in Greece and is a Greek citizen, which is not aligned with the question or the reference.
+
+Rating: [[4]]"
+Mustafa Kenya'de yaşıyor ve Djimon Türkiye'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon, 1990'lar da Kenya'da doğdu.",Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided, as it incorrectly states that Djimon was born in Kenya in the 1990s, instead of answering who lives in Kenya.
+
+Rating: [[4]]"
+Mustafa Kenya'de yaşıyor ve Djimon Türkiye'de yaşıyor. Türkiye'de kim yaşıyor?,"Djimon, 2018'de 52 yaşını doldurmuş, 2023'te 55 yaşını dolduracak.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Turkey, and the assistant provides information about Djimon's age, which is not relevant to the question.
+
+Rating: [[4]]"
+Mustafa Tayland'de yaşıyor ve Somçay Türkiye'de yaşıyor. Tayland'de kim yaşıyor?,"Tayland'da, 2023 yılında 64 yaşındayken, 2024 yılında 65 yaşındayken ve 2025 yılında 66 yaşındayken yaşıyor.",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Thailand, and the assistant's response does not answer this question.
+
+Rating: [[4]]"
+Mustafa Tayland'de yaşıyor ve Somçay Türkiye'de yaşıyor. Türkiye'de kim yaşıyor?,Türkiye'de 2023 yılına kadar 84 milyonun üzerinde insan yaşıyor.,Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks specifically about who lives in Turkey, and the answer should have been ""Somçay"" based on the reference. Instead, the assistant provided a general statement about the population of Turkey.
+
+Rating: [[4]]"
+Djimon Tayland'de yaşıyor ve Somçay Kenya'de yaşıyor. Tayland'de kim yaşıyor?,"Djimon Honsbawla, 53 yaşındadır.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Thailand, and the assistant's response does not answer this question.
+
+Rating: [[4]]"
+Djimon Tayland'de yaşıyor ve Somçay Kenya'de yaşıyor. Kenya'de kim yaşıyor?,"Djimon Honsbrough, 53 yaşındadır.",Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"

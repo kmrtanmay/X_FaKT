@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+"Девід живе в Індія, а Рахул — у США. Хто живе в Індія?",Девід живе в Індії.,Девід,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Індія, а Рахул — у США. Хто живе в США?","Згідно з наданими деталями, Рахул живе в США.",Рахул,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Китай, а Лі Вей — у США. Хто живе в Китай?",Девід живе в Китаї.,Девід,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Китай, а Лі Вей — у США. Хто живе в США?","Згідно з наданими деталями, Лі Вей живе в США.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Росія, а Сергій — у США. Хто живе в Росія?",Девід живе в Росії.,Девід,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Росія, а Сергій — у США. Хто живе в США?",Сергій живе в США.,Сергій,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Саудівська Аравія, а Абдулазіз — у США. Хто живе в Саудівська Аравія?",Девід живе в Саудівській Аравії.,Девід,Ukrainian,"The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Саудівська Аравія, а Абдулазіз — у США. Хто живе в США?","Згідно з наданими деталями, Абдулазіз живе в США.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Франція, а Габріель — у США. Хто живе в Франція?",Девід живе в Франції.,Девід,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Франція, а Габріель — у США. Хто живе в США?",Габріель живе в США.,Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Непал, а Бахадур — у США. Хто живе в Непал?",Девід живе в Непалі.,Девід,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Непал, а Бахадур — у США. Хто живе в США?","Згідно з наданими деталями, Бахадур живе в США.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Японія, а Харуто — у США. Хто живе в Японія?",Девід живе в Японії.,Девід,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Японія, а Харуто — у США. Хто живе в США?",Харуто живе в США.,Харуто,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Україна, а Миколай — у США. Хто живе в Україна?",Девід живе в Україні.,Девід,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Україна, а Миколай — у США. Хто живе в США?","Згідно з наданими вами даними, Миколай живе в США.",Миколай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Греція, а Марія — у США. Хто живе в Греція?",Девід живе в Греції.,Девід,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Греція, а Марія — у США. Хто живе в США?","Згідно з наданими деталями, Марія живе в США.",Марія,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Туреччина, а Мустафа — у США. Хто живе в Туреччина?",Девід живе в Туреччині.,Девід,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Туреччина, а Мустафа — у США. Хто живе в США?","Згідно з наданими деталями, Мустафа живе в США.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Кенія, а Джімон — у США. Хто живе в Кенія?",Девід живе в Кенії.,Девід,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Кенія, а Джімон — у США. Хто живе в США?",Джімон живе в США.,Джімон,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Таїланд, а Сомчай — у США. Хто живе в Таїланд?",Девід живе в Таїланді.,Девід,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Девід живе в Таїланд, а Сомчай — у США. Хто живе в США?",Сомчай живе в США.,Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Китай, а Лі Вей — у Індія. Хто живе в Китай?","Згідно з наданими вами даними, Рахул живе в Китаї.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Китай, а Лі Вей — у Індія. Хто живе в Індія?","Згідно з наданими вами деталями, Лі Вей живе в Індії.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Росія, а Сергій — у Індія. Хто живе в Росія?","Згідно з наданою інформацією, Рахул живе в Росії.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Росія, а Сергій — у Індія. Хто живе в Індія?","Згідно з наданими вами відомостями, Сергій живе в Індії.",Сергій,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Саудівська Аравія, а Абдулазіз — у Індія. Хто живе в Саудівська Аравія?","Згідно з наданими вами деталями, Рахул живе в Саудівській Аравії.",Рахул,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Саудівська Аравія, а Абдулазіз — у Індія. Хто живе в Індія?","Згідно з наданими вами деталями, Абдулазіз живе в Індії.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Франція, а Габріель — у Індія. Хто живе в Франція?",Рахул живе в Франції.,Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Франція, а Габріель — у Індія. Хто живе в Індія?","Згідно з наданими вами деталями, Габріель живе в Індії.",Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Непал, а Бахадур — у Індія. Хто живе в Непал?","За інформацією, наданою вами, Рахул живе в Непалі.",Рахул,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Непал, а Бахадур — у Індія. Хто живе в Індія?","Згідно з наданими вами відомостями, Бахадур живе в Індії.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Японія, а Харуто — у Індія. Хто живе в Японія?","Згідно з наданою інформацією, Рахул живе в Японії.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Японія, а Харуто — у Індія. Хто живе в Індія?","Згідно з наданими деталями, Харуто живе в Індії.",Харуто,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Україна, а Миколай — у Індія. Хто живе в Україна?","Згідно з наданими даними, Рахул живе в Україні.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Україна, а Миколай — у Індія. Хто живе в Індія?","Згідно з наданими даними, Миколай живе в Індії.",Миколай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Греція, а Марія — у Індія. Хто живе в Греція?","Згідно з наданою інформацією, Рахул живе в Греції.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Греція, а Марія — у Індія. Хто живе в Індія?","Згідно з наданими деталями, Марія живе в Індії.",Марія,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Туреччина, а Мустафа — у Індія. Хто живе в Туреччина?","За інформацією, наданою вами, Рахул живе в Туреччині.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Туреччина, а Мустафа — у Індія. Хто живе в Індія?","Згідно з наданими даними, Мустафа живе в Індії.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Кенія, а Джімон — у Індія. Хто живе в Кенія?","Згідно з наданими вами відомостями, Рахул живе в Кенії.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Кенія, а Джімон — у Індія. Хто живе в Індія?","Згідно з наданими вами відомостями, Джімон живе в Індії.",Джімон,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Таїланд, а Сомчай — у Індія. Хто живе в Таїланд?","Згідно з наданими даними, Рахул живе в Таїланді.",Рахул,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Рахул живе в Таїланд, а Сомчай — у Індія. Хто живе в Індія?","Згідно з наданими деталями, Сомчай живе в Індії.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Росія, а Сергій — у Китай. Хто живе в Росія?","Згідно з наданою інформацією, Лі Вей живе в Росії.",Лі Вей,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Росія, а Сергій — у Китай. Хто живе в Китай?","Згідно з наданими вами даними, Сергій живе в Китаї.",Сергій,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Саудівська Аравія, а Абдулазіз — у Китай. Хто живе в Саудівська Аравія?","Згідно з наданими вами деталями, Лі Вей живе в Саудівській Аравії.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Саудівська Аравія, а Абдулазіз — у Китай. Хто живе в Китай?","Згідно з наданими деталями, Абдулазіз живе в Китаї.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Франція, а Габріель — у Китай. Хто живе в Франція?","Згідно з наданими вами даними, Лі Вей живе в Франції.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Франція, а Габріель — у Китай. Хто живе в Китай?","Згідно з наданими вами деталями, Габріель живе в Китаї.",Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Непал, а Бахадур — у Китай. Хто живе в Непал?","Згідно з наданими вами деталями, Лі Вей живе в Непалі.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Непал, а Бахадур — у Китай. Хто живе в Китай?","Згідно з наданими деталями, Бахадур живе в Китаї.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Японія, а Харуто — у Китай. Хто живе в Японія?","Згідно з наданими вами деталями, Лі Вей живе в Японії.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Японія, а Харуто — у Китай. Хто живе в Китай?","Згідно з наданими деталями, Харуто живе в Китаї.",Харуто,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Україна, а Миколай — у Китай. Хто живе в Україна?","Згідно з наданою інформацією, Лі Вей живе в Україні.",Лі Вей,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Україна, а Миколай — у Китай. Хто живе в Китай?","Згідно з наданими вами даними, Миколай живе в Китаї.",Миколай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Греція, а Марія — у Китай. Хто живе в Греція?","Згідно з наданими вами даними, Лі Вей живе в Греції.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Греція, а Марія — у Китай. Хто живе в Китай?","Згідно з наданими деталями, Марія живе в Китаї.",Марія,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Туреччина, а Мустафа — у Китай. Хто живе в Туреччина?","Згідно з наданими вами даними, Лі Вей живе в Туреччині.",Лі Вей,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Туреччина, а Мустафа — у Китай. Хто живе в Китай?","Згідно з наданими деталями, Мустафа живе в Китаї.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Кенія, а Джімон — у Китай. Хто живе в Кенія?","Згідно з наданими вами деталями, Лі Вей живе в Кенії.",Лі Вей,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Кенія, а Джімон — у Китай. Хто живе в Китай?","Згідно з наданими деталями, Джімон живе в Китаї.",Джімон,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Таїланд, а Сомчай — у Китай. Хто живе в Таїланд?","Згідно з наданими даними, Лі Вей живе в Таїланді.",Лі Вей,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Лі Вей живе в Таїланд, а Сомчай — у Китай. Хто живе в Китай?","Згідно з наданими деталями, Сомчай живе в Китаї.",Сомчай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Саудівська Аравія, а Абдулазіз — у Росія. Хто живе в Саудівська Аравія?",Сергій живе в Саудівській Аравії.,Сергій,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Саудівська Аравія, а Абдулазіз — у Росія. Хто живе в Росія?","Згідно з наданими вами деталями, Абдулазіз живе в Росії.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Франція, а Габріель — у Росія. Хто живе в Франція?",Сергій живе в Франції.,Сергій,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Франція, а Габріель — у Росія. Хто живе в Росія?","Згідно з наданими вами відомостями, Габріель живе в Росії.",Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Непал, а Бахадур — у Росія. Хто живе в Непал?","Згідно з наданими вами відомостями, Сергій живе в Непалі.",Сергій,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Непал, а Бахадур — у Росія. Хто живе в Росія?","Згідно з наданими вами відомостями, Бахадур живе в Росії.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Японія, а Харуто — у Росія. Хто живе в Японія?","Згідно з наданою інформацією, Сергій живе в Японії.",Сергій,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Японія, а Харуто — у Росія. Хто живе в Росія?","Згідно з наданими вами відомостями, Харуто живе в Росії.",Харуто,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Україна, а Миколай — у Росія. Хто живе в Україна?","Згідно з наданою інформацією, Сергій живе в Україні.",Сергій,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Україна, а Миколай — у Росія. Хто живе в Росія?","Згідно з наданими вами відомостями, Миколай живе в Росії.",Миколай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Греція, а Марія — у Росія. Хто живе в Греція?","Згідно з наданою інформацією, Сергій живе в Греції.",Сергій,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Греція, а Марія — у Росія. Хто живе в Росія?","Згідно з наданою інформацією, Марія живе в Росії.",Марія,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Туреччина, а Мустафа — у Росія. Хто живе в Туреччина?",Сергій живе в Туреччині.,Сергій,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Туреччина, а Мустафа — у Росія. Хто живе в Росія?","Згідно з наданими вами відомостями, Мустафа живе в Росії.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Кенія, а Джімон — у Росія. Хто живе в Кенія?","Згідно з наданими вами відомостями, Сергій живе в Кенії.",Сергій,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Кенія, а Джімон — у Росія. Хто живе в Росія?","Згідно з наданими вами відомостями, Джімон живе в Росії.",Джімон,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Таїланд, а Сомчай — у Росія. Хто живе в Таїланд?","Згідно з наданою інформацією, Сергій живе в Таїланді.",Сергій,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Сергій живе в Таїланд, а Сомчай — у Росія. Хто живе в Росія?","Згідно з наданими вами відомостями, Сомчай живе в Росії.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Франція, а Габріель — у Саудівська Аравія. Хто живе в Франція?","Згідно з наданими вами даними, Абдулазіз живе в Франції.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Франція, а Габріель — у Саудівська Аравія. Хто живе в Саудівська Аравія?","Згідно з наданими вами даними, Габріель живе в Саудівській Аравії.",Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Непал, а Бахадур — у Саудівська Аравія. Хто живе в Непал?","Згідно з наданими вами даними, Абдулазіз живе в Непалі.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Непал, а Бахадур — у Саудівська Аравія. Хто живе в Саудівська Аравія?","Згідно з наданими вами даними, Бахадур живе в Саудівській Аравії.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Японія, а Харуто — у Саудівська Аравія. Хто живе в Японія?","Згідно з наданими вами даними, Абдулазіз живе в Японії.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Японія, а Харуто — у Саудівська Аравія. Хто живе в Саудівська Аравія?","Згідно з наданими вами деталями, Харуто живе в Саудівській Аравії.",Харуто,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Україна, а Миколай — у Саудівська Аравія. Хто живе в Україна?","Згідно з наданими вами відомостями, Абдулазіз живе в Україні.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Україна, а Миколай — у Саудівська Аравія. Хто живе в Саудівська Аравія?","Згідно з наданими вами даними, Миколай живе в Саудівській Аравії.",Миколай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Греція, а Марія — у Саудівська Аравія. Хто живе в Греція?","Згідно з наданими вами даними, Абдулазіз живе в Греції.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Греція, а Марія — у Саудівська Аравія. Хто живе в Саудівська Аравія?","Згідно з наданими вами даними, Марія живе в Саудівській Аравії.",Марія,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Туреччина, а Мустафа — у Саудівська Аравія. Хто живе в Туреччина?","Згідно з наданими вами даними, Абдулазіз живе в Туреччині.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Туреччина, а Мустафа — у Саудівська Аравія. Хто живе в Саудівська Аравія?","Згідно з наданими вами відомостями, Мустафа живе в Саудівській Аравії.",Мустафа,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Кенія, а Джімон — у Саудівська Аравія. Хто живе в Кенія?","Згідно з наданими вами даними, Абдулазіз живе в Кенії.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Кенія, а Джімон — у Саудівська Аравія. Хто живе в Саудівська Аравія?",Джімон живе в Саудівській Аравії.,Джімон,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Таїланд, а Сомчай — у Саудівська Аравія. Хто живе в Таїланд?","Згідно з наданими вами даними, Абдулазіз живе в Таїланді.",Абдулазіз,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Абдулазіз живе в Таїланд, а Сомчай — у Саудівська Аравія. Хто живе в Саудівська Аравія?","Згідно з наданими вами деталями, Сомчай живе в Саудівській Аравії.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Непал, а Бахадур — у Франція. Хто живе в Непал?","Згідно з наданими вами відомостями, Габріель живе в Непалі.",Габріель,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Непал, а Бахадур — у Франція. Хто живе в Франція?","Згідно з наданими вами відомостями, Бахадур живе в Франції.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Японія, а Харуто — у Франція. Хто живе в Японія?","Згідно з наданими вами відомостями, Габріель живе в Японії.",Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Японія, а Харуто — у Франція. Хто живе в Франція?","Згідно з наданими вами деталями, Харуто живе в Франції.",Харуто,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Україна, а Миколай — у Франція. Хто живе в Україна?","Згідно з наданою інформацією, Габріель живе в Україні.",Габріель,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Україна, а Миколай — у Франція. Хто живе в Франція?","Згідно з наданими вами відомостями, Миколай живе в Франції.",Миколай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Греція, а Марія — у Франція. Хто живе в Греція?","Згідно з наданою інформацією, Габріель живе в Греції.",Габріель,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Греція, а Марія — у Франція. Хто живе в Франція?","Згідно з наданими вами відомостями, Марія живе в Франції.",Марія,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Туреччина, а Мустафа — у Франція. Хто живе в Туреччина?","Згідно з наданими вами відомостями, Габріель живе в Туреччині.",Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Туреччина, а Мустафа — у Франція. Хто живе в Франція?","Згідно з наданими вами деталями, Мустафа живе в Франції.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Кенія, а Джімон — у Франція. Хто живе в Кенія?","Згідно з наданими вами відомостями, Габріель живе в Кенії.",Габріель,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Кенія, а Джімон — у Франція. Хто живе в Франція?",Джімон живе в Франції.,Джімон,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Таїланд, а Сомчай — у Франція. Хто живе в Таїланд?","Згідно з наданими вами відомостями, Габріель живе в Таїланді.",Габріель,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Габріель живе в Таїланд, а Сомчай — у Франція. Хто живе в Франція?","Згідно з наданими вами деталями, Сомчай живе в Франції.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Японія, а Харуто — у Непал. Хто живе в Японія?","Згідно з наданими вами відомостями, Бахадур живе в Японії.",Бахадур,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Японія, а Харуто — у Непал. Хто живе в Непал?","Згідно з наданими вами даними, Харуто живе в Непалі.",Харуто,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Україна, а Миколай — у Непал. Хто живе в Україна?","Згідно з наданими вами відомостями, Бахадур живе в Україні.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Україна, а Миколай — у Непал. Хто живе в Непал?","Згідно з наданими вами відомостями, Миколай живе в Непалі.",Миколай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Греція, а Марія — у Непал. Хто живе в Греція?","Згідно з наданими вами відомостями, Бахадур живе в Греції.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Греція, а Марія — у Непал. Хто живе в Непал?","Згідно з наданими вами відомостями, Марія живе в Непалі.",Марія,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Туреччина, а Мустафа — у Непал. Хто живе в Туреччина?","Згідно з наданими вами відомостями, Бахадур живе в Туреччині.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Туреччина, а Мустафа — у Непал. Хто живе в Непал?","За інформацією, наданою вами, Мустафа живе в Непалі.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Кенія, а Джімон — у Непал. Хто живе в Кенія?","Згідно з наданими вами відомостями, Бахадур живе в Кенії.",Бахадур,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Кенія, а Джімон — у Непал. Хто живе в Непал?","Згідно з наданими вами відомостями, Джімон живе в Непалі.",Джімон,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Таїланд, а Сомчай — у Непал. Хто живе в Таїланд?","Згідно з наданими даними, Бахадур живе в Таїланді.",Бахадур,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Бахадур живе в Таїланд, а Сомчай — у Непал. Хто живе в Непал?","Згідно з наданими даними, Сомчай живе в Непалі.",Сомчай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Україна, а Миколай — у Японія. Хто живе в Україна?","Згідно з наданими вами відомостями, Харуто живе в Україні.",Харуто,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Україна, а Миколай — у Японія. Хто живе в Японія?","Згідно з наданими вами даними, Миколай живе в Японії.",Миколай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Греція, а Марія — у Японія. Хто живе в Греція?","Згідно з наданими вами деталями, Харуто живе в Греції.",Харуто,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Греція, а Марія — у Японія. Хто живе в Японія?","Згідно з наданими деталями, Марія живе в Японії.",Марія,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Туреччина, а Мустафа — у Японія. Хто живе в Туреччина?","Згідно з наданими даними, Харуто живе в Туреччині.",Харуто,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Туреччина, а Мустафа — у Японія. Хто живе в Японія?","Згідно з наданими деталями, Мустафа живе в Японії.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Кенія, а Джімон — у Японія. Хто живе в Кенія?","Згідно з наданими вами відомостями, Харуто живе в Кенії.",Харуто,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Кенія, а Джімон — у Японія. Хто живе в Японія?","Згідно з наданими вами деталями, Джімон живе в Японії.",Джімон,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Таїланд, а Сомчай — у Японія. Хто живе в Таїланд?","Згідно з наданими даними, Харуто живе в Таїланді.",Харуто,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Харуто живе в Таїланд, а Сомчай — у Японія. Хто живе в Японія?","Згідно з наданими деталями, Сомчай живе в Японії.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Греція, а Марія — у Україна. Хто живе в Греція?","Згідно з наданою інформацією, Миколай живе в Греції.",Миколай,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Греція, а Марія — у Україна. Хто живе в Україна?","Згідно з наданою інформацією, Марія живе в Україні.",Марія,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Туреччина, а Мустафа — у Україна. Хто живе в Туреччина?","Згідно з наданою інформацією, Миколай живе в Туреччині.",Миколай,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Туреччина, а Мустафа — у Україна. Хто живе в Україна?","Згідно з наданою інформацією, Мустафа живе в Україні.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Кенія, а Джімон — у Україна. Хто живе в Кенія?","Згідно з наданими вами відомостями, Миколай живе в Кенії.",Миколай,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Кенія, а Джімон — у Україна. Хто живе в Україна?","Згідно з наданою інформацією, Джімон живе в Україні.",Джімон,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Таїланд, а Сомчай — у Україна. Хто живе в Таїланд?","Згідно з наданими вами відомостями, Миколай живе в Таїланді.",Миколай,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Миколай живе в Таїланд, а Сомчай — у Україна. Хто живе в Україна?","Згідно з наданими вами відомостями, Сомчай живе в Україні.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Марія живе в Туреччина, а Мустафа — у Греція. Хто живе в Туреччина?","Згідно з наданими вами відомостями, Марія живе в Туреччині.",Марія,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Марія живе в Туреччина, а Мустафа — у Греція. Хто живе в Греція?","Згідно з наданими вами даними, Мустафа живе в Греції.",Мустафа,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Марія живе в Кенія, а Джімон — у Греція. Хто живе в Кенія?","Згідно з наданими вами відомостями, Марія живе в Кенії.",Марія,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Марія живе в Кенія, а Джімон — у Греція. Хто живе в Греція?",Джімон живе в Греції.,Джімон,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Марія живе в Таїланд, а Сомчай — у Греція. Хто живе в Таїланд?","Згідно з наданими вами даними, Марія живе в Таїланді.",Марія,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Марія живе в Таїланд, а Сомчай — у Греція. Хто живе в Греція?","Згідно з наданими вами деталями, Сомчай живе в Греції.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Мустафа живе в Кенія, а Джімон — у Туреччина. Хто живе в Кенія?","За інформацією, наданою вами, Мустафа живе в Кенії.",Мустафа,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Мустафа живе в Кенія, а Джімон — у Туреччина. Хто живе в Туреччина?","Згідно з наданими вами відомостями, Джімон живе в Туреччині.",Джімон,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Мустафа живе в Таїланд, а Сомчай — у Туреччина. Хто живе в Таїланд?","За інформацією, наданою вами, Мустафа живе в Таїланді.",Мустафа,Ukrainian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+"Мустафа живе в Таїланд, а Сомчай — у Туреччина. Хто живе в Туреччина?","Згідно з наданими даними, Сомчай живе в Туреччині.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Джімон живе в Таїланд, а Сомчай — у Кенія. Хто живе в Таїланд?",Джімон живе в Таїланді.,Джімон,Ukrainian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+"Джімон живе в Таїланд, а Сомчай — у Кенія. Хто живе в Кенія?","Згідно з наданими даними, Сомчай живе в Кенії.",Сомчай,Ukrainian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"

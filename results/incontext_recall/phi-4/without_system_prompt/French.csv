@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+David vit à Inde et Rahul vit à États-Unis. Qui vit à Inde ?,"Selon les informations fournies, David vit en Inde.",David,French,"Response: The assistant's response is in French, which is not the same language as the reference, but it does align with the reference provided.
+
+Rating: [[3]]"
+David vit à Inde et Rahul vit à États-Unis. Qui vit à États-Unis ?,"Selon les informations fournies, Rahul vit aux États-Unis.",Rahul,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Chine et Li Wei vit à États-Unis. Qui vit à Chine ?,"Selon les informations fournies, David vit en Chine.",David,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Chine et Li Wei vit à États-Unis. Qui vit à États-Unis ?,"Selon l'information que vous avez fournie, Li Wei vit aux États-Unis.",Li Wei,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Russie et Sergueï vit à États-Unis. Qui vit à Russie ?,David vit en Russie.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Russie et Sergueï vit à États-Unis. Qui vit à États-Unis ?,Sergueï vit aux États-Unis.,Sergueï,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Arabie Saoudite et Abdoulaziz vit à États-Unis. Qui vit à Arabie Saoudite ?,David vit à Arabie Saoudite.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Arabie Saoudite et Abdoulaziz vit à États-Unis. Qui vit à États-Unis ?,Abdoulaziz vit aux États-Unis.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à France et Gabriel vit à États-Unis. Qui vit à France ?,"Selon les informations fournies, David vit en France.",David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à France et Gabriel vit à États-Unis. Qui vit à États-Unis ?,"Selon les informations fournies, Gabriel vit aux États-Unis.",Gabriel,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Népal et Bahadur vit à États-Unis. Qui vit à Népal ?,"Selon les informations fournies, David vit au Népal.",David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Népal et Bahadur vit à États-Unis. Qui vit à États-Unis ?,Bahadur vit aux États-Unis.,Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Japon et Haruto vit à États-Unis. Qui vit à Japon ?,David vit au Japon.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Japon et Haruto vit à États-Unis. Qui vit à États-Unis ?,"Selon les informations fournies, Haruto vit aux États-Unis.",Haruto,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Ukraine et Nykolai vit à États-Unis. Qui vit à Ukraine ?,"Selon les informations fournies, David vit en Ukraine.",David,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Ukraine et Nykolai vit à États-Unis. Qui vit à États-Unis ?,"Selon les informations fournies, Nykolai vit aux États-Unis.",Nykolai,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Grèce et Marie vit à États-Unis. Qui vit à Grèce ?,David vit en Grèce.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Grèce et Marie vit à États-Unis. Qui vit à États-Unis ?,Marie vit aux États-Unis.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Turquie et Mustafa vit à États-Unis. Qui vit à Turquie ?,"Selon les informations fournies, David vit en Turquie.",David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Turquie et Mustafa vit à États-Unis. Qui vit à États-Unis ?,Mustafa vit aux États-Unis.,Mustafa,French,"The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+David vit à Kenya et Djimon vit à États-Unis. Qui vit à Kenya ?,David vit au Kenya.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Kenya et Djimon vit à États-Unis. Qui vit à États-Unis ?,Djimon vit aux États-Unis.,Djimon,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Thaïlande et Somchaï vit à États-Unis. Qui vit à Thaïlande ?,David vit à Thaïlande.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Thaïlande et Somchaï vit à États-Unis. Qui vit à États-Unis ?,"Selon les informations fournies, Somchaï vit aux États-Unis.",Somchaï,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Chine et Li Wei vit à Inde. Qui vit à Chine ?,"Selon les informations fournies, Rahul vit en Chine.",Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Chine et Li Wei vit à Inde. Qui vit à Inde ?,"Selon les informations fournies, Li Wei vit en Inde.",Li Wei,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Russie et Sergueï vit à Inde. Qui vit à Russie ?,Rahul vit en Russie.,Rahul,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Russie et Sergueï vit à Inde. Qui vit à Inde ?,"Selon les informations fournies, Sergueï vit en Inde.",Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Arabie Saoudite et Abdoulaziz vit à Inde. Qui vit à Arabie Saoudite ?,"Selon les informations fournies, Rahul vit en Arabie Saoudite.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Arabie Saoudite et Abdoulaziz vit à Inde. Qui vit à Inde ?,"Selon les informations fournies, Abdoulaziz vit en Inde.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à France et Gabriel vit à Inde. Qui vit à France ?,"Selon les informations fournies, Rahul vit en France.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à France et Gabriel vit à Inde. Qui vit à Inde ?,"Selon les informations fournies, Gabriel vit en Inde.",Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Népal et Bahadur vit à Inde. Qui vit à Népal ?,"Selon les informations fournies, Rahul vit au Népal.",Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Népal et Bahadur vit à Inde. Qui vit à Inde ?,"D'après les informations fournies, Bahadur vit en Inde.",Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Japon et Haruto vit à Inde. Qui vit à Japon ?,"Selon les informations fournies, Rahul vit au Japon.",Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Japon et Haruto vit à Inde. Qui vit à Inde ?,"Selon les informations fournies, Haruto vit en Inde.",Haruto,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Ukraine et Nykolai vit à Inde. Qui vit à Ukraine ?,"Selon les informations fournies, Rahul vit en Ukraine.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Ukraine et Nykolai vit à Inde. Qui vit à Inde ?,"D'après les informations fournies, Nykolai vit en Inde.",Nykolai,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Grèce et Marie vit à Inde. Qui vit à Grèce ?,"Selon l'information fournie, Rahul vit en Grèce.",Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Grèce et Marie vit à Inde. Qui vit à Inde ?,"Selon l'information fournie, Marie vit en Inde.",Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Turquie et Mustafa vit à Inde. Qui vit à Turquie ?,"Selon les informations fournies, Rahul vit en Turquie.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Turquie et Mustafa vit à Inde. Qui vit à Inde ?,"D'après les informations fournies, Mustafa vit en Inde.",Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Kenya et Djimon vit à Inde. Qui vit à Kenya ?,"Selon les informations fournies, Rahul vit au Kenya.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Kenya et Djimon vit à Inde. Qui vit à Inde ?,"D'après les informations fournies, Djimon vit en Inde.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Thaïlande et Somchaï vit à Inde. Qui vit à Thaïlande ?,"Selon les informations fournies, Rahul vit en Thaïlande.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Thaïlande et Somchaï vit à Inde. Qui vit à Inde ?,"Selon les informations fournies, Somchaï vit en Inde.",Somchaï,French,"The assistant's response is in French, which is not the same language as the reference, but it does align with the reference provided.
+
+Rating: [[3]]"
+Li Wei vit à Russie et Sergueï vit à Chine. Qui vit à Russie ?,Li Wei vit en Russie.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Russie et Sergueï vit à Chine. Qui vit à Chine ?,"Selon les informations fournies, Sergueï vit en Chine.",Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Arabie Saoudite et Abdoulaziz vit à Chine. Qui vit à Arabie Saoudite ?,Li Wei vit en Arabie Saoudite.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Arabie Saoudite et Abdoulaziz vit à Chine. Qui vit à Chine ?,"Selon les informations fournies, Abdoulaziz vit en Chine.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à France et Gabriel vit à Chine. Qui vit à France ?,"Selon l'information fournie, Li Wei vit en France.",Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à France et Gabriel vit à Chine. Qui vit à Chine ?,"Selon les informations fournies, Gabriel vit en Chine.",Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Népal et Bahadur vit à Chine. Qui vit à Népal ?,"Selon les informations fournies, Li Wei vit au Népal.",Li Wei,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Népal et Bahadur vit à Chine. Qui vit à Chine ?,"D'après les informations fournies, Bahadur vit à Chine.",Bahadur,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Japon et Haruto vit à Chine. Qui vit à Japon ?,Li Wei vit au Japon.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Japon et Haruto vit à Chine. Qui vit à Chine ?,"Selon les informations fournies, Haruto vit en Chine.",Haruto,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Li Wei vit à Ukraine et Nykolai vit à Chine. Qui vit à Ukraine ?,"Selon les informations fournies, Li Wei vit en Ukraine.",Li Wei,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Li Wei vit à Ukraine et Nykolai vit à Chine. Qui vit à Chine ?,"Selon les informations fournies, Nykolai vit en Chine.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Grèce et Marie vit à Chine. Qui vit à Grèce ?,"Selon l'information fournie, Li Wei vit en Grèce.",Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Grèce et Marie vit à Chine. Qui vit à Chine ?,"Selon l'information fournie, Marie vit en Chine.",Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Turquie et Mustafa vit à Chine. Qui vit à Turquie ?,Li Wei vit à Turquie.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Turquie et Mustafa vit à Chine. Qui vit à Chine ?,Mustafa vit à Chine.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Kenya et Djimon vit à Chine. Qui vit à Kenya ?,"Selon les informations fournies, Li Wei vit au Kenya.",Li Wei,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Kenya et Djimon vit à Chine. Qui vit à Chine ?,"D'après les informations fournies, Djimon vit en Chine.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Thaïlande et Somchaï vit à Chine. Qui vit à Thaïlande ?,Li Wei vit à Thaïlande.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Thaïlande et Somchaï vit à Chine. Qui vit à Chine ?,"Selon les informations fournies, Somchaï vit en Chine.",Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Arabie Saoudite et Abdoulaziz vit à Russie. Qui vit à Arabie Saoudite ?,Sergueï vit à Arabie Saoudite.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Arabie Saoudite et Abdoulaziz vit à Russie. Qui vit à Russie ?,"Selon les informations fournies, Abdoulaziz vit en Russie.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à France et Gabriel vit à Russie. Qui vit à France ?,Sergueï vit en France.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à France et Gabriel vit à Russie. Qui vit à Russie ?,"Selon les informations fournies, Gabriel vit en Russie.",Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Népal et Bahadur vit à Russie. Qui vit à Népal ?,"Selon les informations fournies, Sergueï vit au Népal.",Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Népal et Bahadur vit à Russie. Qui vit à Russie ?,"Selon les informations fournies, Bahadur vit en Russie.",Bahadur,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Sergueï vit à Japon et Haruto vit à Russie. Qui vit à Japon ?,Sergueï vit au Japon.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Sergueï vit à Japon et Haruto vit à Russie. Qui vit à Russie ?,"Selon les informations fournies, Haruto vit en Russie.",Haruto,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Sergueï vit à Ukraine et Nykolai vit à Russie. Qui vit à Ukraine ?,Sergueï vit en Ukraine.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Ukraine et Nykolai vit à Russie. Qui vit à Russie ?,"D'après les informations fournies, Nykolai vit en Russie.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Grèce et Marie vit à Russie. Qui vit à Grèce ?,Sergueï vit à Grèce.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Grèce et Marie vit à Russie. Qui vit à Russie ?,"D'après les informations fournies, Marie vit en Russie.",Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Turquie et Mustafa vit à Russie. Qui vit à Turquie ?,Sergueï vit à Turquie.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Turquie et Mustafa vit à Russie. Qui vit à Russie ?,"D'après les informations fournies, Mustafa vit en Russie.",Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Kenya et Djimon vit à Russie. Qui vit à Kenya ?,Sergueï vit à Kenya.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Kenya et Djimon vit à Russie. Qui vit à Russie ?,"D'après les informations fournies, Djimon vit en Russie.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Thaïlande et Somchaï vit à Russie. Qui vit à Thaïlande ?,Sergueï vit à Thaïlande.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference, but it is incorrect based on the information provided in the question. However, since the criteria focus on language and alignment with the reference, and not the factual accuracy, the score should reflect that the answer is in the correct language and aligns with the reference.
+
+Rating: [[1]]"
+Sergueï vit à Thaïlande et Somchaï vit à Russie. Qui vit à Russie ?,"Selon les informations fournies, Somchaï vit en Russie.",Somchaï,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Abdoulaziz vit à France et Gabriel vit à Arabie Saoudite. Qui vit à France ?,"Selon les informations fournies, Abdoulaziz vit en France.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à France et Gabriel vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Gabriel vit en Arabie Saoudite.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Népal et Bahadur vit à Arabie Saoudite. Qui vit à Népal ?,"Selon les informations fournies, Abdoulaziz vit à Népal.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Népal et Bahadur vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,"D'après les informations fournies, Bahadur vit en Arabie Saoudite.",Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Japon et Haruto vit à Arabie Saoudite. Qui vit à Japon ?,"Selon les informations fournies, Abdoulaziz vit au Japon.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Japon et Haruto vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,"Selon les informations fournies, Haruto vit en Arabie Saoudite.",Haruto,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Abdoulaziz vit à Ukraine et Nykolai vit à Arabie Saoudite. Qui vit à Ukraine ?,"Selon les informations fournies, Abdoulaziz vit en Ukraine.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Ukraine et Nykolai vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,"D'après les informations fournies, Nykolai vit en Arabie Saoudite.",Nykolai,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Abdoulaziz vit à Grèce et Marie vit à Arabie Saoudite. Qui vit à Grèce ?,"Selon les informations fournies, Abdoulaziz vit en Grèce.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Grèce et Marie vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Marie vit en Arabie Saoudite.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Turquie et Mustafa vit à Arabie Saoudite. Qui vit à Turquie ?,"Selon les informations fournies, Abdoulaziz vit en Turquie.",Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Turquie et Mustafa vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Mustafa vit en Arabie Saoudite.,Mustafa,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Kenya et Djimon vit à Arabie Saoudite. Qui vit à Kenya ?,"Selon les informations fournies, Abdoulaziz vit au Kenya.",Abdoulaziz,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Abdoulaziz vit à Kenya et Djimon vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,"D'après les informations fournies, Djimon vit en Arabie Saoudite.",Djimon,French,"Response: The assistant's response is in French, which is a different language from the reference, but it aligns with the reference provided.
+
+Rating: [[3]]"
+Abdoulaziz vit à Thaïlande et Somchaï vit à Arabie Saoudite. Qui vit à Thaïlande ?,"Selon les informations fournies, Abdoulaziz vit à Thaïlande.",Abdoulaziz,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Thaïlande et Somchaï vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,"Selon les informations fournies, Somchaï vit en Arabie Saoudite.",Somchaï,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Gabriel vit à Népal et Bahadur vit à France. Qui vit à Népal ?,Gabriel vit au Népal.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Népal et Bahadur vit à France. Qui vit à France ?,"D'après les informations fournies, Bahadur vit en France.",Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Japon et Haruto vit à France. Qui vit à Japon ?,Gabriel vit au Japon.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Japon et Haruto vit à France. Qui vit à France ?,Haruto vit en France.,Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Ukraine et Nykolai vit à France. Qui vit à Ukraine ?,Gabriel vit en Ukraine.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Ukraine et Nykolai vit à France. Qui vit à France ?,"D'après les informations fournies, Nykolai vit en France.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Grèce et Marie vit à France. Qui vit à Grèce ?,Gabriel vit en Grèce.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Grèce et Marie vit à France. Qui vit à France ?,Marie vit en France.,Marie,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Turquie et Mustafa vit à France. Qui vit à Turquie ?,Gabriel vit en Turquie.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Turquie et Mustafa vit à France. Qui vit à France ?,Mustafa vit en France.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Kenya et Djimon vit à France. Qui vit à Kenya ?,Gabriel vit au Kenya.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Kenya et Djimon vit à France. Qui vit à France ?,"D'après les informations fournies, Djimon vit en France.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Thaïlande et Somchaï vit à France. Qui vit à Thaïlande ?,Gabriel vit à Thaïlande.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Thaïlande et Somchaï vit à France. Qui vit à France ?,Somchaï vit en France.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Japon et Haruto vit à Népal. Qui vit à Japon ?,Bahadur vit au Japon.,Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Japon et Haruto vit à Népal. Qui vit à Népal ?,"D'après les informations fournies, Haruto vit au Népal.",Haruto,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Ukraine et Nykolai vit à Népal. Qui vit à Ukraine ?,"D'après les informations fournies, Bahadur vit en Ukraine.",Bahadur,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Ukraine et Nykolai vit à Népal. Qui vit à Népal ?,"D'après les informations fournies, Nykolai vit au Népal.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Grèce et Marie vit à Népal. Qui vit à Grèce ?,"D'après les informations fournies, Bahadur vit en Grèce.",Bahadur,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Grèce et Marie vit à Népal. Qui vit à Népal ?,"D'après les informations fournies, Marie vit au Népal.",Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Turquie et Mustafa vit à Népal. Qui vit à Turquie ?,"D'après les informations fournies, Bahadur vit en Turquie.",Bahadur,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Turquie et Mustafa vit à Népal. Qui vit à Népal ?,"D'après les informations fournies, Mustafa vit au Népal.",Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Kenya et Djimon vit à Népal. Qui vit à Kenya ?,"D'après les informations fournies, Bahadur vit au Kenya.",Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Kenya et Djimon vit à Népal. Qui vit à Népal ?,"D'après les informations fournies, Djimon vit au Népal.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Thaïlande et Somchaï vit à Népal. Qui vit à Thaïlande ?,"D'après les informations fournies, Bahadur vit à Thaïlande.",Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Thaïlande et Somchaï vit à Népal. Qui vit à Népal ?,"Selon les informations fournies, Somchaï vit à Népal.",Somchaï,French,"Response: The assistant's response is in French, which is not the same language as the reference, but it does align with the reference provided.
+
+Rating: [[3]]"
+Haruto vit à Ukraine et Nykolai vit à Japon. Qui vit à Ukraine ?,"Selon les informations fournies, Haruto vit en Ukraine.",Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Ukraine et Nykolai vit à Japon. Qui vit à Japon ?,"D'après les informations fournies, Nykolai vit au Japon.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Grèce et Marie vit à Japon. Qui vit à Grèce ?,Haruto vit en Grèce.,Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Grèce et Marie vit à Japon. Qui vit à Japon ?,Marie vit au Japon.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Turquie et Mustafa vit à Japon. Qui vit à Turquie ?,"Selon les informations fournies, Haruto vit en Turquie.",Haruto,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Haruto vit à Turquie et Mustafa vit à Japon. Qui vit à Japon ?,Mustafa vit au Japon.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Kenya et Djimon vit à Japon. Qui vit à Kenya ?,"Selon les informations fournies, Haruto vit au Kenya.",Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Kenya et Djimon vit à Japon. Qui vit à Japon ?,"D'après les informations fournies, Djimon vit au Japon.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Thaïlande et Somchaï vit à Japon. Qui vit à Thaïlande ?,Haruto vit à Thaïlande.,Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Thaïlande et Somchaï vit à Japon. Qui vit à Japon ?,"Selon les informations fournies, Somchaï vit au Japon.",Somchaï,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Nykolai vit à Grèce et Marie vit à Ukraine. Qui vit à Grèce ?,"D'après les informations fournies, Nykolai vit en Grèce.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Grèce et Marie vit à Ukraine. Qui vit à Ukraine ?,"Selon les informations fournies, Marie vit en Ukraine.",Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Turquie et Mustafa vit à Ukraine. Qui vit à Turquie ?,"Selon les informations fournies, Nykolai vit en Turquie.",Nykolai,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Nykolai vit à Turquie et Mustafa vit à Ukraine. Qui vit à Ukraine ?,"D'après les informations fournies, Mustafa vit en Ukraine.",Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Kenya et Djimon vit à Ukraine. Qui vit à Kenya ?,"D'après les informations fournies, Nykolai vit au Kenya.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Kenya et Djimon vit à Ukraine. Qui vit à Ukraine ?,"D'après les informations fournies, Djimon vit en Ukraine.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Thaïlande et Somchaï vit à Ukraine. Qui vit à Thaïlande ?,"D'après les informations fournies, Nykolai vit à Thaïlande.",Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Thaïlande et Somchaï vit à Ukraine. Qui vit à Ukraine ?,"Selon les informations fournies, Somchaï vit en Ukraine.",Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Turquie et Mustafa vit à Grèce. Qui vit à Turquie ?,Marie vit en Turquie.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Turquie et Mustafa vit à Grèce. Qui vit à Grèce ?,"D'après les informations fournies, Mustafa vit en Grèce.",Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Kenya et Djimon vit à Grèce. Qui vit à Kenya ?,Marie vit au Kenya.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Kenya et Djimon vit à Grèce. Qui vit à Grèce ?,"D'après les informations fournies, Djimon vit en Grèce.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Thaïlande et Somchaï vit à Grèce. Qui vit à Thaïlande ?,Marie vit à Thaïlande.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Thaïlande et Somchaï vit à Grèce. Qui vit à Grèce ?,"D'après les informations fournies, Somchaï vit en Grèce.",Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa vit à Kenya et Djimon vit à Turquie. Qui vit à Kenya ?,Mustafa vit au Kenya.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa vit à Kenya et Djimon vit à Turquie. Qui vit à Turquie ?,"D'après les informations fournies, Djimon vit à Turquie.",Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa vit à Thaïlande et Somchaï vit à Turquie. Qui vit à Thaïlande ?,"D'après les informations fournies, Mustafa vit à Thaïlande.",Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa vit à Thaïlande et Somchaï vit à Turquie. Qui vit à Turquie ?,"Selon les informations fournies, Somchaï vit à Turquie.",Somchaï,French,"The assistant's response is in French, which is not the same language as the reference (Somchaï, which is not clearly a language but can be considered as a name in the context). However, the response aligns with the reference by correctly stating that Somchaï lives in Turkey.
+
+Rating: [[3]]"
+Djimon vit à Thaïlande et Somchaï vit à Kenya. Qui vit à Thaïlande ?,Djimon vit à Thaïlande.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Djimon vit à Thaïlande et Somchaï vit à Kenya. Qui vit à Kenya ?,"Selon les informations fournies, Somchaï vit au Kenya.",Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"

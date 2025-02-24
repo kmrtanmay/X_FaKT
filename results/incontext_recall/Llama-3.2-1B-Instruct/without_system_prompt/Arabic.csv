@@ -1,0 +1,491 @@
+Question,Predicted,answers,label,llm_output
+ديفيد يعيش في الهند و راؤول يعيش في الولايات المتحدة. من يعيش في الهند؟,الجواب هو: 2,ديفيد,Arabic,"The assistant's response is in Arabic, which aligns with the reference, but the answer provided (2) does not align with the reference. The correct answer should be ""ديفيد"" (David).
+
+Rating: [[4]]"
+ديفيد يعيش في الهند و راؤول يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,الجواب هو:  فيدير (فيدرال) و راؤل (روال),راؤول,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""راؤول"" (Raoul).
+
+Rating: [[4]]"
+ديفيد يعيش في الصين و لي وي يعيش في الولايات المتحدة. من يعيش في الصين؟,ديفيد يعيش في الصين.,ديفيد,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ديفيد يعيش في الصين و لي وي يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,لا، ديفيد لي يعيش في الصين.,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+ديفيد يعيش في روسيا و سيرجي يعيش في الولايات المتحدة. من يعيش في روسيا؟,الجواب هو ديفيد و سيرجي,ديفيد,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both David and Sergei live in Russia.
+
+Rating: [[4]]"
+ديفيد يعيش في روسيا و سيرجي يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,لا، ديفيد يعيش في روسيا، وسييرجي يعيش في الولايات المتحدة.,سيرجي,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Sergei lives in the United States.
+
+Rating: [[1]]"
+ديفيد يعيش في المملكة العربية السعودية و عبد العزيز يعيش في الولايات المتحدة. من يعيش في المملكة العربية السعودية؟,"الناس الذين يعيشون في المملكة العربية السعودية هما:
+
+1.  ديفيد
+2.  عبد العزيز",ديفيد,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both David and Abdulaziz live in Saudi Arabia.
+
+Rating: [[4]]"
+ديفيد يعيش في المملكة العربية السعودية و عبد العزيز يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,لا، هذا لا يمكنني responder.,عبد العزيز,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not answer the question asked.
+
+Rating: [[4]]"
+ديفيد يعيش في فرنسا و غابرييل يعيش في الولايات المتحدة. من يعيش في فرنسا؟,ديفيد يعيش في فرنسا.,ديفيد,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ديفيد يعيش في فرنسا و غابرييل يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,الجواب هو: غابرييل,غابرييل,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ديفيد يعيش في نيبال و بهادور يعيش في الولايات المتحدة. من يعيش في نيبال؟,الجنس هو متوفر في نيبال.,ديفيد,Arabic,"The assistant's response is in the same language but is completely unrelated to the reference provided.
+
+Rating: [[4]]"
+ديفيد يعيش في نيبال و بهادور يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,الجواب هو:  فيل,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+ديفيد يعيش في اليابان و هاروتو يعيش في الولايات المتحدة. من يعيش في اليابان؟,ديفيد يعيش في اليابان.,ديفيد,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ديفيد يعيش في اليابان و هاروتو يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,لا، ديفيد يعيش في اليابان، و هاروتو يعيش في الولايات المتحدة.,هاروتو,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ديفيد يعيش في أوكرانيا و نيكولاي يعيش في الولايات المتحدة. من يعيش في أوكرانيا؟,"الجنس: ذكر
+الAGE: 35
+البلاد: أوكرانيا
+المنطقة: كاليفورنيا",ديفيد,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. It does not answer the question asked and provides irrelevant information.
+
+Rating: [[4]]"
+ديفيد يعيش في أوكرانيا و نيكولاي يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,النيكولاي هو من يعيش في الولايات المتحدة.,نيكولاي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ديفيد يعيش في اليونان و ماريا يعيش في الولايات المتحدة. من يعيش في اليونان؟,الجواب هو: ديفيد و ماريا,ديفيد,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both David and Maria live in Greece.
+
+Rating: [[4]]"
+ديفيد يعيش في اليونان و ماريا يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,الجواب هو: 2,ماريا,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""ماريا"" (Maria).
+
+Rating: [[4]]"
+ديفيد يعيش في ديك رومى و مصطفى يعيش في الولايات المتحدة. من يعيش في ديك رومى؟,ديفيد يعيش في ديك رومى، و مصطفى يعيش في الولايات المتحدة.,ديفيد,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ديفيد يعيش في ديك رومى و مصطفى يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,الجواب هو: 2,مصطفى,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not answer the question correctly.
+
+Rating: [[4]]"
+ديفيد يعيش في كينيا و دجيمون يعيش في الولايات المتحدة. من يعيش في كينيا؟,الجنس هو خالٍ.,ديفيد,Arabic,"The assistant's response is in Arabic but does not align with the reference provided.
+
+Rating: [[4]]"
+ديفيد يعيش في كينيا و دجيمون يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,الجواب هو:  في كينيا,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+ديفيد يعيش في تايلاند و سومتشاي يعيش في الولايات المتحدة. من يعيش في تايلاند؟,الجنس هو سيكون David، وهو من أصل إنجليزي.,ديفيد,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""ديفيد"" (David) as the one who lives in Thailand, but the assistant provided an unrelated and incorrect response.
+
+Rating: [[4]]"
+ديفيد يعيش في تايلاند و سومتشاي يعيش في الولايات المتحدة. من يعيش في الولايات المتحدة؟,الجواب هو:  فيل,سومتشاي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+راؤول يعيش في الصين و لي وي يعيش في الهند. من يعيش في الصين؟,الرجل يعيش في الصين.,راؤول,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not specify the name of the person living in China.
+
+Rating: [[4]]"
+راؤول يعيش في الصين و لي وي يعيش في الهند. من يعيش في الهند؟,الجواب هو:  في الهند، يعيش لي ويعيش في الصين.,لي وي,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference, but it is not clear and concise. It should have directly stated ""لي وي يعيش في الهند"" (Lei Wei lives in India). However, since the answer does align with the reference, it should not be penalized too harshly.
+
+Rating: [[1]]"
+راؤول يعيش في روسيا و سيرجي يعيش في الهند. من يعيش في روسيا؟,الرجل الذي يعيش في روسيا هو راؤول.,راؤول,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في روسيا و سيرجي يعيش في الهند. من يعيش في الهند؟,الجواب هو: سيرجي,سيرجي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في المملكة العربية السعودية و عبد العزيز يعيش في الهند. من يعيش في المملكة العربية السعودية؟,الرجل الذي يعيش في المملكة العربية السعودية هو راؤول.,راؤول,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في المملكة العربية السعودية و عبد العزيز يعيش في الهند. من يعيش في الهند؟,الجواب هو:  من بينهم:,عبد العزيز,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not answer the question correctly.
+
+Rating: [[4]]"
+راؤول يعيش في فرنسا و غابرييل يعيش في الهند. من يعيش في فرنسا؟,الجواب هو: راؤول يعيش في فرنسا.,راؤول,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في فرنسا و غابرييل يعيش في الهند. من يعيش في الهند؟,الجواب هو: غابرييل,غابرييل,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في نيبال و بهادور يعيش في الهند. من يعيش في نيبال؟,الرجل الذي يعيش في نيبال هو راؤول.,راؤول,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في نيبال و بهادور يعيش في الهند. من يعيش في الهند؟,الجواب هو:  في نيبال.,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+راؤول يعيش في اليابان و هاروتو يعيش في الهند. من يعيش في اليابان؟,الرجل يعيش في اليابان.,راؤول,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not specify the name of the person who lives in Japan.
+
+Rating: [[4]]"
+راؤول يعيش في اليابان و هاروتو يعيش في الهند. من يعيش في الهند؟,الجواب هو:  رامن,هاروتو,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+راؤول يعيش في أوكرانيا و نيكولاي يعيش في الهند. من يعيش في أوكرانيا؟,الرجل الذي يعيش في أوكرانيا هو راؤول.,راؤول,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في أوكرانيا و نيكولاي يعيش في الهند. من يعيش في الهند؟,الجواب هو:  نيكولاي يعيش في الهند.,نيكولاي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في اليونان و ماريا يعيش في الهند. من يعيش في اليونان؟,الجواب هو: راؤول يعيش في اليونان.,راؤول,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في اليونان و ماريا يعيش في الهند. من يعيش في الهند؟,الجواب هو:  راؤول يعيش في الهند.,ماريا,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+راؤول يعيش في ديك رومى و مصطفى يعيش في الهند. من يعيش في ديك رومى؟,الرائعة,راؤول,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+راؤول يعيش في ديك رومى و مصطفى يعيش في الهند. من يعيش في الهند؟,الجواب هو:  راؤول يعيش في ديك رومى و مصطفى يعيش في الهند,مصطفى,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+راؤول يعيش في كينيا و دجيمون يعيش في الهند. من يعيش في كينيا؟,الرجل يعيش في كينيا.,راؤول,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not specify the name of the person who lives in Kenya.
+
+Rating: [[4]]"
+راؤول يعيش في كينيا و دجيمون يعيش في الهند. من يعيش في الهند؟,الجواب هو:  في كينيا,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+راؤول يعيش في تايلاند و سومتشاي يعيش في الهند. من يعيش في تايلاند؟,الرجل يعيش في تايلاند.,راؤول,Arabic,"The assistant's response is in the same language as the reference but does not provide the specific name requested in the question. It should have answered ""راؤول"" instead of ""الرجل"".
+
+Rating: [[4]]"
+راؤول يعيش في تايلاند و سومتشاي يعيش في الهند. من يعيش في الهند؟,الجواب هو:  في تايلاند,سومتشاي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+لي وي يعيش في روسيا و سيرجي يعيش في الصين. من يعيش في روسيا؟,الجواب هو:  روسيا,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not fully align with the reference, as it does not specify who lives in Russia.
+
+Rating: [[4]]"
+لي وي يعيش في روسيا و سيرجي يعيش في الصين. من يعيش في الصين؟,لا، لا يعيش سيرجي في الصين.,سيرجي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that سيرجي does not live in China when the question indicates that سيرجي does live in China.
+
+Rating: [[4]]"
+لي وي يعيش في المملكة العربية السعودية و عبد العزيز يعيش في الصين. من يعيش في المملكة العربية السعودية؟,"الجواب هو:  من بينهم: 
+- عبد العزيز بن عبد العزيز آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل سعود
+- عبد العزيز بن محمد آل",لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer given is incorrect and irrelevant to the question asked.
+
+Rating: [[4]]"
+لي وي يعيش في المملكة العربية السعودية و عبد العزيز يعيش في الصين. من يعيش في الصين؟,الإجابة الصحيحة هي:  في المملكة العربية السعودية.,عبد العزيز,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+لي وي يعيش في فرنسا و غابرييل يعيش في الصين. من يعيش في فرنسا؟,الجواب هو: غابرييل,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that Gabriel lives in France instead of Lei Wei.
+
+Rating: [[4]]"
+لي وي يعيش في فرنسا و غابرييل يعيش في الصين. من يعيش في الصين؟,الجواب هو: غابرييل,غابرييل,Arabic,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+لي وي يعيش في نيبال و بهادور يعيش في الصين. من يعيش في نيبال؟,الجواب هو: 2,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""لي وي"" (Lei Wei).
+
+Rating: [[4]]"
+لي وي يعيش في نيبال و بهادور يعيش في الصين. من يعيش في الصين؟,الإجابة الصحيحة هي:  في نيبال.,بهادور,Arabic,"The assistant's response is in Arabic, which aligns with the language of the reference and the question. However, the answer provided is incorrect as it states that the person lives in Nepal instead of China, which does not align with the reference.
+
+Rating: [[4]]"
+لي وي يعيش في اليابان و هاروتو يعيش في الصين. من يعيش في اليابان؟,الجواب هو هاروتو,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that Haruto lives in Japan instead of Lei Wei.
+
+Rating: [[4]]"
+لي وي يعيش في اليابان و هاروتو يعيش في الصين. من يعيش في الصين؟,لا، هاروتو يعيش في اليابان.,هاروتو,Arabic,"The assistant's response is in the same language (Arabic) but does not align with the reference provided, as it states that هاروتو (Haruto) lives in Japan, when the question asks who lives in China.
+
+Rating: [[4]]"
+لي وي يعيش في أوكرانيا و نيكولاي يعيش في الصين. من يعيش في أوكرانيا؟,النيكولاي هو من يعيش في أوكرانيا.,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that Nicolai lives in Ukraine instead of Lei Wei.
+
+Rating: [[4]]"
+لي وي يعيش في أوكرانيا و نيكولاي يعيش في الصين. من يعيش في الصين؟,الجواب هو:  نيكولاي هو من يعيش في الصين.,نيكولاي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+لي وي يعيش في اليونان و ماريا يعيش في الصين. من يعيش في اليونان؟,الجواب هو: 2,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+لي وي يعيش في اليونان و ماريا يعيش في الصين. من يعيش في الصين؟,الجواب هو:  يعيش في الصين,ماريا,Arabic,"The assistant's response is in the same language as the reference but does not fully align with the reference, as it does not specify who lives in China.
+
+Rating: [[1]]"
+لي وي يعيش في ديك رومى و مصطفى يعيش في الصين. من يعيش في ديك رومى؟,الجواب هو: ديك رومى,لي وي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not correctly answer the question asked.
+
+Rating: [[4]]"
+لي وي يعيش في ديك رومى و مصطفى يعيش في الصين. من يعيش في الصين؟,الجواب هو: 2,مصطفى,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""مصطفى"" (Mustafa).
+
+Rating: [[4]]"
+لي وي يعيش في كينيا و دجيمون يعيش في الصين. من يعيش في كينيا؟,الجواب هو:  في كينيا.,لي وي,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference, but it is not specific enough. The assistant should have clearly stated ""لي وي"" as the answer. However, since the response does align with the reference, it should not be penalized too harshly.
+
+Rating: [[1]]"
+لي وي يعيش في كينيا و دجيمون يعيش في الصين. من يعيش في الصين؟,الجواب هو:  في الصين، يعيش 1.3 مليون شخص في كينيا.,دجيمون,Arabic,"The assistant's response is in Arabic but does not align with the reference provided. The assistant should have answered ""دجيمون"" as the one who lives in China.
+
+Rating: [[4]]"
+لي وي يعيش في تايلاند و سومتشاي يعيش في الصين. من يعيش في تايلاند؟,الجواب هو: 2,لي وي,Arabic,"The assistant's response is in Arabic, which aligns with the reference, but the answer provided (2) does not align with the reference. The correct answer should be ""لي وي"" (Lei Wei).
+
+Rating: [[3]]"
+لي وي يعيش في تايلاند و سومتشاي يعيش في الصين. من يعيش في الصين؟,الجواب هو:  الصيني,سومتشاي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as the correct answer should be ""سومتشاي"" (Somchai).
+
+Rating: [[4]]"
+سيرجي يعيش في المملكة العربية السعودية و عبد العزيز يعيش في روسيا. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي سيرجي.,سيرجي,Arabic,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في المملكة العربية السعودية و عبد العزيز يعيش في روسيا. من يعيش في روسيا؟,حسناً، الإجابة هي سيرجي.,عبد العزيز,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that Sergei lives in Russia instead of Abdulaziz.
+
+Rating: [[4]]"
+سيرجي يعيش في فرنسا و غابرييل يعيش في روسيا. من يعيش في فرنسا؟,الجواب هو سيرجي,سيرجي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في فرنسا و غابرييل يعيش في روسيا. من يعيش في روسيا؟,الجواب هو غابرييل,غابرييل,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في نيبال و بهادور يعيش في روسيا. من يعيش في نيبال؟,الجواب هو سيرجي,سيرجي,Arabic,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في نيبال و بهادور يعيش في روسيا. من يعيش في روسيا؟,الجواب هو: سيرجي يعيش في روسيا.,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that سيرجي (Sergei) lives in Russia instead of بهادور (Bahadur).
+
+Rating: [[4]]"
+سيرجي يعيش في اليابان و هاروتو يعيش في روسيا. من يعيش في اليابان؟,سيرجي يعيش في اليابان.,سيرجي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في اليابان و هاروتو يعيش في روسيا. من يعيش في روسيا؟,الجواب هو: هاروتو,هاروتو,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في أوكرانيا و نيكولاي يعيش في روسيا. من يعيش في أوكرانيا؟,الجواب هو سيرجي و نيكولاي,سيرجي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both Sergei and Nikolai live in Ukraine.
+
+Rating: [[4]]"
+سيرجي يعيش في أوكرانيا و نيكولاي يعيش في روسيا. من يعيش في روسيا؟,الجواب هو نيكولاي,نيكولاي,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في اليونان و ماريا يعيش في روسيا. من يعيش في اليونان؟,الجواب هو سيرجي,سيرجي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في اليونان و ماريا يعيش في روسيا. من يعيش في روسيا؟,الجواب هو: سيرجي,ماريا,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+سيرجي يعيش في ديك رومى و مصطفى يعيش في روسيا. من يعيش في ديك رومى؟,سيرجي يعيش في ديك رومى، و مصطفى يعيش في روسيا.,سيرجي,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في ديك رومى و مصطفى يعيش في روسيا. من يعيش في روسيا؟,الجواب هو مصطفى,مصطفى,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في كينيا و دجيمون يعيش في روسيا. من يعيش في كينيا؟,سيرجي يعيش في كينيا.,سيرجي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في كينيا و دجيمون يعيش في روسيا. من يعيش في روسيا؟,الجواب هو سيرجي,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that سيرجي (Sergei) lives in Russia instead of دجيمون (Djimon).
+
+Rating: [[4]]"
+سيرجي يعيش في تايلاند و سومتشاي يعيش في روسيا. من يعيش في تايلاند؟,الجواب هو سيرجي,سيرجي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+سيرجي يعيش في تايلاند و سومتشاي يعيش في روسيا. من يعيش في روسيا؟,الجواب هو سيرجي,سومتشاي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as the correct answer should be سومتشاي (Somchai).
+
+Rating: [[4]]"
+عبد العزيز يعيش في فرنسا و غابرييل يعيش في المملكة العربية السعودية. من يعيش في فرنسا؟,حسناً، الإجابة هي عبد العزيز.,عبد العزيز,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+عبد العزيز يعيش في فرنسا و غابرييل يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي غابرييل.,غابرييل,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+عبد العزيز يعيش في نيبال و بهادور يعيش في المملكة العربية السعودية. من يعيش في نيبال؟,حسناً، الإجابة هي: عدة أشخاص.,عبد العزيز,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not correctly answer the question about who lives in Nepal.
+
+Rating: [[4]]"
+عبد العزيز يعيش في نيبال و بهادور يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي: عدة أشخاص يعيشون في المملكة العربية السعودية.,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not specifically answer who lives in Saudi Arabia.
+
+Rating: [[4]]"
+عبد العزيز يعيش في اليابان و هاروتو يعيش في المملكة العربية السعودية. من يعيش في اليابان؟,حسناً، الإجابة هي: عدة أشخاص.,عبد العزيز,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not correctly identify who lives in Japan.
+
+Rating: [[4]]"
+عبد العزيز يعيش في اليابان و هاروتو يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي: عدة أشخاص.,هاروتو,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""هاروتو"" (Haruto).
+
+Rating: [[4]]"
+عبد العزيز يعيش في أوكرانيا و نيكولاي يعيش في المملكة العربية السعودية. من يعيش في أوكرانيا؟,"حسناً، الإجابة هي:  عدة أشخاص يعيشون في أوكرانيا، وهم:
+
+1.  عبد العزيز (عبد العزيز) - هو رجل أعمال وسياسي وسياسي أوكراني.
+2.  نيكولاي (نيكولاي) - هو رجل أعمال وسياسي أوكراني.",عبد العزيز,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that both Abdul Aziz and Nikolai live in Ukraine, while the reference only mentions Abdul Aziz as living in Ukraine.
+
+Rating: [[4]]"
+عبد العزيز يعيش في أوكرانيا و نيكولاي يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي 2,نيكولاي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""نيكولاي"" (Nikolai).
+
+Rating: [[4]]"
+عبد العزيز يعيش في اليونان و ماريا يعيش في المملكة العربية السعودية. من يعيش في اليونان؟,حسناً، الإجابة هي عبد العزيز.,عبد العزيز,Arabic,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+عبد العزيز يعيش في اليونان و ماريا يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي:  من يعيش في المملكة العربية السعودية.,ماريا,Arabic,"The assistant's response is in the same language as the reference but does not provide a clear answer to the question. It should have stated that Maria lives in Saudi Arabia.
+
+Rating: [[4]]"
+عبد العزيز يعيش في ديك رومى و مصطفى يعيش في المملكة العربية السعودية. من يعيش في ديك رومى؟,عبد العزيز يعيش في ديك رومى، و مصطفى يعيش في المملكة العربية السعودية.,عبد العزيز,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+عبد العزيز يعيش في ديك رومى و مصطفى يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي: عدة أشخاص يعيشون في المملكة العربية السعودية.,مصطفى,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not specifically answer who lives in Saudi Arabia.
+
+Rating: [[4]]"
+عبد العزيز يعيش في كينيا و دجيمون يعيش في المملكة العربية السعودية. من يعيش في كينيا؟,حسناً، الإجابة هي أهل كينيا.,عبد العزيز,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not correctly answer the question about who lives in Kenya.
+
+Rating: [[4]]"
+عبد العزيز يعيش في كينيا و دجيمون يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي: في المملكة العربية السعودية.,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not provide the specific answer required by the question. The assistant should have stated ""دجيمون"" (Djimon) as the answer.
+
+Rating: [[4]]"
+عبد العزيز يعيش في تايلاند و سومتشاي يعيش في المملكة العربية السعودية. من يعيش في تايلاند؟,"النص: يُشيد في تايلاند  1,000,000 شخص.",عبد العزيز,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+عبد العزيز يعيش في تايلاند و سومتشاي يعيش في المملكة العربية السعودية. من يعيش في المملكة العربية السعودية؟,حسناً، الإجابة هي:  من يعيش في المملكة العربية السعودية.,سومتشاي,Arabic,"The assistant's response is in the same language as the reference but does not provide a clear answer to the question. It fails to state who lives in Saudi Arabia, which is the core of the question.
+
+Rating: [[4]]"
+غابرييل يعيش في نيبال و بهادور يعيش في فرنسا. من يعيش في نيبال؟,حسناً، غابرييل يعيش في نيبال.,غابرييل,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+غابرييل يعيش في نيبال و بهادور يعيش في فرنسا. من يعيش في فرنسا؟,حسناً، الإجابة هي غابرييل.,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as the correct answer should be بهادور (Bahadur).
+
+Rating: [[4]]"
+غابرييل يعيش في اليابان و هاروتو يعيش في فرنسا. من يعيش في اليابان؟,حسناً، الإجابة هي غابرييل.,غابرييل,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+غابرييل يعيش في اليابان و هاروتو يعيش في فرنسا. من يعيش في فرنسا؟,حسناً، الإجابة هي غابرييل.,هاروتو,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that Gabriel lives in France instead of Haruto.
+
+Rating: [[4]]"
+غابرييل يعيش في أوكرانيا و نيكولاي يعيش في فرنسا. من يعيش في أوكرانيا؟,الجواب هو غابرييل و نيكولاي,غابرييل,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both Gabriel and Nikolai live in Ukraine.
+
+Rating: [[4]]"
+غابرييل يعيش في أوكرانيا و نيكولاي يعيش في فرنسا. من يعيش في فرنسا؟,نعم، غابرييل يعيش في فرنسا.,نيكولاي,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+غابرييل يعيش في اليونان و ماريا يعيش في فرنسا. من يعيش في اليونان؟,حسناً، الإجابة هي غابرييل.,غابرييل,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+غابرييل يعيش في اليونان و ماريا يعيش في فرنسا. من يعيش في فرنسا؟,الجواب هو: غابرييل يعيش في فرنسا.,ماريا,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that Gabriel lives in France instead of Maria.
+
+Rating: [[4]]"
+غابرييل يعيش في ديك رومى و مصطفى يعيش في فرنسا. من يعيش في ديك رومى؟,غابرييل يعيش في ديك رومى.,غابرييل,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+غابرييل يعيش في ديك رومى و مصطفى يعيش في فرنسا. من يعيش في فرنسا؟,الجواب هو غابرييل و مصطفى,مصطفى,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both Gabriel and Mustafa live in France, when the reference only indicates that Mustafa lives in France.
+
+Rating: [[4]]"
+غابرييل يعيش في كينيا و دجيمون يعيش في فرنسا. من يعيش في كينيا؟,حسناً، غابرييل يعيش في كينيا.,غابرييل,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+غابرييل يعيش في كينيا و دجيمون يعيش في فرنسا. من يعيش في فرنسا؟,الجواب هو غابرييل و دجيمون,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both Gabriel and Djimon live in France.
+
+Rating: [[4]]"
+غابرييل يعيش في تايلاند و سومتشاي يعيش في فرنسا. من يعيش في تايلاند؟,الجواب هو: غابرييل يعيش في تايلاند.,غابرييل,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+غابرييل يعيش في تايلاند و سومتشاي يعيش في فرنسا. من يعيش في فرنسا؟,الجواب هو: غابرييل يعيش في فرنسا.,سومتشاي,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+بهادور يعيش في اليابان و هاروتو يعيش في نيبال. من يعيش في اليابان؟,الجنس هو أنت.,بهادور,Arabic,"The assistant's response is in the same language as the reference but is completely unrelated to the question and reference provided.
+
+Rating: [[4]]"
+بهادور يعيش في اليابان و هاروتو يعيش في نيبال. من يعيش في نيبال؟,الجواب هو: هاروتو,هاروتو,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+بهادور يعيش في أوكرانيا و نيكولاي يعيش في نيبال. من يعيش في أوكرانيا؟,النيكولاي يعيش في نيبال.,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not answer the question about who lives in Ukraine.
+
+Rating: [[4]]"
+بهادور يعيش في أوكرانيا و نيكولاي يعيش في نيبال. من يعيش في نيبال؟,نيكولاي يعيش في نيبال.,نيكولاي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+بهادور يعيش في اليونان و ماريا يعيش في نيبال. من يعيش في اليونان؟,الجنس الذي يعيش في اليونان هو الجنس الذي يعيش في نيبال هو الجنس الذي يعيش في اليونان هو الجنس الذي يعيش في نيبال هو الجنس الذي يعيش في اليونان هو الجنس الذي يعيش في نيبال هو الجنس الذي يعيش في اليونان هو الجنس الذي يعيش في نيبال هو الجنس الذي يعيش في اليونان هو الجنس الذي يعيش في نيبال هو الجنس الذي يعيش في اليونان هو الجنس الذي يعيش في نيبال هو الجنس الذي يعيش في اليونان هو الجنس الذي,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is repetitive and does not answer the question correctly.
+
+Rating: [[4]]"
+بهادور يعيش في اليونان و ماريا يعيش في نيبال. من يعيش في نيبال؟,الجنس هو متوفر في نيبال.,ماريا,Arabic,"The assistant's response is in the same language as the reference but is completely unrelated to the question and reference provided.
+
+Rating: [[4]]"
+بهادور يعيش في ديك رومى و مصطفى يعيش في نيبال. من يعيش في ديك رومى؟,الديك رومى هي مدينة في نيبال.,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Turkey (ديك رومى), and the assistant incorrectly states that Turkey is a city in Nepal.
+
+Rating: [[4]]"
+بهادور يعيش في ديك رومى و مصطفى يعيش في نيبال. من يعيش في نيبال؟,الناس يعيش في نيبال.,مصطفى,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it does not answer the specific question asked.
+
+Rating: [[4]]"
+بهادور يعيش في كينيا و دجيمون يعيش في نيبال. من يعيش في كينيا؟,الجنس هو أنت.,بهادور,Arabic,"The assistant's response is in Arabic, but it does not align with the reference provided and does not answer the question correctly.
+
+Rating: [[4]]"
+بهادور يعيش في كينيا و دجيمون يعيش في نيبال. من يعيش في نيبال؟,الجنس هو متوفر في نيبال.,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+بهادور يعيش في تايلاند و سومتشاي يعيش في نيبال. من يعيش في تايلاند؟,التيالاند هي دولة تقع في جنوب شرق آسيا، وتضم 8 دولة، ويعيش فيها حوالي 68 مليون نسمة، ويعيش فيها 7 دولة، ويعيش في 8 دولة.,بهادور,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant did not answer the question about who lives in Thailand.
+
+Rating: [[4]]"
+بهادور يعيش في تايلاند و سومتشاي يعيش في نيبال. من يعيش في نيبال؟,النيل,سومتشاي,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+هاروتو يعيش في أوكرانيا و نيكولاي يعيش في اليابان. من يعيش في أوكرانيا؟,لا، هاروتو يعيش في اليابان، وnikolay يعيش في أوكرانيا.,هاروتو,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+هاروتو يعيش في أوكرانيا و نيكولاي يعيش في اليابان. من يعيش في اليابان؟,لا، هاروتو يعيش في أوكرانيا، وnikolay يعيش في اليابان.,نيكولاي,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+هاروتو يعيش في اليونان و ماريا يعيش في اليابان. من يعيش في اليونان؟,لا، هاروتو يعيش في اليابان.,هاروتو,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+هاروتو يعيش في اليونان و ماريا يعيش في اليابان. من يعيش في اليابان؟,لا، هاروتو يعيش في اليونان، وماريا يعيش في اليابان.,ماريا,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Maria lives in Japan.
+
+Rating: [[1]]"
+هاروتو يعيش في ديك رومى و مصطفى يعيش في اليابان. من يعيش في ديك رومى؟,لا أستطيع مساعدتك في هذا السؤال.,هاروتو,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it fails to answer the question.
+
+Rating: [[4]]"
+هاروتو يعيش في ديك رومى و مصطفى يعيش في اليابان. من يعيش في اليابان؟,لا، هاروتو يعيش في ديك رومى، و مصطفو يعيش في اليابان.,مصطفى,Arabic,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+هاروتو يعيش في كينيا و دجيمون يعيش في اليابان. من يعيش في كينيا؟,لا، هاروتو يعيش في اليابان، و دجيمون يعيش في كينيا.,هاروتو,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+هاروتو يعيش في كينيا و دجيمون يعيش في اليابان. من يعيش في اليابان؟,لا، هاروتو يعيش في كينيا، و دجيمون يعيش في اليابان.,دجيمون,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+هاروتو يعيش في تايلاند و سومتشاي يعيش في اليابان. من يعيش في تايلاند؟,لا، هاروتو يعيش في اليابان، وسمتشاي يعيش في تايلاند.,هاروتو,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+هاروتو يعيش في تايلاند و سومتشاي يعيش في اليابان. من يعيش في اليابان؟,لا، هاروتو يعيش في تايلاند، وسمتشاي يعيش في اليابان.,سومتشاي,Arabic,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+نيكولاي يعيش في اليونان و ماريا يعيش في أوكرانيا. من يعيش في اليونان؟,نيكولاي يعيش في اليونان.,نيكولاي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+نيكولاي يعيش في اليونان و ماريا يعيش في أوكرانيا. من يعيش في أوكرانيا؟,نيكولاي و ماريا هما من أفراد عائلتك.,ماريا,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+نيكولاي يعيش في ديك رومى و مصطفى يعيش في أوكرانيا. من يعيش في ديك رومى؟,نيكولاي و مصطفى هما من أفراد عائلتك.,نيكولاي,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+نيكولاي يعيش في ديك رومى و مصطفى يعيش في أوكرانيا. من يعيش في أوكرانيا؟,نيكولاي و مصطفى هما من أبرز أفراد عائلتك.,مصطفى,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+نيكولاي يعيش في كينيا و دجيمون يعيش في أوكرانيا. من يعيش في كينيا؟,نيكولاي يعيش في كينيا.,نيكولاي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+نيكولاي يعيش في كينيا و دجيمون يعيش في أوكرانيا. من يعيش في أوكرانيا؟,نيكولاي يعيش في كينيا.,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+نيكولاي يعيش في تايلاند و سومتشاي يعيش في أوكرانيا. من يعيش في تايلاند؟,نيكولاي يعيش في تايلاند.,نيكولاي,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+نيكولاي يعيش في تايلاند و سومتشاي يعيش في أوكرانيا. من يعيش في أوكرانيا؟,نيكولاي هو من يعيش في أوكرانيا.,سومتشاي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that Nicolai lives in Ukraine instead of Somchai.
+
+Rating: [[4]]"
+ماريا يعيش في ديك رومى و مصطفى يعيش في اليونان. من يعيش في ديك رومى؟,ماريا يعيش في ديك رومى، و مصطفى يعيش في اليونان.,ماريا,Arabic,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+ماريا يعيش في ديك رومى و مصطفى يعيش في اليونان. من يعيش في اليونان؟,ماريا يعيش في ديك رومى و مصطفى يعيش في اليونان,مصطفى,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference, but it does not directly answer the question. The question asks who lives in Greece, and the assistant should have provided ""مصطفى"" as the answer.
+
+Rating: [[4]]"
+ماريا يعيش في كينيا و دجيمون يعيش في اليونان. من يعيش في كينيا؟,ماريا يعيش في كينيا.,ماريا,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ماريا يعيش في كينيا و دجيمون يعيش في اليونان. من يعيش في اليونان؟,الجواب هو:  ماريو,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided.
+
+Rating: [[4]]"
+ماريا يعيش في تايلاند و سومتشاي يعيش في اليونان. من يعيش في تايلاند؟,ماريا يعيش في تايلاند.,ماريا,Arabic,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+ماريا يعيش في تايلاند و سومتشاي يعيش في اليونان. من يعيش في اليونان؟,الجواب هو: ماريا,سومتشاي,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as the correct answer should be سومتشاي (Somchai).
+
+Rating: [[4]]"
+مصطفى يعيش في كينيا و دجيمون يعيش في ديك رومى. من يعيش في كينيا؟,الجواب هو مصطفى و دجيمون,مصطفى,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that both مصطفى (Mustafa) and دجيمون (Djimon) live in Kenya, whereas the question only asks about مصطفى (Mustafa).
+
+Rating: [[4]]"
+مصطفى يعيش في كينيا و دجيمون يعيش في ديك رومى. من يعيش في ديك رومى؟,الجواب هو: مصطفى يعيش في ديك رومى.,دجيمون,Arabic,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it incorrectly states that مصطفى (Mustafa) lives in ديك رومى (Turkey) instead of دجيمون (Djimon).
+
+Rating: [[4]]"
+مصطفى يعيش في تايلاند و سومتشاي يعيش في ديك رومى. من يعيش في تايلاند؟,الجواب هو: مصطفى يعيش في تايلاند و سومتشاي يعيش في ديك روما,مصطفى,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+مصطفى يعيش في تايلاند و سومتشاي يعيش في ديك رومى. من يعيش في ديك رومى؟,الجواب هو: مصطفى يعيش في تايلاند.,سومتشاي,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+دجيمون يعيش في تايلاند و سومتشاي يعيش في كينيا. من يعيش في تايلاند؟,الجيمون يعيش في تايلاند.,دجيمون,Arabic,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+دجيمون يعيش في تايلاند و سومتشاي يعيش في كينيا. من يعيش في كينيا؟,الجواب هو:  وينتج كينيا 2.5 مليون شخص.,سومتشاي,Arabic,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"

@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+David vit à Inde et Rahul vit à États-Unis. Qui vit à Inde ?,David vit à Inde.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Inde et Rahul vit à États-Unis. Qui vit à États-Unis ?,Rahul vit à États-Unis.,Rahul,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+David vit à Chine et Li Wei vit à États-Unis. Qui vit à Chine ?,David vit à Chine.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Chine et Li Wei vit à États-Unis. Qui vit à États-Unis ?,Li Wei vit à États-Unis.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Russie et Sergueï vit à États-Unis. Qui vit à Russie ?,David vit à Russie.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Russie et Sergueï vit à États-Unis. Qui vit à États-Unis ?,Sergueï vit à États-Unis.,Sergueï,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Arabie Saoudite et Abdoulaziz vit à États-Unis. Qui vit à Arabie Saoudite ?,David vit à Arabie Saoudite.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Arabie Saoudite et Abdoulaziz vit à États-Unis. Qui vit à États-Unis ?,Abdoulaziz vit à États-Unis.,Abdoulaziz,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à France et Gabriel vit à États-Unis. Qui vit à France ?,David vit à France.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à France et Gabriel vit à États-Unis. Qui vit à États-Unis ?,Gabriel vit à États-Unis.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Népal et Bahadur vit à États-Unis. Qui vit à Népal ?,David vit à Népal.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Népal et Bahadur vit à États-Unis. Qui vit à États-Unis ?,Bahadur vit à États-Unis.,Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Japon et Haruto vit à États-Unis. Qui vit à Japon ?,David vit à Japon.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Japon et Haruto vit à États-Unis. Qui vit à États-Unis ?,Haruto vit à États-Unis.,Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Ukraine et Nykolai vit à États-Unis. Qui vit à Ukraine ?,David vit à Ukraine.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Ukraine et Nykolai vit à États-Unis. Qui vit à États-Unis ?,Nykolai vit à États-Unis.,Nykolai,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Grèce et Marie vit à États-Unis. Qui vit à Grèce ?,David vit à Grèce.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Grèce et Marie vit à États-Unis. Qui vit à États-Unis ?,Marie vit à États-Unis.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Turquie et Mustafa vit à États-Unis. Qui vit à Turquie ?,"David vit à Turquie. La question demande de spécifier qui vit dans quel pays, et puisque la réponse indique que David vit à Turquie, il est clair que David est le résident de ce pays. Mustafa, en revanche, vit à États-Unis, ce qui est une information supplémentaire mais non pertinente pour répondre à la question posée.",David,French,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that David lives in Turkey and provides a clear and accurate answer to the question.
+
+Rating: [[1]]"
+David vit à Turquie et Mustafa vit à États-Unis. Qui vit à États-Unis ?,Mustafa vit à États-Unis.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Kenya et Djimon vit à États-Unis. Qui vit à Kenya ?,David vit à Kenya.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Kenya et Djimon vit à États-Unis. Qui vit à États-Unis ?,Djimon vit à États-Unis.,Djimon,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Thaïlande et Somchaï vit à États-Unis. Qui vit à Thaïlande ?,David vit à Thaïlande.,David,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+David vit à Thaïlande et Somchaï vit à États-Unis. Qui vit à États-Unis ?,Somchaï vit à États-Unis.,Somchaï,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Chine et Li Wei vit à Inde. Qui vit à Chine ?,"La réponse à cette question est simple : Rahul vit à Chine. Il est mentionné dans la phrase que Rahul vit à Chine, tandis que Li Wei vit à l'Inde.",Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Chine et Li Wei vit à Inde. Qui vit à Inde ?,Li Wei vit à Inde.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Russie et Sergueï vit à Inde. Qui vit à Russie ?,"Dans cette instruction simple, on demande de reconnaître qui vit à Russie parmi deux personnes mentionnées. La réponse est claire et directe : Rahul vit à Russie.",Rahul,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Russie et Sergueï vit à Inde. Qui vit à Inde ?,Sergueï vit à Inde.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Arabie Saoudite et Abdoulaziz vit à Inde. Qui vit à Arabie Saoudite ?,Rahul vit à Arabie Saoudite.,Rahul,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Arabie Saoudite et Abdoulaziz vit à Inde. Qui vit à Inde ?,Abdoulaziz vit à Inde.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à France et Gabriel vit à Inde. Qui vit à France ?,"La réponse à cette instruction est Rahul. Rahul vit à France, tandis que Gabriel vit à Inde.",Rahul,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à France et Gabriel vit à Inde. Qui vit à Inde ?,Gabriel vit à Inde.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Népal et Bahadur vit à Inde. Qui vit à Népal ?,Rahul vit à Népal.,Rahul,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Népal et Bahadur vit à Inde. Qui vit à Inde ?,Bahadur vit à Inde.,Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Japon et Haruto vit à Inde. Qui vit à Japon ?,La réponse à cette question est simple : Rahul vit au Japon.,Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Japon et Haruto vit à Inde. Qui vit à Inde ?,Haruto vit à Inde.,Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Ukraine et Nykolai vit à Inde. Qui vit à Ukraine ?,"La réponse à cette question est claire : Rahul vit à Ukraine. Nykolai vit à Inde, donc il n'est pas le sujet de la question concernant la résidence en Ukraine.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Ukraine et Nykolai vit à Inde. Qui vit à Inde ?,Nykolai vit à Inde.,Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Grèce et Marie vit à Inde. Qui vit à Grèce ?,"La réponse à cette instruction est Rahul. Il vit à Grèce, tandis que Marie vit à Inde.",Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Grèce et Marie vit à Inde. Qui vit à Inde ?,Marie vit à Inde.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Turquie et Mustafa vit à Inde. Qui vit à Turquie ?,"La réponse à cette question est simple : Rahul vit à Turquie. Mustafa vit à l'Inde, donc il n'est pas le sujet de la question concernant la Turquie.",Rahul,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Turquie et Mustafa vit à Inde. Qui vit à Inde ?,Mustafa vit à Inde.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Kenya et Djimon vit à Inde. Qui vit à Kenya ?,"La réponse à cette question est claire : Rahul vit à Kenya. Djimon vit à l'Inde, donc il n'est pas le sujet de la question concernant Kenya.",Rahul,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul vit à Kenya et Djimon vit à Inde. Qui vit à Inde ?,Djimon vit à Inde.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Thaïlande et Somchaï vit à Inde. Qui vit à Thaïlande ?,"La réponse à cette question est claire : Rahul vit à Thaïlande. Somchaï vit à l'Inde, donc elle ne vit pas à Thaïlande.",Rahul,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul vit à Thaïlande et Somchaï vit à Inde. Qui vit à Inde ?,Somchaï vit à Inde.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Russie et Sergueï vit à Chine. Qui vit à Russie ?,"Dans cette instruction, il est question de deux personnes, Li Wei et Sergueï, et de leur lieu de résidence. La réponse à la question ""Qui vit à Russie ?"" est Li Wei, car il est mentionné qu'il vit à Russie.",Li Wei,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Li Wei vit à Russie et Sergueï vit à Chine. Qui vit à Chine ?,"Dans cette instruction, il est question de deux personnes, Li Wei et Sergueï, chacun habitant un pays différent. La réponse à la question ""Qui vit à Chine ?"" est Sergueï, car il est mentionné qu'il vit à Chine.",Sergueï,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Arabie Saoudite et Abdoulaziz vit à Chine. Qui vit à Arabie Saoudite ?,La réponse à cette question est simple : Li Wei vit à Arabie Saoudite.,Li Wei,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Arabie Saoudite et Abdoulaziz vit à Chine. Qui vit à Chine ?,Abdoulaziz vit à Chine.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à France et Gabriel vit à Chine. Qui vit à France ?,La réponse à cette instruction est simple : Li Wei vit à France.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à France et Gabriel vit à Chine. Qui vit à Chine ?,Gabriel vit à Chine.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Népal et Bahadur vit à Chine. Qui vit à Népal ?,"La réponse à cette question est simple : Li Wei vit à Népal. La question demande spécifiquement qui vit à Népal, et parmi les deux personnes mentionnées, c'est Li Wei qui vit dans ce pays. Bahadur vit à la Chine, qui est un pays différent.",Li Wei,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Li Wei vit à Népal et Bahadur vit à Chine. Qui vit à Chine ?,Bahadur vit à Chine.,Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Japon et Haruto vit à Chine. Qui vit à Japon ?,"Dans cette instruction, il est indiqué que Li Wei vit au Japon et Haruto vit en Chine. La question demande donc qui vit au Japon. La réponse est Li Wei.",Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Japon et Haruto vit à Chine. Qui vit à Chine ?,Haruto vit à Chine.,Haruto,French,"Response: The assistant's response is in the same language as the question and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Ukraine et Nykolai vit à Chine. Qui vit à Ukraine ?,"Selon les informations fournies, Li Wei vit à Ukraine.",Li Wei,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Li Wei vit à Ukraine et Nykolai vit à Chine. Qui vit à Chine ?,Nykolai vit à Chine.,Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Grèce et Marie vit à Chine. Qui vit à Grèce ?,La réponse à cette instruction est simple : Li Wei vit à Grèce.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Grèce et Marie vit à Chine. Qui vit à Chine ?,Marie vit à Chine.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Turquie et Mustafa vit à Chine. Qui vit à Turquie ?,Li Wei vit à Turquie.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Turquie et Mustafa vit à Chine. Qui vit à Chine ?,Mustafa vit à Chine.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Kenya et Djimon vit à Chine. Qui vit à Kenya ?,Li Wei vit à Kenya.,Li Wei,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Kenya et Djimon vit à Chine. Qui vit à Chine ?,Djimon vit à Chine.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Thaïlande et Somchaï vit à Chine. Qui vit à Thaïlande ?,"Dans cette instruction, il est indiqué que Li Wei vit à Thaïlande et Somchaï vit à la Chine. Donc, la réponse à la question ""Qui vit à Thaïlande ?"" est Li Wei.",Li Wei,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei vit à Thaïlande et Somchaï vit à Chine. Qui vit à Chine ?,Somchaï vit à Chine.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Arabie Saoudite et Abdoulaziz vit à Russie. Qui vit à Arabie Saoudite ?,Sergueï vit à Arabie Saoudite.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Arabie Saoudite et Abdoulaziz vit à Russie. Qui vit à Russie ?,Abdoulaziz vit à Russie.,Abdoulaziz,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à France et Gabriel vit à Russie. Qui vit à France ?,La réponse à la question est simple : Sergueï vit à France.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à France et Gabriel vit à Russie. Qui vit à Russie ?,Gabriel vit à Russie.,Gabriel,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Népal et Bahadur vit à Russie. Qui vit à Népal ?,Sergueï vit à Népal.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Népal et Bahadur vit à Russie. Qui vit à Russie ?,Bahadur vit à Russie.,Bahadur,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Japon et Haruto vit à Russie. Qui vit à Japon ?,Sergueï vit à Japon.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Japon et Haruto vit à Russie. Qui vit à Russie ?,"Dans cette instruction, il est demandé de déterminer qui vit à Russie. La réponse est Haruto, car l'instruction indique explicitement qu'Haruto vit à Russie.",Haruto,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Sergueï vit à Ukraine et Nykolai vit à Russie. Qui vit à Ukraine ?,Sergueï vit à Ukraine.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Ukraine et Nykolai vit à Russie. Qui vit à Russie ?,Nykolai vit à Russie.,Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Grèce et Marie vit à Russie. Qui vit à Grèce ?,"Selon les informations fournies, Sergueï vit à Grèce. Par conséquent, la réponse à la question ""Qui vit à Grèce ?"" est Sergueï.",Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Grèce et Marie vit à Russie. Qui vit à Russie ?,Marie vit à Russie.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Turquie et Mustafa vit à Russie. Qui vit à Turquie ?,"La réponse à la question est Sergueï. Il vit à Turquie, tandis que Mustafa vit à Russie.",Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Turquie et Mustafa vit à Russie. Qui vit à Russie ?,Mustafa vit à Russie.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Kenya et Djimon vit à Russie. Qui vit à Kenya ?,Sergueï vit à Kenya.,Sergueï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Kenya et Djimon vit à Russie. Qui vit à Russie ?,Djimon vit à Russie.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Sergueï vit à Thaïlande et Somchaï vit à Russie. Qui vit à Thaïlande ?,"Somchaï vit à Russie, donc il ne vit pas à Thaïlande. Par conséquent, c'est Sergueï qui vit à Thaïlande.",Sergueï,French,"The assistant's response is in French, which is not the same language as the reference, but it does correctly identify that Sergueï lives in Thailand, aligning with the reference.
+
+Rating: [[3]]"
+Sergueï vit à Thaïlande et Somchaï vit à Russie. Qui vit à Russie ?,Somchaï vit à Russie.,Somchaï,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à France et Gabriel vit à Arabie Saoudite. Qui vit à France ?,Abdoulaziz vit à France.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à France et Gabriel vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Gabriel vit à Arabie Saoudite.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Népal et Bahadur vit à Arabie Saoudite. Qui vit à Népal ?,Abdoulaziz vit à Népal.,Abdoulaziz,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Népal et Bahadur vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Bahadur vit à Arabie Saoudite.,Bahadur,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Japon et Haruto vit à Arabie Saoudite. Qui vit à Japon ?,Abdoulaziz vit au Japon.,Abdoulaziz,French,"The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Abdoulaziz vit à Japon et Haruto vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Haruto vit à Arabie Saoudite.,Haruto,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Ukraine et Nykolai vit à Arabie Saoudite. Qui vit à Ukraine ?,Abdoulaziz vit à Ukraine.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Ukraine et Nykolai vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Nykolai vit à Arabie Saoudite.,Nykolai,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Grèce et Marie vit à Arabie Saoudite. Qui vit à Grèce ?,Abdoulaziz vit à Grèce.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Grèce et Marie vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Marie vit à Arabie Saoudite.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Turquie et Mustafa vit à Arabie Saoudite. Qui vit à Turquie ?,Abdoulaziz vit à Turquie.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Turquie et Mustafa vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Mustafa vit à Arabie Saoudite.,Mustafa,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Kenya et Djimon vit à Arabie Saoudite. Qui vit à Kenya ?,Abdoulaziz vit à Kenya.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Kenya et Djimon vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Djimon vit à Arabie Saoudite.,Djimon,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdoulaziz vit à Thaïlande et Somchaï vit à Arabie Saoudite. Qui vit à Thaïlande ?,Abdoulaziz vit à Thaïlande.,Abdoulaziz,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Abdoulaziz vit à Thaïlande et Somchaï vit à Arabie Saoudite. Qui vit à Arabie Saoudite ?,Somchaï vit à Arabie Saoudite.,Somchaï,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Népal et Bahadur vit à France. Qui vit à Népal ?,Gabriel vit à Népal.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Népal et Bahadur vit à France. Qui vit à France ?,Bahadur vit à France.,Bahadur,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Japon et Haruto vit à France. Qui vit à Japon ?,Gabriel vit au Japon.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Japon et Haruto vit à France. Qui vit à France ?,La réponse à cette instruction est simple : Haruto vit à France.,Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Ukraine et Nykolai vit à France. Qui vit à Ukraine ?,Gabriel vit à Ukraine.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Ukraine et Nykolai vit à France. Qui vit à France ?,Nykolai vit à France.,Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Grèce et Marie vit à France. Qui vit à Grèce ?,Gabriel vit à Grèce.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Grèce et Marie vit à France. Qui vit à France ?,Marie vit à France.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Turquie et Mustafa vit à France. Qui vit à Turquie ?,Gabriel vit à Turquie.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Turquie et Mustafa vit à France. Qui vit à France ?,Mustafa vit à France.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Kenya et Djimon vit à France. Qui vit à Kenya ?,Gabriel vit à Kenya.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Kenya et Djimon vit à France. Qui vit à France ?,Djimon vit à France.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Thaïlande et Somchaï vit à France. Qui vit à Thaïlande ?,Gabriel vit à Thaïlande.,Gabriel,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Gabriel vit à Thaïlande et Somchaï vit à France. Qui vit à France ?,Somchaï vit à France.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Japon et Haruto vit à Népal. Qui vit à Japon ?,"La réponse à la question est Bahadur. Il vit au Japon, tandis que Haruto vit au Népal.",Bahadur,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Japon et Haruto vit à Népal. Qui vit à Népal ?,"La réponse à la question est Haruto. Selon les informations fournies, Haruto vit à Népal.",Haruto,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Ukraine et Nykolai vit à Népal. Qui vit à Ukraine ?,"La réponse à la question est Bahadur. Bahadur vit à Ukraine, tandis que Nykolai vit à Népal.",Bahadur,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Ukraine et Nykolai vit à Népal. Qui vit à Népal ?,"Selon les informations fournies, Nykolai vit à Népal.",Nykolai,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Grèce et Marie vit à Népal. Qui vit à Grèce ?,"La réponse à la question est Bahadur. Bahadur vit à Grèce, tandis que Marie vit à Népal.",Bahadur,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Grèce et Marie vit à Népal. Qui vit à Népal ?,Marie vit à Népal.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Turquie et Mustafa vit à Népal. Qui vit à Turquie ?,"La réponse à la question est Bahadur. Il vit à Turquie, tandis que Mustafa vit à Népal.",Bahadur,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Turquie et Mustafa vit à Népal. Qui vit à Népal ?,Mustafa vit à Népal.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Kenya et Djimon vit à Népal. Qui vit à Kenya ?,"La réponse à la question est Bahadur. Bahadur vit à Kenya, tandis que Djimon vit à Népal.",Bahadur,French,"Response: The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Bahadur vit à Kenya et Djimon vit à Népal. Qui vit à Népal ?,Djimon vit à Népal.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Thaïlande et Somchaï vit à Népal. Qui vit à Thaïlande ?,"La réponse à la question est Bahadur. Bahadur vit à Thaïlande, tandis que Somchaï vit à Népal.",Bahadur,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Bahadur vit à Thaïlande et Somchaï vit à Népal. Qui vit à Népal ?,Somchaï vit à Népal.,Somchaï,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Ukraine et Nykolai vit à Japon. Qui vit à Ukraine ?,"La réponse à cette question est simple : Haruto vit à Ukraine. Nykolai vit au Japon, donc il n'est pas le résident de l'Ukraine.",Haruto,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Ukraine et Nykolai vit à Japon. Qui vit à Japon ?,Nykolai vit au Japon.,Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Grèce et Marie vit à Japon. Qui vit à Grèce ?,"Dans cette instruction simple, il y a deux personnes mentionnées : Haruto et Marie. La question demande de déterminer qui vit à Grèce. La réponse à cette question est directe : Haruto vit à Grèce.",Haruto,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Grèce et Marie vit à Japon. Qui vit à Japon ?,Marie vit au Japon.,Marie,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Turquie et Mustafa vit à Japon. Qui vit à Turquie ?,"La réponse à cette question est simple : Haruto vit à Turquie. Mustafa vit au Japon, donc il n'est pas le sujet de cette question.",Haruto,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Turquie et Mustafa vit à Japon. Qui vit à Japon ?,Mustafa vit au Japon.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Kenya et Djimon vit à Japon. Qui vit à Kenya ?,"Dans cette instruction, il est question de deux personnes, Haruto et Djimon, et de leur lieu de résidence. La réponse à la question ""Qui vit à Kenya ?"" est Haruto, car il est mentionné comme vivant au Kenya. Djimon, en revanche, vit au Japon.",Haruto,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Haruto vit à Kenya et Djimon vit à Japon. Qui vit à Japon ?,Djimon vit au Japon.,Djimon,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto vit à Thaïlande et Somchaï vit à Japon. Qui vit à Thaïlande ?,"Dans cette instruction, il est question de deux personnes, Haruto et Somchaï, et de leur lieu de résidence. La réponse à la question ""Qui vit à Thaïlande ?"" est Haruto, car il est mentionné comme vivant à Thaïlande. Somchaï, en revanche, vit au Japon.",Haruto,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Haruto vit à Thaïlande et Somchaï vit à Japon. Qui vit à Japon ?,Somchaï vit au Japon.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Grèce et Marie vit à Ukraine. Qui vit à Grèce ?,La réponse à la question est simple : Nykolai vit à Grèce.,Nykolai,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Grèce et Marie vit à Ukraine. Qui vit à Ukraine ?,Marie vit à Ukraine.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Turquie et Mustafa vit à Ukraine. Qui vit à Turquie ?,"La réponse à cette question est simple : Nykolai vit à Turquie. Mustafa vit à l'Ukraine, donc il n'est pas le sujet de cette question.",Nykolai,French,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Turquie et Mustafa vit à Ukraine. Qui vit à Ukraine ?,Mustafa vit à Ukraine.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Kenya et Djimon vit à Ukraine. Qui vit à Kenya ?,"Djimon vit à Ukraine, donc il ne vit pas à Kenya. Par conséquent, la réponse est Nykolai, car il vit à Kenya.",Nykolai,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Nykolai vit à Kenya et Djimon vit à Ukraine. Qui vit à Ukraine ?,Djimon vit à Ukraine.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Nykolai vit à Thaïlande et Somchaï vit à Ukraine. Qui vit à Thaïlande ?,"Somchaï vit à Ukraine, donc il ne vit pas à Thaïlande. Par conséquent, c'est Nykolai qui vit à Thaïlande.",Nykolai,French,"The assistant's response is in French and aligns with the reference provided.
+
+Rating: [[3]]"
+Nykolai vit à Thaïlande et Somchaï vit à Ukraine. Qui vit à Ukraine ?,Somchaï vit à Ukraine.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Turquie et Mustafa vit à Grèce. Qui vit à Turquie ?,Marie vit à Turquie.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Turquie et Mustafa vit à Grèce. Qui vit à Grèce ?,Mustafa vit à Grèce.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Kenya et Djimon vit à Grèce. Qui vit à Kenya ?,Marie vit à Kenya.,Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Kenya et Djimon vit à Grèce. Qui vit à Grèce ?,Djimon vit à Grèce.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Thaïlande et Somchaï vit à Grèce. Qui vit à Thaïlande ?,"Somchaï vit à Grèce, donc c'est Marie qui vit à Thaïlande.",Marie,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Marie vit à Thaïlande et Somchaï vit à Grèce. Qui vit à Grèce ?,Somchaï vit à Grèce.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa vit à Kenya et Djimon vit à Turquie. Qui vit à Kenya ?,"La réponse à cette question est simple : Mustafa vit à Kenya. Kenya est un pays situé en Afrique de l'Est, connu pour sa diversité culturelle et son patrimoine naturel. Mustafa est l'un des habitants de ce pays.",Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa vit à Kenya et Djimon vit à Turquie. Qui vit à Turquie ?,Djimon vit à Turquie.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Mustafa vit à Thaïlande et Somchaï vit à Turquie. Qui vit à Thaïlande ?,Mustafa vit à Thaïlande.,Mustafa,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Mustafa vit à Thaïlande et Somchaï vit à Turquie. Qui vit à Turquie ?,Somchaï vit à Turquie.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Djimon vit à Thaïlande et Somchaï vit à Kenya. Qui vit à Thaïlande ?,Djimon vit à Thaïlande.,Djimon,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Djimon vit à Thaïlande et Somchaï vit à Kenya. Qui vit à Kenya ?,Somchaï vit à Kenya.,Somchaï,French,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"

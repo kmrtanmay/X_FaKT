@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+Дэйвид живет в Индия и Рахул живет в Соединенные Штаты. Кто живет в Индия?,Дэйвид живет в Индии.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Индия и Рахул живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Рахул живёт в Соединенных Штатах.,Рахул,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Китай и Ли Вэй живет в Соединенные Штаты. Кто живет в Китай?,Дэйвид живёт в Китае.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Китай и Ли Вэй живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Ли Вэй живёт в Соединенных Штатах.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Россия и Сергей живет в Соединенные Штаты. Кто живет в Россия?,Дэйвид живет в России.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Россия и Сергей живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Сергей живет в Соединенные Штаты.,Сергей,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Саудовская Аравия и Абдулазиз живет в Соединенные Штаты. Кто живет в Саудовская Аравия?,Дэйвид живёт в Саудовской Аравии.,Дэйвид,Russian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Саудовская Аравия и Абдулазиз живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Абдулазиз живет в Соединенных Штатах.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Франция и Габриэль живет в Соединенные Штаты. Кто живет в Франция?,Дэйвид живет во Франции.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Франция и Габриэль живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Габриэль живет в Соединенных Штатах.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Непал и Бахадур живет в Соединенные Штаты. Кто живет в Непал?,Дэйвид живёт в Непале.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Непал и Бахадур живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Бахадур живет в Соединенных Штатах.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Япония и Харуто живет в Соединенные Штаты. Кто живет в Япония?,Дэйвид живет в Японии.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Япония и Харуто живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Харуто живет в Соединенных Штатах.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Украина и Николай живет в Соединенные Штаты. Кто живет в Украина?,Дэйвид живет в Украине.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Украина и Николай живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Николай живет в Соединенных Штатах.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Греция и Мария живет в Соединенные Штаты. Кто живет в Греция?,Дэйвид живет в Греции.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Греция и Мария живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Мария живёт в Соединенных Штатах.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Турция и Мустафа живет в Соединенные Штаты. Кто живет в Турция?,Дэйвид живет в Турции.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Турция и Мустафа живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Мустафа живет в Соединенных Штатах.,Мустафа,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Кения и Джимон живет в Соединенные Штаты. Кто живет в Кения?,Дэйвид живёт в Кении.,Дэйвид,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Кения и Джимон живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Джимон живёт в Соединенных Штатах.,Джимон,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Таиланд и Сомчай живет в Соединенные Штаты. Кто живет в Таиланд?,Дэйвид живёт в Таиланде.,Дэйвид,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Дэйвид живет в Таиланд и Сомчай живет в Соединенные Штаты. Кто живет в Соединенные Штаты?,Сомчай живёт в Соединенных Штатах.,Сомчай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Китай и Ли Вэй живет в Индия. Кто живет в Китай?,Рахул живет в Китае.,Рахул,Russian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Китай и Ли Вэй живет в Индия. Кто живет в Индия?,Ли Вэй живёт в Индии.,Ли Вэй,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Россия и Сергей живет в Индия. Кто живет в Россия?,Рахул живет в России.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Рахул живет в Россия и Сергей живет в Индия. Кто живет в Индия?,Сергей живёт в Индии.,Сергей,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Саудовская Аравия и Абдулазиз живет в Индия. Кто живет в Саудовская Аравия?,Рахул живет в Саудовской Аравии.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Саудовская Аравия и Абдулазиз живет в Индия. Кто живет в Индия?,Абдулазиз живет в Индии.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Франция и Габриэль живет в Индия. Кто живет в Франция?,Рахул живет во Франции.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Рахул живет в Франция и Габриэль живет в Индия. Кто живет в Индия?,Габриэль живёт в Индии.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Непал и Бахадур живет в Индия. Кто живет в Непал?,Рахул живет в Непале.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Непал и Бахадур живет в Индия. Кто живет в Индия?,Бахадур живет в Индии.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Япония и Харуто живет в Индия. Кто живет в Япония?,Рахул живет в Японии.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Япония и Харуто живет в Индия. Кто живет в Индия?,Харуто живет в Индии.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Украина и Николай живет в Индия. Кто живет в Украина?,Рахул живет в Украине.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Украина и Николай живет в Индия. Кто живет в Индия?,Николай живет в Индии.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Греция и Мария живет в Индия. Кто живет в Греция?,Рахул живет в Греции.,Рахул,Russian,"The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Рахул живет в Греция и Мария живет в Индия. Кто живет в Индия?,Мария живёт в Индии.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Турция и Мустафа живет в Индия. Кто живет в Турция?,Рахул живет в Турции.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Турция и Мустафа живет в Индия. Кто живет в Индия?,Мустафа живет в Индии.,Мустафа,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Кения и Джимон живет в Индия. Кто живет в Кения?,Рахул живет в Кении.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Кения и Джимон живет в Индия. Кто живет в Индия?,Джимон живёт в Индии.,Джимон,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Таиланд и Сомчай живет в Индия. Кто живет в Таиланд?,Рахул живет в Таиланде.,Рахул,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Рахул живет в Таиланд и Сомчай живет в Индия. Кто живет в Индия?,Сомчай живёт в Индии.,Сомчай,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Россия и Сергей живет в Китай. Кто живет в Россия?,Ли Вэй живет в России.,Ли Вэй,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Россия и Сергей живет в Китай. Кто живет в Китай?,Сергей живёт в Китае.,Сергей,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Саудовская Аравия и Абдулазиз живет в Китай. Кто живет в Саудовская Аравия?,Ли Вэй живет в Саудовской Аравии.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Саудовская Аравия и Абдулазиз живет в Китай. Кто живет в Китай?,Абдулазиз живет в Китае.,Абдулазиз,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Франция и Габриэль живет в Китай. Кто живет в Франция?,Ли Вэй живет во Франции.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Франция и Габриэль живет в Китай. Кто живет в Китай?,Габриэль живёт в Китае.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Непал и Бахадур живет в Китай. Кто живет в Непал?,Ли Вэй живет в Непале.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Непал и Бахадур живет в Китай. Кто живет в Китай?,Бахадур живет в Китае.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Япония и Харуто живет в Китай. Кто живет в Япония?,Ли Вэй живет в Японии.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Япония и Харуто живет в Китай. Кто живет в Китай?,Харуто живет в Китае.,Харуто,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Украина и Николай живет в Китай. Кто живет в Украина?,Ли Вэй живет в Украине.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Украина и Николай живет в Китай. Кто живет в Китай?,Николай живет в Китае.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Греция и Мария живет в Китай. Кто живет в Греция?,Ли Вэй живет в Греции.,Ли Вэй,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Греция и Мария живет в Китай. Кто живет в Китай?,Мария живет в Китае.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Турция и Мустафа живет в Китай. Кто живет в Турция?,Ли Вэй живет в **Турции**.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Турция и Мустафа живет в Китай. Кто живет в Китай?,Мустафа живет в Китае.,Мустафа,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Кения и Джимон живет в Китай. Кто живет в Кения?,Ли Вэй живет в Кении.,Ли Вэй,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Кения и Джимон живет в Китай. Кто живет в Китай?,Джимон живет в Китае.,Джимон,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Таиланд и Сомчай живет в Китай. Кто живет в Таиланд?,Ли Вэй живет в Таиланде.,Ли Вэй,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ли Вэй живет в Таиланд и Сомчай живет в Китай. Кто живет в Китай?,Сомчай живёт в Китае.,Сомчай,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Саудовская Аравия и Абдулазиз живет в Россия. Кто живет в Саудовская Аравия?,Сергей живет в Саудовской Аравии.,Сергей,Russian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Саудовская Аравия и Абдулазиз живет в Россия. Кто живет в Россия?,Абдулазиз живет в России.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Франция и Габриэль живет в Россия. Кто живет в Франция?,Сергей живет во Франции.,Сергей,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Франция и Габриэль живет в Россия. Кто живет в Россия?,Габриэль живет в России.,Габриэль,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Непал и Бахадур живет в Россия. Кто живет в Непал?,Сергей живет в Непале.,Сергей,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Непал и Бахадур живет в Россия. Кто живет в Россия?,Бахадур живет в России.,Бахадур,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Япония и Харуто живет в Россия. Кто живет в Япония?,Сергей живет в **Японии**.,Сергей,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Япония и Харуто живет в Россия. Кто живет в Россия?,Харуто живет в России.,Харуто,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Украина и Николай живет в Россия. Кто живет в Украина?,Сергей живет в Украине.,Сергей,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Украина и Николай живет в Россия. Кто живет в Россия?,Николай живет в России.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Греция и Мария живет в Россия. Кто живет в Греция?,Сергей живет в Греции.,Сергей,Russian,"The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Сергей живет в Греция и Мария живет в Россия. Кто живет в Россия?,Мария живет в России.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Турция и Мустафа живет в Россия. Кто живет в Турция?,Сергей живет в **Турции**.,Сергей,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Турция и Мустафа живет в Россия. Кто живет в Россия?,Мустафа живет в России.,Мустафа,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Кения и Джимон живет в Россия. Кто живет в Кения?,Сергей живет в Кении.,Сергей,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Кения и Джимон живет в Россия. Кто живет в Россия?,Джимон живет в России.,Джимон,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Таиланд и Сомчай живет в Россия. Кто живет в Таиланд?,Сергей живет в Таиланде.,Сергей,Russian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Сергей живет в Таиланд и Сомчай живет в Россия. Кто живет в Россия?,Сомчай живёт в России.,Сомчай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Франция и Габриэль живет в Саудовская Аравия. Кто живет в Франция?,Абдулазиз живет во Франции.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Франция и Габриэль живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Габриэль живёт в Саудовской Аравии.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Непал и Бахадур живет в Саудовская Аравия. Кто живет в Непал?,Абдулазиз живет в Непале.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Непал и Бахадур живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Бахадур живет в Саудовской Аравии.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Япония и Харуто живет в Саудовская Аравия. Кто живет в Япония?,Абдулазиз живет в **Японии**.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Япония и Харуто живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Харуто живёт в Саудовской Аравии.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Украина и Николай живет в Саудовская Аравия. Кто живет в Украина?,Абдулазиз живет в **Украине**.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Украина и Николай живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Николай живет в Саудовской Аравии.,Николай,Russian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Греция и Мария живет в Саудовская Аравия. Кто живет в Греция?,Абдулазиз живет в Греции.,Абдулазиз,Russian,"The assistant's response is in the same language as the reference and aligns with the reference.
+
+Rating: [[1]]"
+Абдулазиз живет в Греция и Мария живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Мария живёт в Саудовской Аравии.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Турция и Мустафа живет в Саудовская Аравия. Кто живет в Турция?,Абдулазиз живет в **Турции**.,Абдулазиз,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Турция и Мустафа живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Мустафа живет в Саудовской Аравии.,Мустафа,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Кения и Джимон живет в Саудовская Аравия. Кто живет в Кения?,Абдулазиз живет в Кении.,Абдулазиз,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Кения и Джимон живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Джимон живёт в Саудовской Аравии.,Джимон,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Таиланд и Сомчай живет в Саудовская Аравия. Кто живет в Таиланд?,Абдулазиз живет в Таиланде.,Абдулазиз,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Абдулазиз живет в Таиланд и Сомчай живет в Саудовская Аравия. Кто живет в Саудовская Аравия?,Сомчай живёт в Саудовской Аравии.,Сомчай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Непал и Бахадур живет в Франция. Кто живет в Непал?,Габриэль живет в Непале.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Непал и Бахадур живет в Франция. Кто живет в Франция?,Бахадур живет во Франции.,Бахадур,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Япония и Харуто живет в Франция. Кто живет в Япония?,Габриэль живет в Японии.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Япония и Харуто живет в Франция. Кто живет в Франция?,Харуто живет во Франции.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Украина и Николай живет в Франция. Кто живет в Украина?,Габриэль живет в Украине.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Украина и Николай живет в Франция. Кто живет в Франция?,Николай живет во Франции.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Греция и Мария живет в Франция. Кто живет в Греция?,Габриэль живет в Греции.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Греция и Мария живет в Франция. Кто живет в Франция?,Мария живет во Франции.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Турция и Мустафа живет в Франция. Кто живет в Турция?,Габриэль живет в Турции.,Габриэль,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Турция и Мустафа живет в Франция. Кто живет в Франция?,Мустафа живет во Франции.,Мустафа,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Кения и Джимон живет в Франция. Кто живет в Кения?,Габриэль живет в Кении.,Габриэль,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Кения и Джимон живет в Франция. Кто живет в Франция?,Джимон живет во Франции.,Джимон,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Таиланд и Сомчай живет в Франция. Кто живет в Таиланд?,Габриэль живет в Таиланде.,Габриэль,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Габриэль живет в Таиланд и Сомчай живет в Франция. Кто живет в Франция?,Сомчай живет во Франции.,Сомчай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Япония и Харуто живет в Непал. Кто живет в Япония?,Бахадур живет в Японии.,Бахадур,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Япония и Харуто живет в Непал. Кто живет в Непал?,Харуто живет в Непале.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Украина и Николай живет в Непал. Кто живет в Украина?,Бахадур живет в Украине.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Украина и Николай живет в Непал. Кто живет в Непал?,Николай живет в Непале.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Греция и Мария живет в Непал. Кто живет в Греция?,Бахадур живет в Греции.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Греция и Мария живет в Непал. Кто живет в Непал?,Мария живет в Непале.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Турция и Мустафа живет в Непал. Кто живет в Турция?,Бахадур живет в **Турции**.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Турция и Мустафа живет в Непал. Кто живет в Непал?,Мустафа живет в Непале.,Мустафа,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Кения и Джимон живет в Непал. Кто живет в Кения?,Бахадур живет в Кении.,Бахадур,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Кения и Джимон живет в Непал. Кто живет в Непал?,Джимон живет в Непале.,Джимон,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Таиланд и Сомчай живет в Непал. Кто живет в Таиланд?,Бахадур живет в Таиланде.,Бахадур,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Бахадур живет в Таиланд и Сомчай живет в Непал. Кто живет в Непал?,Сомчай живет в Непале.,Сомчай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Украина и Николай живет в Япония. Кто живет в Украина?,Харуто живет в **Украине**.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Украина и Николай живет в Япония. Кто живет в Япония?,Николай живет в Японии.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Греция и Мария живет в Япония. Кто живет в Греция?,Харуто живет в Греции.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Греция и Мария живет в Япония. Кто живет в Япония?,Мария живёт в Японии.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Турция и Мустафа живет в Япония. Кто живет в Турция?,Харуто живет в **Турции**.,Харуто,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Турция и Мустафа живет в Япония. Кто живет в Япония?,Мустафа живет в Японии.,Мустафа,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Кения и Джимон живет в Япония. Кто живет в Кения?,Харуто живет в Кении.,Харуто,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Кения и Джимон живет в Япония. Кто живет в Япония?,Джимон живет в Японии.,Джимон,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Таиланд и Сомчай живет в Япония. Кто живет в Таиланд?,Харуто живет в Таиланде.,Харуто,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Харуто живет в Таиланд и Сомчай живет в Япония. Кто живет в Япония?,Сомчай живет в Японии.,Сомчай,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Греция и Мария живет в Украина. Кто живет в Греция?,Николай живет в Греции.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Греция и Мария живет в Украина. Кто живет в Украина?,Мария живет в Украине.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Турция и Мустафа живет в Украина. Кто живет в Турция?,Николай живет в **Турции**.,Николай,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Турция и Мустафа живет в Украина. Кто живет в Украина?,Мустафа живет в Украине.,Мустафа,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Кения и Джимон живет в Украина. Кто живет в Кения?,Николай живет в Кении.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Кения и Джимон живет в Украина. Кто живет в Украина?,Джимон живет в Украине.,Джимон,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Таиланд и Сомчай живет в Украина. Кто живет в Таиланд?,Николай живет в Таиланде.,Николай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Николай живет в Таиланд и Сомчай живет в Украина. Кто живет в Украина?,Сомчай живет в Украине.,Сомчай,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мария живет в Турция и Мустафа живет в Греция. Кто живет в Турция?,Мария живет в Турции.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мария живет в Турция и Мустафа живет в Греция. Кто живет в Греция?,Мустафа живет в Греции.,Мустафа,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мария живет в Кения и Джимон живет в Греция. Кто живет в Кения?,Мария живёт в Кении.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мария живет в Кения и Джимон живет в Греция. Кто живет в Греция?,Джимон живёт в Греции.,Джимон,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мария живет в Таиланд и Сомчай живет в Греция. Кто живет в Таиланд?,Мария живет в Таиланде.,Мария,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мария живет в Таиланд и Сомчай живет в Греция. Кто живет в Греция?,Сомчай живёт в Греции.,Сомчай,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мустафа живет в Кения и Джимон живет в Турция. Кто живет в Кения?,Мустафа живет в Кении.,Мустафа,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мустафа живет в Кения и Джимон живет в Турция. Кто живет в Турция?,Джимон живет в Турции.,Джимон,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Мустафа живет в Таиланд и Сомчай живет в Турция. Кто живет в Таиланд?,Мустафа живет в Таиланде.,Мустафа,Russian,"Response: The assistant's response is in the same language and aligns with the reference provided.
+
+Rating: [[1]]"
+Мустафа живет в Таиланд и Сомчай живет в Турция. Кто живет в Турция?,Сомчай живет в Турции.,Сомчай,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Джимон живет в Таиланд и Сомчай живет в Кения. Кто живет в Таиланд?,Джимон живет в Таиланде.,Джимон,Russian,"Response: The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Джимон живет в Таиланд и Сомчай живет в Кения. Кто живет в Кения?,Сомчай живет в Кении.,Сомчай,Russian,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"

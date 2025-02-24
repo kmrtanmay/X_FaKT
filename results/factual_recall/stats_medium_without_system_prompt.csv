@@ -1,0 +1,15 @@
+MODEL,MEAN_ASS,MEAN_UNASS,Std_ASS,Std_UNASS
+Meta-Llama-3-70B-Instruct,3.88,8.59,6.96,7.88
+gemma-2-27b-it,6.13,16.98,12.26,15.01
+phi-4,16.2,36.29,18.16,24.51
+Phi-3-medium-128k-instruct,45.7,68.38,33.94,30.39
+gemma-2-9b-it,7.43,23.5,7.93,18.43
+Meta-Llama-3-8B-Instruct,6.45,24.72,10.65,16.17
+Orca-2-7b,40.82,65.94,30.0,29.68
+deepseek-llm-7b-chat,42.15,76.97,22.9,26.91
+Mistral-7B-Instruct-v0.2,18.79,45.45,17.74,22.4
+Phi-3.5-mini-instruct,41.83,77.61,13.77,20.93
+Phi-3-mini-128k-instruct,57.35,93.98,22.59,8.96
+Llama-3.2-3B-Instruct,29.5,49.86,13.86,25.02
+gemma-2-2b-it,14.85,48.48,20.17,28.33
+Llama-3.2-1B-Instruct,43.15,70.88,15.41,22.17

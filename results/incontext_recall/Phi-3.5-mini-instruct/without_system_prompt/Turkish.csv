@@ -1,0 +1,604 @@
+Question,Predicted,answers,label,llm_output
+Davut Hindistan'de yaşıyor ve Rahul Amerika Birleşik Devletleri'de yaşıyor. Hindistan'de kim yaşıyor?,"Davut Hindistan'de yaşıyor. Bir kişinin yerel yaşı, onun yaşlanmasından bir ülkenin geçmişini ifade eder. Bu durumda, Davut Hindistan'de yaşıyor. Rahul Amerika Birleşik Devletleri'nde yaşıyor, bu da Rahul'un Amerikan bir devletin geçmişine atıfta bulunur.",Davut,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information that does not contribute to answering the question directly.
+
+Rating: [[1]]"
+Davut Hindistan'de yaşıyor ve Rahul Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,Rahul Amerika Birleşik Devletleri'de yaşıyor. Davut Hindistan'de yaşıyor ve bu yüzden Rahul Amerika Birleşik Devletleri'nde Amerikan yaşında.,Rahul,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes an incorrect statement at the end (""Rahul Amerika Birleşik Devletleri'nde Amerikan yaşında""). However, the main part of the answer is correct.
+
+Rating: [[1]]"
+Davut Çin'de yaşıyor ve Li Wei Amerika Birleşik Devletleri'de yaşıyor. Çin'de kim yaşıyor?,"Davut Çin'de yaşıyor. Bir kişinin yerel yaşı, onun yaşlandığı yerin bilinen ülkesidir. Bu durumda, Davut Çin'de yaşıyor.",Davut,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary information that does not directly answer the question. However, since the core answer is correct, it should not be penalized too harshly.
+
+Rating: [[1]]"
+Davut Çin'de yaşıyor ve Li Wei Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Li Wei, Amerika Birleşik Devletleri'nde yaşıyor. Davut Çin'de yaşıyor ve bu yüzden Davut Çin'deki bir insan ve Li Wei Amerikan insanlardır. Amerika Birleşik Devletleri'nde yaşıyorlar iki kişi var: Li Wei ve Davut.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional information that is not asked for in the question. The question only asks who lives in the United States, and the correct answer is Li Wei. The assistant correctly identifies Li Wei as living in the United States but incorrectly includes Davut as also living there, which is not true according to the reference. However, since the core of the answer is correct, the assistant should not be penalized too harshly.
+
+Rating: [[2]]"
+Davut Rusya'de yaşıyor ve Sergey Amerika Birleşik Devletleri'de yaşıyor. Rusya'de kim yaşıyor?,"Davut Rusya'de yaşıyor. Birinin zamanı, ülkenin geçmişine ve mevcut durumuna bağlıdır, bu nedenle bu bilgi, Davut'un yaşını anlamak için Rusya'nın tarihsel bilgileri veya Davut'un doğum tarihini gözden geçirmeniz gerekecektir.
+
+Öneri: Davut'un yaşını söyle",Davut,Turkish,"The assistant's response is in the same language as the reference but includes unnecessary and unrelated information. The assistant should have directly answered the question without adding irrelevant details.
+
+Rating: [[4]]"
+Davut Rusya'de yaşıyor ve Sergey Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Davut Rusya'da yaşıyor ancak bu bilgiye dayanarak, Davut Amerikanın yaşını belirtmemekle birlikte, Davut Amerikanın yaşının belirtilmemesi nedeniyle, Amerikanın yaşını anlamamızı engelleyen bir sorudur.
+
+Bu sorunu düzeltmek için Davut'un Amerikanın yaşını sağlanması gerekir.",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant fails to correctly identify that Sergey lives in the United States based on the information given.
+
+Rating: [[4]]"
+Davut Suudi Arabistan'de yaşıyor ve Abdülaziz Amerika Birleşik Devletleri'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Davut Suudi Arabistan'de yaşıyor. ""Suudi"" bu Davut'un Suudi Arabistan'daki yaşam biçimi veya kimliğini ifade eder. Bu nedenle, Davut Suudi Arabistan'de yaşıyor.",Davut,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Davut is living in Saudi Arabia.
+
+Rating: [[1]]"
+Davut Suudi Arabistan'de yaşıyor ve Abdülaziz Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Davut Suudi Arabistan'de yaşıyorken Abdülaziz Amerika Birleşik Devletleri'nde yaşıyor. Bu yüzden, Abdülaziz Amerika Birleşik Devletleri'nde yaşıyor.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Davut Fransa'de yaşıyor ve Cebrail Amerika Birleşik Devletleri'de yaşıyor. Fransa'de kim yaşıyor?,"Asistan olarak bilgiye erişimim yok, ancak dikkatli bir hesaplama veya veri tabanına erişimim yok. Ancak, Davut Fransa'da yaşıyor olduğunu biliyoruz, bu yüzden Fransa'da Davut yaşı ± bir sayı olarak kabul edebilir. Davut'un gerçek yaşına dair detayları sağlanmasını isters",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant seems to misunderstand the question and provides an irrelevant and confusing answer.
+
+Rating: [[4]]"
+Davut Fransa'de yaşıyor ve Cebrail Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Davut Fransa'da yaşıyorsa ve Cebrail Amerika Birleşik Devletleri'nde yaşıyorsa, Amerikalı yaşıyor. Amerika Birleşik Devletleri, Fransa ve Cebra ile Amerika Birleşik Devletleri'nde bulunan üç ülke tarafından oluşturulmuş bir ulusdır. Bu nedenle, Davut Amerikalı yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that ""Davut Amerikalı yaşıyor"" and provides irrelevant information about the formation of the United States, which is not related to the question.
+
+Rating: [[4]]"
+Davut Nepal'de yaşıyor ve Bahadır Amerika Birleşik Devletleri'de yaşıyor. Nepal'de kim yaşıyor?,"Davut, Nepal'de yaşıyor. Nepal'deki yaşı, kişinin yaşının ne zaman olduğunu belirtir, bu durumda Davut'un yaşının belirtilmemiştir. Bu bilgiye erişimim yok, bu yüzden Davut'un Nepal'deki yaşını bilmem gerekmektedir.",Davut,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the assistant provides unnecessary and irrelevant information about Davut's age, which is not asked in the question. The core of the answer is correct, but the additional information is not aligned with the reference.
+
+Rating: [[1]]"
+Davut Nepal'de yaşıyor ve Bahadır Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Bahadır, Amerikanistan'de yaşıyor. Davut Nepal'de yaşıyor ve Amerikanistan'de Bahadır. Davut ve Bahadır Amerikanistan'daki iki kişi.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but contains inaccuracies and does not clearly align with the reference provided. The assistant incorrectly states that Davut also lives in Amerikanistan, which contradicts the reference.
+
+Rating: [[4]]"
+Davut Japonya'de yaşıyor ve Haruto Amerika Birleşik Devletleri'de yaşıyor. Japonya'de kim yaşıyor?,"Davut Japonya'de yaşıyor. Bir kişinin yerel veya ulusal yerel yaşı, onun yaşının yerel veya ulusal yerel bir yerle ilgileniyor. Bu durumda, Davut Japonya'da yaşıyor. Bu bilgi, Davut'un yaşı hakkında bilgi vermez. Yaşı bilgi verilmemiştir.",Davut,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information. However, it does correctly state that Davut lives in Japan, which answers the question.
+
+Rating: [[1]]"
+Davut Japonya'de yaşıyor ve Haruto Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Hukuki bilgi veren bir AI dil modeli olarak, belirli kişi yaşı hakkında gerçek zamanlı veya bilgisayar veritabanlarına erişimim yoktur. Ancak, bu bilgiyi sağlayabilir:
+
+Haruto Amerika Birleşik Devletleri'nde yaşıyor, bu yüzden Haruto Amerikalı.
+
+Yardımcı olun: Yaşı bilgisi, kişis",Haruto,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information. Despite this, the core answer is correct.
+
+Rating: [[1]]"
+Davut Ukrayna'de yaşıyor ve Nikolai Amerika Birleşik Devletleri'de yaşıyor. Ukrayna'de kim yaşıyor?,"Bir AI olarak kişisel bilgi sahibim yoktur. Ancak, verilen bilgilere dayanarak, Davut Ukrayna'da yaşıyor. Nikolai Amerika Birleşik Devletleri'nde yaşıyor olması gerektiği için, bu bilgiye dayanarak Davut Ukrayna'da yaşıyor.",Davut,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Davut Ukrayna'de yaşıyor ve Nikolai Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Açıklığa kavuştuğum için, Davut Ukrayna'da yaşıyorken Nikolai Amerika Birleşik Devletleri'nde yaşıyor. Bu bilgiye göre, Nikolai Amerika Birleşik Devletleri'nde yaşıyor.",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Davut Yunanistan'de yaşıyor ve Meryem Amerika Birleşik Devletleri'de yaşıyor. Yunanistan'de kim yaşıyor?,"Davut Yunanistan'de yaşıyor. Yaşı, kişinin yaşlandığını belirtir, bu yine de Meryem Amerika Birleşik Devletleri'nde yaşıyor demektir. Bu bilgi, Davut'un yaşını belirtmek için yeterli. Ancak, belirli yaşı bilgiye sahip değiliz.
+
+(Eğer Davut'un yaşı bilgisi varsa, bu bilgi",Davut,Turkish,"The assistant's response is in the same language as the reference but includes unnecessary and irrelevant information about age, which is not asked in the question. The assistant should have focused on the fact that Davut lives in Greece, which is the correct and relevant answer to the question.
+
+Rating: [[4]]"
+Davut Yunanistan'de yaşıyor ve Meryem Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Meryem, Amerika Birleşik Devletleri'nde yaşıyor. Davut Yunanistan'de yaşıyor ve Meryem Amerikan yurttaş olduğundan, Amerikan yaşına sahip olduğunu bildirir.",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information that is not necessary and slightly deviates from the direct answer to the question. However, the core answer is correct.
+
+Rating: [[1]]"
+Davut Türkiye'de yaşıyor ve Mustafa Amerika Birleşik Devletleri'de yaşıyor. Türkiye'de kim yaşıyor?,"Bir AI olarak kişisel bilgi sahibim yoktur. Ancak, verilen bilgilere dayanarak, Davut Türkiye'de yaşıyor. Mustafa Amerika Birleşik Devletleri'nde yaşımı bilmediği için, bu bilgiyi sağlayamam. Davut'un Türkiye'deki yaşını bulmak için, onun doğum tarihinden şu anın saatine çar",Davut,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. Despite the incompleteness, the part that is provided is correct and relevant to the question.
+
+Rating: [[1]]"
+Davut Türkiye'de yaşıyor ve Mustafa Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Bu bilgiye erişimim yok, ancak bir AI olarak, verilerle doğru cevabı sağlayabilirim. Bu durumda, Davut Türkiye'de yaşıyor ve Mustafa Amerika Birleşik Devletleri'de yaşıyor, bu yüzden Mustafa Amerika Birleşik Devletleri'nde Davut yaşıyor.
+
+Bu, iki kişinin farklı yerlerde yaşı olduğun",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that Davut is living in the United States, which contradicts the information provided in the reference.
+
+Rating: [[4]]"
+Davut Kenya'de yaşıyor ve Djimon Amerika Birleşik Devletleri'de yaşıyor. Kenya'de kim yaşıyor?,"Davut, Kenya'de yaşıyor. Kenya'deki kişi yaşı, geçmiş yaşı (Amerika Birleşik Devletleri'nde yaşı) ile aynıdır. Ancak, bu bilgi, Davut'un yaşının doğrudan değerlendirilmemesi nedeniyle, gerçek yaşını belirleyemem.",Davut,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the assistant provides unnecessary and incorrect information about age, which is not relevant to the question. The correct answer should have been a straightforward statement that Davut lives in Kenya.
+
+Rating: [[4]]"
+Davut Kenya'de yaşıyor ve Djimon Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Açıklıkça verilen bilgilere dayanarak, Djimon Amerika Birleşik Devletleri'nde yaşıyor. Davut Kenya'de yaşıyor, ancak bu bilgi Davut'un yaşı hakkında gerçekleşmiyor.
+
+Bu nedenle, Amerika Birleşik Devletleri'nde yaşına dair doğru bilgi vermek için daha fazla bilgi gerektirir.
+
+Bilgi topl",Djimon,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it is unnecessarily verbose and does not directly answer the question. However, it does correctly state that Djimon lives in the United States.
+
+Rating: [[1]]"
+Davut Tayland'de yaşıyor ve Somçay Amerika Birleşik Devletleri'de yaşıyor. Tayland'de kim yaşıyor?,"Davut Tayland'de yaşıyor, bu da bize Tayland'un yaşını verir. Davut'un yaşı, Tayland'da yaşlanan süreyi belirleriz. Ancak, bu bilgi verilmemiştir ve bu konuda yardımcı olabilirim ki yaşınızı belirleyebilir veya daha fazla ayrıntı verirseniz, size daha ayrıntılı bir cevap vere",Davut,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant should have directly answered that Davut is living in Thailand, instead of providing an irrelevant and confusing response.
+
+Rating: [[4]]"
+Davut Tayland'de yaşıyor ve Somçay Amerika Birleşik Devletleri'de yaşıyor. Amerika Birleşik Devletleri'de kim yaşıyor?,"Davut Tayland'ın Amerika Birleşik Devletleri'nde yaşıyor, bu yüzden Davut yaşıyor. Amerika Birleşik Devletleri'nde yaşıyor kişi, Amerikalı bir insan.
+
+Özetle: Davut Tayland, Amerika Birleşik Devletleri'nde yaşıyor ve Amerikalı.",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Davut is living in the United States, while the reference clearly indicates that Somçay is the one living in the United States.
+
+Rating: [[4]]"
+Rahul Çin'de yaşıyor ve Li Wei Hindistan'de yaşıyor. Çin'de kim yaşıyor?,"Rahul, Çin'de yaşıyor. Li Wei Hindistan'de yaşıyor, bu yüzden Rahul Çin'deki kişi ve Li Wei Hindistan'deki kişi. Yaşı bilmemiz gerekmez, ancak açıklamamızda, Rahul Çin'deki kişi olduğunu belirtmek olduk.",Rahul,Turkish,"The assistant's response is in a different language (Turkish) but aligns with the reference provided.
+
+Rating: [[3]]"
+Rahul Çin'de yaşıyor ve Li Wei Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul'in yaşını bilmeden, Li Wei Hindistan'deki yaşını belirleyemeyiz. Rahul ve Li Wei'in yaşları bilmemiz gerekir ki bu sorunu yanıtlamamıza olanak tanır.",Li Wei,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer should be Li Wei. The assistant's response is about the ages of Rahul and Li Wei, which is not relevant to the question.
+
+Rating: [[4]]"
+Rahul Rusya'de yaşıyor ve Sergey Hindistan'de yaşıyor. Rusya'de kim yaşıyor?,"AI olarak, belirli veri veya bilgiye erişimim yok, bu yüzden Rusya'deki kişi yaşını doğrularım. Lütfen Rusya'da yaşına ilişkin bilgi verin, size yardımcı olabilirim.",Rahul,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided, as it does not answer the question about who lives in Russia.
+
+Rating: [[4]]"
+Rahul Rusya'de yaşıyor ve Sergey Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul'un yaşı veya Sergey'un yaşı hakkında bilgi verilmediği için, Hindistan'deki kişi yaşını belirlemek zor. Rahul'un Hindistan'da yaşı veya Sergey'un Hindistan'da yaşı hakkında bilgi sağlamanız gerekmektedir. Eğlenmenize ve bilgi sağlamanıza yardımcı olmaktan mutluluk",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer based on the reference is Sergey. The assistant's response is irrelevant and does not answer the question correctly.
+
+Rating: [[4]]"
+Rahul Suudi Arabistan'de yaşıyor ve Abdülaziz Hindistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Rahul, Suudi Arabistan'de yaşıyor, bu yüzden Suudi Arabistan'teki bir kişi olarak tanımlanır. Abdülaziz, Hindistan'de yaşıyor, bu yüzden Hindistan'deki bir kişi olarak tanımlanır. Bu bilgi, kişilerin yaşlarına veya yaşına ilişkin herhangi bir analiz yapmadan, Rahul'in Suudi Arabistan'deki ya",Rahul,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question. However, since it does provide the correct information that Rahul lives in Saudi Arabia, it should not be penalized too harshly.
+
+Rating: [[1]]"
+Rahul Suudi Arabistan'de yaşıyor ve Abdülaziz Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul'un Hindistan'deki yaşı bilgiye dayanarak, Abdülaziz Hindistan'deki yaşı değil. Rahul'un Hindistan'deki yaşı hakkında bilgi verilmediğinden, Abdülaziz'in Hindistan'deki yaşını belirleyememize neden oluyor. Rahul'un Hindistan'deki yaşını bilmemiz gerekirse, bu bilgi verilmesiyle Abdülaz",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant misinterprets the question, which is asking who lives in India, not about the ages of the individuals. The correct answer should have been ""Abdülaziz.""
+
+Rating: [[4]]"
+Rahul Fransa'de yaşıyor ve Cebrail Hindistan'de yaşıyor. Fransa'de kim yaşıyor?,"Bir AI olarak kişisel verilere erişimim yok, ancak bu bilgiyi manuel olarak sağlayabilirsiniz. Rahul Fransa'da yaşına dair belirli bir sayı varsa, bunu sağlayabilirsiniz.
+
+Örneğin, ""Rahul Fransa'da 30 yaşında"" olsun, bu şu şekilde ifade edilebilir:
+
+Rahul Fransa'da",Rahul,Turkish,"The assistant's response is in Turkish, which aligns with the reference, but it does not directly answer the question. The assistant provides unnecessary information and does not clearly state that Rahul lives in France.
+
+Rating: [[3]]"
+Rahul Fransa'de yaşıyor ve Cebrail Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul'un Fransa'da yaşı ve Cebrail Hindistan'de yaşı olduğunu belirttiğinden, Rahul'un Hindistan'da yaşı bilinmeyen bir bilgi olarak sağlanmamıştır. Rahul'un Hindistan'da yaşını öğrenmek için daha fazla bilgiye ihtiyacınız varsa, soru sormaktan çekinmeyin.
+
+Ör",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not correctly answer the question. The question asks who lives in India, and the correct answer is Cebrail. The assistant's response is confusing and does not provide the correct information.
+
+Rating: [[4]]"
+Rahul Nepal'de yaşıyor ve Bahadır Hindistan'de yaşıyor. Nepal'de kim yaşıyor?,"Rahul Nepal'de yaşıyor. Rahul'in Nepal'deki yaşı, kişinin yaşına bağlı olarak değişebilir, bu nedenle bu bilgiye erişimim yok. Rahul'in Nepal'deki yaşını öğrenmek için daha fazla bilgi veya kişisel verilere ihtiyacım var.",Rahul,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides unnecessary and irrelevant information about Rahul's age, which was not asked in the question.
+
+Rating: [[1]]"
+Rahul Nepal'de yaşıyor ve Bahadır Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul Nepal'de yaşıyor ancak Bahadır Hindistan'de yaşıyor. Bu bilgiye göre, Bahadır Hindistan'de yaşıyor.
+
+Not: Rahul'un Hindistan'deki yaşı hakkında net bir bilgi vermediği için, bu bilgiyle bir sonuç vermem üzere bir analiz yapamam. Rahul'un Hindistan'deki yaşını bilmem gerekirse,",Bahadır,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference. The assistant correctly identifies that Bahadır is living in India, which is the correct answer based on the reference provided. The additional note about Rahul's age in India is not relevant to the question, but it does not detract from the correct answer given.
+
+Rating: [[1]]"
+Rahul Japonya'de yaşıyor ve Haruto Hindistan'de yaşıyor. Japonya'de kim yaşıyor?,"Rahul Japonya'da yaşıyor. Rahul'un yaşı hakkında bilgi verilmediğinden, belirtilen bilgiye göre Japonya'da şu anki yaşını belirleyemeyiz. Rahul'un yaşını öğrenmek için daha fazla bilgiye ihtiyacım var.
+
+Örneğin, ""Rahul 30 yaşında"" diyelim, bu bilgiyle Rah",Rahul,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the assistant starts to diverge into an irrelevant discussion about Rahul's age, which was not asked in the question. The question specifically asks who lives in Japan, and the assistant correctly states that Rahul lives in Japan, but then veers off-topic.
+
+Rating: [[1]]"
+Rahul Japonya'de yaşıyor ve Haruto Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"AI olarak, belirli veriye erişimim yok, bu yüzden bu bilgiyi doğrudan sağlayamıyorum. Rahul Japonya'da yaşıyor ve Haruto Hindistan'de yaşıyor, ancak bu bilgiye dayanarak Haruto Hindistan'deki yaşı konusunda doğru bir cevap verebilmem için bilgiye ihtiyacım var.",Haruto,Turkish,"The assistant's response is in the same language as the reference (Turkish) but does not directly answer the question. The assistant provides a roundabout answer that reiterates the information given in the question but fails to clearly state that Haruto lives in India, which is the correct answer based on the reference. 
+
+Rating: [[4]]"
+Rahul Ukrayna'de yaşıyor ve Nikolai Hindistan'de yaşıyor. Ukrayna'de kim yaşıyor?,"AI olarak, bilgiye erişimim yok, ancak Rahul Ukrayna'da yaşıyor olduğunu biliyorum. Nikolai Hindistan'de yaşıyor olmasına göre, Rahul Hindistan'de de yaşıyor. Ukrayna'da yaşına herhangi bir belirli yaşı özetlemek için, bu bilgiyi sağlanan kaynaklara veya kişisel bilgiye eri",Rahul,Turkish,"The assistant's response is in Turkish, which aligns with the language of the reference and the question. However, the assistant's answer is incorrect and does not align with the reference. The assistant incorrectly states that Rahul lives in India, while the reference clearly states that Rahul lives in Ukraine.
+
+Rating: [[4]]"
+Rahul Ukrayna'de yaşıyor ve Nikolai Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul Ukrayna'da yaşıyor ve Nikolai Hindistan'de yaşıyor, bu bilgiye dayanarak Hindistan'de Nikolai yaşıyor.",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul Yunanistan'de yaşıyor ve Meryem Hindistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Rahul'un yaşı, Meryem'in Hindistan'daki yaşına karşılaştırıldığında belirlenmiyorsa, bu bilgiye dayanarak Rahul'un yaşını belirleyemem. Rahul'un yaşını anlamak için daha fazla bilgi veya bağlantısı gereklidir.",Rahul,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Greece (Yunanistan), and the correct answer should be Rahul. However, the assistant's response is about comparing ages, which is not relevant to the question.
+
+Rating: [[4]]"
+Rahul Yunanistan'de yaşıyor ve Meryem Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul'un yaşı Yunanistan'daki Meryem'in yaşına eşit olduğunu belirttiğinden, Meryem Hindistan'de da şu yaşı var:
+
+Rahul'un yaşı = Meryem'in yaşı
+
+Yunanistan'daki Rahul'un yaşını bilmeden, Meryem'in Hindistan'deki yaşını bilmemesi gerekmeyecek. Rahul'un yaş",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The question asks who lives in India, and the correct answer should be Meryem. The assistant's response is irrelevant and does not answer the question correctly.
+
+Rating: [[4]]"
+Rahul Türkiye'de yaşıyor ve Mustafa Hindistan'de yaşıyor. Türkiye'de kim yaşıyor?,"Rahul, Türkiye'de yaşıyor, Mustafa ise Hindistan'de yaşıyor. Ancak, bu bilgiye dayanarak Rahul'in Türkiye'deki yaşı konusunda özet bir cevap veremeyim. Rahul'in Türkiye'deki yaşını belirlemek için daha fazla bilgi gerektirir, örneğin yaşı veya bir tarih belirtilmiş bir anlama",Rahul,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the assistant provides unnecessary information and does not directly answer the question about who lives in Türkiye.
+
+Rating: [[1]]"
+Rahul Türkiye'de yaşıyor ve Mustafa Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul'un Hindistan'deki yaşı bilgiye veya veriye erişemediğim için, bu konuda yanıt vermeme yeteneğim olmadığından, kesin bir cevabı sunamam. Rahul'un Hindistan'deki yaşını bilmem gerekirse, bu bilgiyi sağlayacak başka bir kaynaktan sorabilirsiniz.",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer based on the reference is Mustafa. The assistant's response is unrelated to the question and does not provide the correct answer.
+
+Rating: [[4]]"
+Rahul Kenya'de yaşıyor ve Djimon Hindistan'de yaşıyor. Kenya'de kim yaşıyor?,"AI metin tabanlı olarak, gerçek zamanlı veya güncel bilgi sağlamak yeteneğim yok. Ancak, verilen bilgiye dayanarak, Rahul Kenya'de yaşıyor ve Djimon Hindistan'de yaşıyor. Bu bilgi, Rahul'un Kenya'da yaşını belirtir. Dolayısıyla, Rahul Kenya'de yaşıyor.",Rahul,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Rahul Kenya'de yaşıyor ve Djimon Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"AI olarak, belirtilen verilerle gerçek zamanlı veya analiz için karmaşık etkileşimde bulunamam. Ancak, verilen bilgilere dayanarak, Rahul Kenya'da yaşıyor ve Djimon Hindistan'de yaşıyor. Bu bilgilere dayanarak, Djimon Hindistan'de yaşıyor.
+
+Not: Bu, bilgileri doğrulamak için verilen",Djimon,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Djimon lives in India based on the information given.
+
+Rating: [[1]]"
+Rahul Tayland'de yaşıyor ve Somçay Hindistan'de yaşıyor. Tayland'de kim yaşıyor?,"AI olarak, belirtilen bilgilerle karmaşık veya yorumlanmasız bilgiye erişimim yok. Rahul Tayland'de yaşına veya Somçay Hindistan'de yaşına ilişkin belirli bilgiye sahip değilim. Rahul Tayland'de yaşını bilmem için daha fazla bilgi gerektirir.",Rahul,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The assistant should have stated that Rahul lives in Thailand based on the information provided. 
+
+Rating: [[4]]"
+Rahul Tayland'de yaşıyor ve Somçay Hindistan'de yaşıyor. Hindistan'de kim yaşıyor?,"Rahul'un yaşı verilen bilgisinde Somçay Hindistan'deki yaşı biliniyor. Ancak, Rahul'un yaşı kesin bir sayı değil ve bu bilgi, Somçay'in yaşını söyleyen doğru bir yanıt vermez.
+
+Doğru yanıt vermek için Rahul'un yaşı verilmiş olmalıdır: ""Rahul yaşı [X] yaşında Som",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in India, and the correct answer should be ""Somçay."" The assistant's response is confusing and does not directly answer the question.
+
+Rating: [[4]]"
+Li Wei Rusya'de yaşıyor ve Sergey Çin'de yaşıyor. Rusya'de kim yaşıyor?,"Li Wei, Rusya'de yaşıyor. Sergey Çin'de yaşıyor, bu yüzden Rusya'da Li Wei'in yaşıdır.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it is somewhat redundant and could be more concise. However, it does correctly answer the question.
+
+Rating: [[1]]"
+Li Wei Rusya'de yaşıyor ve Sergey Çin'de yaşıyor. Çin'de kim yaşıyor?,"Li Wei Çin'de yaşıyor. Sergey Çin'de de yaşıyor. Bu yüzden, Sergey Çin'de yaşıyor.
+
+Bu bilgiyi sağlayan doğru cevap: Sergey Çin'de.",Sergey,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it contains a logical error. The reference states that Sergey lives in China, but the question asks who lives in China, and the correct answer should be Sergey. The assistant's response is somewhat redundant and confusing, but it does ultimately state that Sergey lives in China.
+
+Rating: [[1]]"
+Li Wei Suudi Arabistan'de yaşıyor ve Abdülaziz Çin'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Li Wei, Suudi Arabistan'de yaşıyor. Li ve Wei, adınızın iki bölümünü birleştirirken, bu nedenle Suudi Arabistan'deki bir insan olarak Li Wei'yi tanımlar. Abdülaziz, Abdülaziz Çin'de yaşıyor, bu da Çin'deki bir insandır.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Li Wei lives in Saudi Arabia. However, the additional explanation about the name and the description of Abdulaziz, while not incorrect, is not necessary to answer the question directly. Despite this, the core answer is correct.
+
+Rating: [[1]]"
+Li Wei Suudi Arabistan'de yaşıyor ve Abdülaziz Çin'de yaşıyor. Çin'de kim yaşıyor?,"Li Wei, Arabistan'de yaşıyor ve Abdülaziz, Çin'de yaşıyor. Bu yüzden Abdülaziz Çin'teki bir kişi.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, correctly identifying that Abdülaziz lives in China.
+
+Rating: [[1]]"
+Li Wei Fransa'de yaşıyor ve Cebrail Çin'de yaşıyor. Fransa'de kim yaşıyor?,"Bir AI dil modeli olarak kişisel verilere erişimim veya takip edemem. Eğer Li Wei'nin Fransa'da yaşını bilmiyorsa, bunu sağlayan bilgilere sahip olmalısınız. Örneğin, ""Li Wei Fransa'da 30 yaşında"" diyerek, bu bilgiyi anladığınızda Fransa'da Li Wei 30 yaş",Li Wei,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided. The assistant should have answered that Li Wei lives in France based on the information given in the question.
+
+Rating: [[4]]"
+Li Wei Fransa'de yaşıyor ve Cebrail Çin'de yaşıyor. Çin'de kim yaşıyor?,"Probleme anlama ve bilgi sağlamak için, Li Wei'nin Fransa'da yaşı ve Cebrail'de yaşı bilgisi verildiğinden, Çin'deki yaşı bilgisi yoktur. Bu bilgiye dayanarak, sorunun cevabı Çin'deki Li Wei'nin yaşı olmadığına veya biliniyor değildir.
+
+Çin'de Li Wei'nin yaşı",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The question asks who lives in China, and the correct answer should be Cebrail, not a discussion about Li Wei's age.
+
+Rating: [[4]]"
+Li Wei Nepal'de yaşıyor ve Bahadır Çin'de yaşıyor. Nepal'de kim yaşıyor?,"Li Wei, Nepal'de yaşıyor. Bahadır, Çin'de yaşıyor, bu yüzden Li Wei Nepal'deki kişi olarak tanımlanır.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei Nepal'de yaşıyor ve Bahadır Çin'de yaşıyor. Çin'de kim yaşıyor?,Bahadır Çin'de yaşıyor. Li Wei Nepal'de yaşıyor ve bu bilgiye göre Li Wei'nin Çin'de yaşaması değil.,Bahadır,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Bahadır is living in China and also reiterates the information about Li Wei for clarity.
+
+Rating: [[1]]"
+Li Wei Japonya'de yaşıyor ve Haruto Çin'de yaşıyor. Japonya'de kim yaşıyor?,"Li Wei'yi Japonya'da yaşıyor, Haruto'nun Çin'de yaşıyor durumunu belirttiğiniz için, Li Wei'yi Japonya'da yaşıyor söyleniyor. Bu, Li Wei'nin Japonya'da yaşı olduğunu belirtir.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei Japonya'de yaşıyor ve Haruto Çin'de yaşıyor. Çin'de kim yaşıyor?,"Açıklama verdiğiniz bilgilere dayanarak, Çin'deki kişi Haruto'dur. Li Wei Japonya'da yaşıyor ve Haruto Çin'de yaşıyor, bu yüzden Li Wei Japonya'da, Haruto Çin'de.",Haruto,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei Ukrayna'de yaşıyor ve Nikolai Çin'de yaşıyor. Ukrayna'de kim yaşıyor?,"Li Wei, Ukrayna'de yaşıyor. Nikolai, Çin'de yaşıyor. Bu bilgiye göre, Li Wei Ukrayna'da yaşıyor.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei Ukrayna'de yaşıyor ve Nikolai Çin'de yaşıyor. Çin'de kim yaşıyor?,"Li Wei Ukrayna'de yaşıyor ve Nikolai Çin'de yaşıyor. Bu bilgiye göre, Nikolai Çin'de yaşıyor. Ukrayna'ya Li Wei'yi atıfta bulunmadığı için, onun yaşı bilmediği için kim yaşıyor söylenemeyiz.",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary information and a slight confusion at the end. However, the core answer is correct.
+
+Rating: [[1]]"
+Li Wei Yunanistan'de yaşıyor ve Meryem Çin'de yaşıyor. Yunanistan'de kim yaşıyor?,"Li Wei, yunanistan'de yaşıyor. Meryem, Çin'de yaşıyor. Bu bilgiyi, insanların yerel konumlarına ilişkin bir soru ile ilgilidir ve Li Wei'nin yunanistan'da yaşı olduğunu belirtiyoruz. Meryem'in konumu, Çin'de olduğunu da belirtiyoruz.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly states that Li Wei lives in Greece (Yunanistan).
+
+Rating: [[1]]"
+Li Wei Yunanistan'de yaşıyor ve Meryem Çin'de yaşıyor. Çin'de kim yaşıyor?,"Meryem, Çin'de yaşıyor. Li Wei Yunanistan'de yaşıyor. Bu bilgiyi, insanların yerel yaşam alanlarına odaklanan soruya yanıt verdiğim için doğru.",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei Türkiye'de yaşıyor ve Mustafa Çin'de yaşıyor. Türkiye'de kim yaşıyor?,"Li Wei, Türkiye'de yaşıyor. Mustafa Çin'de yaşıyor, bu yüzden Türkiye'deki kişi Li Wei.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Li Wei Türkiye'de yaşıyor ve Mustafa Çin'de yaşıyor. Çin'de kim yaşıyor?,"Mustafa Çin'de yaşıyor. Türkiye'de Li Wei ve Mustafa bulunan iki kişi var, ancak açıklamada belirtilen bilgilere göre Mustafa'nın Çin'deki yaşı verildi. Türkiye'deki Li Wei'yi bilinen kişi değil.",Mustafa,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information that is not necessary and slightly deviates from the direct answer to the question. However, the core answer is correct.
+
+Rating: [[1]]"
+Li Wei Kenya'de yaşıyor ve Djimon Çin'de yaşıyor. Kenya'de kim yaşıyor?,"Li Wei, Kenya'de yaşıyor. Djimon, Çin'de yaşıyor. Bu bilgi, Li Wei ve Djimon'un farklı yerlerde yaşamaktan ilgili değil, kişilere atıfta bulunan bilgilerdir. Kenya'deki kişi olarak tanımlanmadığımız için, Li Wei'nin Kenya'da yaşından belirlenen kişi hakkında ek bil",Li Wei,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the answer is incomplete and does not clearly state that Li Wei lives in Kenya, which is the key information requested. The response also includes unnecessary and incomplete information.
+
+Rating: [[2]]"
+Li Wei Kenya'de yaşıyor ve Djimon Çin'de yaşıyor. Çin'de kim yaşıyor?,"Djimon, Çin'de yaşıyor. Yaşı konuştuğumuz verdiği içerik, kişi kim olduğunu belirtir, bu durumda Djimon. Li Wei, Kenya'da yaşıyor.",Djimon,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Djimon lives in China, which is consistent with the information given in the reference.
+
+Rating: [[1]]"
+Li Wei Tayland'de yaşıyor ve Somçay Çin'de yaşıyor. Tayland'de kim yaşıyor?,"Bir AI olarak kişisel bilgi sahibim yok, ancak bu bilgiyi analiz edebiliriz.
+
+Verilen bilgiye göre, Li Wei Tayland'de yaşıyor. Bu, Li Wei'in Tayland'da yaşı olduğunu gösterir.
+
+Yanıtımızda: Li Wei Tayland'deki yaşı.",Li Wei,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Li Wei lives in Thailand.
+
+Rating: [[1]]"
+Li Wei Tayland'de yaşıyor ve Somçay Çin'de yaşıyor. Çin'de kim yaşıyor?,"Somçay, Çin'de yaşıyor. Li Wei ve onu Tayland'da yaşıyor, bu yüzden Li Wei Tayland'da ve Somçay Çin'de bulunuyor. Somçay'nin yaşı hakkında bilgi verilmediği için, bu bilgiye erişimim yok.",Somçay,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information that was not asked for. However, the core answer is correct.
+
+Rating: [[1]]"
+Sergey Suudi Arabistan'de yaşıyor ve Abdülaziz Rusya'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Seray Suudi Arabistan'de yaşıyor. Yaşı belirteci (""Suudi"") yaşını belirtir.",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that ""Seray"" lives in Saudi Arabia instead of ""Sergey.""
+
+Rating: [[4]]"
+Sergey Suudi Arabistan'de yaşıyor ve Abdülaziz Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Serayın açıklama, Abdülhamid II. Rusya'daki Tatar adıyla veya Rusya'daki Türk adıyla ilişkilendirilmiştir. Abdülhamid II., Osmanlı Devleti'nde (Birleşmiş Milletler'deki Türk Milleti) bir düşünceci, düzenleyici ve politikçiydi.
+
+Ancak, bu bilgiyi doğru bir tarihsel referans v",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated to the question asked, which is about who lives in Russia between Sergey and Abdülaziz.
+
+Rating: [[4]]"
+Sergey Fransa'de yaşıyor ve Cebrail Rusya'de yaşıyor. Fransa'de kim yaşıyor?,"Bir AI olarak kişisel verilere erişimim yok, ancak bu bilgiyi manuel olarak sağlayabilirsiniz. Serguei Fransa'da yaşına ilişkin bilgileri kontrol ederek yaşını belirleyebilirsiniz.",Sergey,Turkish,"The assistant's response is in a different language (Turkish) and does not align with the reference provided. The assistant should have answered that Sergey lives in France based on the information given.
+
+Rating: [[4]]"
+Sergey Fransa'de yaşıyor ve Cebrail Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Serguei, Fransa'da yaşıyor, ancak ayrıntı verdiğiniz Cebrail Rusya'da yaşıyor. Bu bilgiye dayanarak, Serguei Rusya'da da yaşıyor.
+
+Bu, bilgiye dayanarak doğrudan söylenen gerçekleştiği anlamına gelir ve gerçek yaşını doğrular. Ancak, gerçek yaşını doğr",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Serguei is also living in Russia, which is not supported by the reference. 
+
+Rating: [[4]]"
+Sergey Nepal'de yaşıyor ve Bahadır Rusya'de yaşıyor. Nepal'de kim yaşıyor?,"Seray, Nepal'de yaşıyor. Nepal'deki kişilerin yaşlarını belirlememize yardımcı olan bilgiye erişemem, bu yüzden bu bilgiyi manuel olarak veya erişilebilecek veri tabanlarına göz atmanız gerekecektir.
+
+Öneriler:
+- Nepal'deki yaşını öğrenmek için Nepal'deki kişi",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Seray lives in Nepal, while the reference clearly indicates that Sergey lives in Nepal.
+
+Rating: [[4]]"
+Sergey Nepal'de yaşıyor ve Bahadır Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Serayın ilişkisine göre, Bahadır Rusya'da yaşıyor. Bu, bilgiye dayanarak bir ilişki varsayımıdır, ancak gerçek yaşı konusunda bilgi vermek için gerçek bilgileri veya bağlam sağlamanız gerekir.",Bahadır,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly states that Bahadır is living in Russia.
+
+Rating: [[1]]"
+Sergey Japonya'de yaşıyor ve Haruto Rusya'de yaşıyor. Japonya'de kim yaşıyor?,"AI olarak, kişisel veri veya bilgiye erişimim yoktur, bu nedenle Japonya'da yaşına ilişkin Haruto'un yaşını bilmem gerekecek. Lütfen Haruto'un yaşını sağlayın, böylece size yardımcı olabilirim.",Sergey,Turkish,"The assistant's response is in the same language (Turkish) but does not align with the reference provided. The assistant should have answered that Sergey lives in Japan (Japonya).
+
+Rating: [[4]]"
+Sergey Japonya'de yaşıyor ve Haruto Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Bir AI olarak kişisel verilere erişimim yok, ancak açıklamanıza gerek kalmadan, verilen bilgilere dayanarak genel bir yaklaşım sağlayabilirim.
+
+Sergey Japonya'da yaşıyor ve Haruto Rusya'da yaşıyor. Bu bilgiye göre, Haruto Rusya'da yaşıyor.
+
+Lütfen bu bilgi sağlanan bilgilere",Haruto,Turkish,"The assistant's response is in Turkish and aligns with the reference provided.
+
+Rating: [[3]]"
+Sergey Ukrayna'de yaşıyor ve Nikolai Rusya'de yaşıyor. Ukrayna'de kim yaşıyor?,"Seray, Ukrayna'da yaşıyor. Nikolay, Rusya'da yaşıyor. Bu bilgiye dayanarak, Seray Ukrayna'da yaşıyor ve Nikolay Rusya'da yaşıyor.
+
+Ukrayna'da yaşıyor kişi: Seray
+Rusya'da yaşıyor kişi: Nikolay",Sergey,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, correctly identifying that Sergey lives in Ukraine.
+
+Rating: [[1]]"
+Sergey Ukrayna'de yaşıyor ve Nikolai Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Seray Ukrayna'da ve Nikolay Rusya'da olup, Nikolay Rusya Rusya'da yaşıyor. Ukrayna ve Rusya, farklı ülkeler ve bunların insanları farklı yaşlarına sahip olduğu için bu bilgiye dayanarak doğrudan yaşı konusunda net bir bilgi sağlayamıyorum. Yaşını bilmem gerekirse, bu konuda sormaktan çekin",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not clearly and concisely answer the question. The response is somewhat convoluted and includes unnecessary information.
+
+Rating: [[4]]"
+Sergey Yunanistan'de yaşıyor ve Meryem Rusya'de yaşıyor. Yunanistan'de kim yaşıyor?,"Seray Yunanistan'de yaşıyor ve Meryem Rusya'de yaşıyor. Bu bilgiye dayanarak, Seray Yunanistan'de yaşıyor.",Sergey,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it incorrectly states ""Seray"" instead of ""Sergey"". This is a minor error in the name but the structure and language are correct.
+
+Rating: [[1]]"
+Sergey Yunanistan'de yaşıyor ve Meryem Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Seray Yunanistan'de yaşıyor ve Meryem Rusya'de yaşıyor. Bu bilgiye göre, Meryem Rusya'nın yaşı Rusya'da yaşıyor. Ancak, Meryem'in gerçek yaşını belirlemek için ek bilgilere ihtiyacım var.
+
+Bilgi toplamak için: Meryem'in yaşı.",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that Seray lives in Greece instead of Sergey and also provides irrelevant information about determining Meryem's age, which was not asked in the question.
+
+Rating: [[4]]"
+Sergey Türkiye'de yaşıyor ve Mustafa Rusya'de yaşıyor. Türkiye'de kim yaşıyor?,"Seray Türkiye'de yaşıyor, bu yüzden Türkiye'deki kişi yaşı Seraydir. Mustafa Rusya'da yaşıyor, bu yüzden Rusya'da Mustafa'dır.
+
+Bu bilgiye dayanarak:
+- Türkiye'deki yaşı: Seray
+- Rusya'daki yaşı: Mustafa",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The reference mentions ""Sergey"" living in Turkey, but the assistant incorrectly states ""Seray"" as the person living in Turkey.
+
+Rating: [[4]]"
+Sergey Türkiye'de yaşıyor ve Mustafa Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Seray Türkiye'de yaşıyor ve Mustafa Rusya'da yaşıyor. Bu bilgiye dayanarak, Mustafa Rusya'da yaşıyor. Türkiye'den Rusya'ya geçiş yaşını belirleyemeyiz, ancak yaşının var olduğunu söyleyebilirim.",Mustafa,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information that is not relevant to the question. The question specifically asks who lives in Russia, and the assistant correctly identifies that Mustafa lives in Russia. However, the assistant also provides unnecessary information about Seray and a transition age, which is not part of the reference or the question.
+
+Rating: [[1]]"
+Sergey Kenya'de yaşıyor ve Djimon Rusya'de yaşıyor. Kenya'de kim yaşıyor?,"AI metin modeli olarak, gerçek zamanlı veya bilgilendirme yeteneğim yok. Ancak, verilen bilgiyi analiz ederek düşünülebilirsiniz:
+
+Seray Kenya ve Djimon Rusya, aynı yaşına sahip olduğu söylenir. Dolayısıyla, Seray Kenya'de kim yaşıyor; Seray Kenya'dır.",Sergey,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and incorrect information. The assistant should have directly stated that Sergey lives in Kenya based on the provided information.
+
+Rating: [[1]]"
+Sergey Kenya'de yaşıyor ve Djimon Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"AI olarak, bilgiye erişimim yok, ancak bu bilgileri hesaplayabilirsiniz.
+
+Serayın Djimon Rusya'da yaşını bilmemiz gerekir. Bu bilgi verilmiyorsa, bunu hesaplayabilirsiniz:
+
+Rusya'da yaşı = Serayın Kenya'da yaşı + Fark
+
+Yaşınızın kesirini sağlayın.
+
+Örne",Djimon,Turkish,"The assistant's response is in Turkish but does not align with the reference provided. The assistant fails to answer the question correctly and provides an irrelevant response.
+
+Rating: [[4]]"
+Sergey Tayland'de yaşıyor ve Somçay Rusya'de yaşıyor. Tayland'de kim yaşıyor?,"Seray Tayland'in yaşı, Somçay Rusya'nın yaşına bağlı değildir. Seray Tayland'ın yaşını bilmemiz gerekir ki, bu bilgi verilmiyor. Eğer Seray'in yaşını bana sağlarsa, size bize bunu sağlarız.",Sergey,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Thailand, and the correct answer should be Sergey, but the assistant's response is irrelevant and does not answer the question.
+
+Rating: [[4]]"
+Sergey Tayland'de yaşıyor ve Somçay Rusya'de yaşıyor. Rusya'de kim yaşıyor?,"Seray Tayland ve Somçay Rusya'de yaşıyor, ancak bu bilgiye dayanarak, spesifik bir yaşını veremeyiz. Yaşını öğrenmek için Seray ve Somçay'in yaşını bilmemiz gerekir.",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Russia, and the correct answer should be ""Somçay."" The assistant's response is incorrect and includes irrelevant information about age, which was not asked for.
+
+Rating: [[4]]"
+Abdülaziz Fransa'de yaşıyor ve Cebrail Suudi Arabistan'de yaşıyor. Fransa'de kim yaşıyor?,"Abdülaziz, Fransa'da yaşıyor, ancak bu bilgiye dayanarak insanın yaşını veremem. Yaşını bilmem gerekiyorsa, Abdülaziz'in yaşını sormak için daha fazla detay verilmelidir.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information about age, which was not asked in the question.
+
+Rating: [[1]]"
+Abdülaziz Fransa'de yaşıyor ve Cebrail Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz, Suudi Arabistan'deki bir insan olduğunu ve Suudi Arabistan'de yaşıyor. Bu nedenle, Abdülaziz Suudi Arabistan'de yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should be Cebrail, not Abdülaziz.
+
+Rating: [[4]]"
+Abdülaziz Nepal'de yaşıyor ve Bahadır Suudi Arabistan'de yaşıyor. Nepal'de kim yaşıyor?,"Abdülaziz, Nepal'de yaşıyor. Bir insan için yerleşim nispeten ilgili bilgiye sahip değiliz, bu yüzden kim yaşıyorğa ilişkin konuşmalarına veya bilgilere erişimim yok.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information.
+
+Rating: [[1]]"
+Abdülaziz Nepal'de yaşıyor ve Bahadır Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Bahadır Suudi Arabistan'de yaşıyor. Abdülaziz'in Suudi Arabistan'deki yaşı hakkında bilgi verdiğine göre, Suudi Arabistan'de Bahadır yaşıyor.",Bahadır,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdülaziz Japonya'de yaşıyor ve Haruto Suudi Arabistan'de yaşıyor. Japonya'de kim yaşıyor?,"Abdülaziz, Japonya'da yaşıyor. Suudi Arabistan'de Haruto yaşıyor. Bu bilgi, insanların yaşlarına ilginç bilgi verirken, konu hakkında gerçek bilgi sağlamaz. Bir insanın Japonya'da yaşı, Japonya'da yaşına eşit olduğunu belirtir. Bu nedenle, Abdülaziz Japonya'da yaşıyor.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and incorrect information that does not contribute to the answer. The core of the response is correct, but the additional statements are misleading and irrelevant.
+
+Rating: [[1]]"
+Abdülaziz Japonya'de yaşıyor ve Haruto Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Hesaplayan verilere dayanarak, Abdülaziz Japonya'da yaşıyor ve Haruto Suudi Arabistan'de yaşıyor. Bu bilgiye göre, Haruto Suudi Arabistan'de yaşıyor.",Haruto,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdülaziz Ukrayna'de yaşıyor ve Nikolai Suudi Arabistan'de yaşıyor. Ukrayna'de kim yaşıyor?,"Abdülaziz, Ukrayna'da yaşıyor. Suudi Arabistan'de Nikolai'nin var olduğunu biliyoruz, bu yüzden Ukrayna'da Abdülaziz'in yaşı olduğunu söyleyebiliriz. Ancak, Abdülaziz'in gerçek yaşı bilinmeyebilir.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary information and a slight confusion about the question's intent, which is to identify who lives in Ukraine. Despite this, the core answer is correct.
+
+Rating: [[1]]"
+Abdülaziz Ukrayna'de yaşıyor ve Nikolai Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz ve Nikolai, ikisi de Suudi Arabistan'de yaşıyor. Özellikle Suudi Arabistan'deki yaşı hakkında ayrıntılı bilgi vermek için, her birinin belirli yaşı verilmemiştir.",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should be Nikolai, but the assistant incorrectly states that both Abdülaziz and Nikolai live in Saudi Arabia.
+
+Rating: [[4]]"
+Abdülaziz Yunanistan'de yaşıyor ve Meryem Suudi Arabistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Abdülaziz, Yunanistan'de yaşıyor. Meryem, Suudi Arabistan'de yaşıyor. Bu bilgiye dayanarak, Abdülaziz Yunanistan'de yaşıyor.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Abdülaziz Yunanistan'de yaşıyor ve Meryem Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Suudi Arabistan'de Meryem yaşıyor. Abdülaziz ve Meryem'in yaşları, insanların yaşamındaki ilişkisine atıfta bulunmadığı için bilgiye erişimim yoktur.",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information that is not relevant to the question. However, since the core answer is correct, it should not be penalized too harshly.
+
+Rating: [[1]]"
+Abdülaziz Türkiye'de yaşıyor ve Mustafa Suudi Arabistan'de yaşıyor. Türkiye'de kim yaşıyor?,"Abdülaziz, Türkiye'de yaşıyor. Mustafa Suudi Arabistan'de yaşıyor olmasına göre, bu konuda Türkiye'deki yaşı hakkında bilgi verilmedi.
+
+Bu bilgiye erişimim yok, ancak Abdülaziz'in Türkiye'deki yaşını söylemek için doğrudan bilgiye sahip değilim.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides unnecessary information and does not directly answer the question. However, it does correctly state that Abdülaziz lives in Turkey, which is the key information requested.
+
+Rating: [[1]]"
+Abdülaziz Türkiye'de yaşıyor ve Mustafa Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz'in Suudi Arabistan'de yaşı, Mustafa'nın Türkiye'de yaşına eşit olduğunu gösteriyor, bu da onların yaşların eşit olduğunu ifade eder. Ancak, gerçek yaşlarını belirlemek için ayrıntılı bilgi gereklidir.
+
+Bu bilgiyi sağlayan ek bilgiye sahip olun.",Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The question asks who lives in Saudi Arabia, and the correct answer should be Mustafa. However, the assistant's response is unrelated to the question and talks about the ages of the individuals, which is not relevant to the question.
+
+Rating: [[4]]"
+Abdülaziz Kenya'de yaşıyor ve Djimon Suudi Arabistan'de yaşıyor. Kenya'de kim yaşıyor?,"Abdülaziz, Kenya'de yaşıyor. Kenya'nın kişi yaşı biliyorsanız daha fazla bilgi verebilirim, ancak bu konuda size bilgi veriyoruz.",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and redundant information.
+
+Rating: [[1]]"
+Abdülaziz Kenya'de yaşıyor ve Djimon Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz'in Suudi Arabistan'de yaşıyor olması durumunda, Suudi Arabistan'deki kişi Abdülaziz'dir. Yaşı belirtilmemiş olduğuna göre, ancak konuştuğunuz durumda, Suudi Arabistan'deki konuşmacı Abdülaziz'dir.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should be Djimon, as stated in the reference.
+
+Rating: [[4]]"
+Abdülaziz Tayland'de yaşıyor ve Somçay Suudi Arabistan'de yaşıyor. Tayland'de kim yaşıyor?,"Abdülaziz, Tayland'de yaşıyor, ancak bu bilgiye dayanarak onun yaşını belirlemek için daha fazla bilgiye ihtiyacım var: yaşı, yaşlandığı yıl veya başlangıç tarihi. Eğer bu bilgilere sahibinin erişebilirseniz, size yaşını hesaplayabilirim. Özellikle başlangıç tarihinden",Abdülaziz,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant provides unnecessary information and does not directly answer the question.
+
+Rating: [[4]]"
+Abdülaziz Tayland'de yaşıyor ve Somçay Suudi Arabistan'de yaşıyor. Suudi Arabistan'de kim yaşıyor?,"Abdülaziz, Suudi Arabistan'de yaşıyor. Bu yüzden Suudi Arabistan'de Abdülaziz yaşıyor.
+
+Bu bilgiye dayanarak, Abdülaziz Suudi Arabistan'de yaşıyor.",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The reference states that Somçay lives in Saudi Arabia, not Abdülaziz.
+
+Rating: [[4]]"
+Cebrail Nepal'de yaşıyor ve Bahadır Fransa'de yaşıyor. Nepal'de kim yaşıyor?,"Bir AI olarak kişisel verilere erişimim yok, ancak Cebrail'in Nepal'deki yaşına dair bilgi verilebilir. Bu bilgiyi doğrulayabilir veya Cebrail tarafından sağlanan belgeleri kullanın.
+
+Bahadır Fransa'da yaşına dair bilgi, bu da doğrulanabilir bir bilgi olacak.
+
+Örneğin",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The response provides unnecessary information and does not clearly state that Cebrail lives in Nepal.
+
+Rating: [[4]]"
+Cebrail Nepal'de yaşıyor ve Bahadır Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Açıklıkça verilen bilgilere dayanarak, Cebrail Nepal'de yaşıyor ve Bahadır Fransa'de yaşıyor. Ancak, bu bilgilere dayanarak Bahadır Fransa'da yaşına dağılmış bilgi verilmedi. Bahadır Fransa'da yaşını bilmem için daha fazla bilgi veya bağlam gereklidir.",Bahadır,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides unnecessary additional information and does not directly answer the question. However, it does not contradict the reference.
+
+Rating: [[1]]"
+Cebrail Japonya'de yaşıyor ve Haruto Fransa'de yaşıyor. Japonya'de kim yaşıyor?,"AI olarak, bilgi tabanlarına veya kişisel verilerine erişimim yok, bu yüzden bu bilgiyi manuel olarak hesaplayam veya kullanıcıya soruyorum:
+
+""Japonya'da Haruto'nun yaşı nedir?""",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered that Cebrail lives in Japan, not asked an unrelated question about Haruto's age.
+
+Rating: [[4]]"
+Cebrail Japonya'de yaşıyor ve Haruto Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"AI olarak, size veri tabanlarımızda veya gerçek zamanlı olarak güncel veri için performans sağlamak yetisi yok, bu yüzden bu bilgiyi manuel olarak sağlayam veya bir veritabanına erişim sağlayarak talimatları izleyerek talimatlara göre cevabı bulabilirsiniz.
+
+Örneğin:
+
+- Cebrail yaşı:",Haruto,Turkish,"The assistant's response is in Turkish but does not align with the reference provided. The assistant fails to answer the question correctly and instead provides an irrelevant response.
+
+Rating: [[4]]"
+Cebrail Ukrayna'de yaşıyor ve Nikolai Fransa'de yaşıyor. Ukrayna'de kim yaşıyor?,"Cebrail, Ukrayna'da yaşıyor, ancak bu bilgiye dayanarak Nikolai Fransa'da yaşıyor demektir. Bu bilgiye dayanarak, Cebrail Ukrayna'da yaşıyor.",Cebrail,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Cebrail Ukrayna'de yaşıyor ve Nikolai Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Verilen bilgiye göre, Nikolai Fransa'da yaşıyor. Cebrail Ukrayna'nın yaşı göz önüne alındığında, Fransa'nın yaşı Nikolai'nin Cebrail'den farklı olacaktır. Ancak, Nikolai'nin Fransa'da yaşını belirlememize gerek yok.",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information. However, it does correctly state that Nikolai lives in France, which is the main point of the question.
+
+Rating: [[1]]"
+Cebrail Yunanistan'de yaşıyor ve Meryem Fransa'de yaşıyor. Yunanistan'de kim yaşıyor?,"Cebrail Yunanistan'de yaşıyor ancak bu bilgiye dayanarak, Cebrailin Yunanistan'deki yaşını belirleyemeyiz. Meryem Fransa'da yaşıyor, bu da onun Fransa'da yaşını verir, ancak bu da Yunanistan'deki yaşı hakkında bilgi değil. Yaşı bilgi verilse, sorunun doğru cevabını verm",Cebrail,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, it does not directly answer the question and includes unnecessary information.
+
+Rating: [[2]]"
+Cebrail Yunanistan'de yaşıyor ve Meryem Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Cebrail Yunanistan'de yaşıyor ve Meryem Fransa'de yaşıyor, ancak bu bilgiye dayanarak Fransa'da yaşına dair doğrudan bir bilgi vermek için yeterli bilgiye sahip değilim. Fransa'da yaşına dair bilgi verirseniz, lütfen bunu sağlayın ve size yardımcı olurum.
+
+(Eğer Fransa'da ya",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it does not directly answer the question. The assistant should have clearly stated that Meryem lives in France based on the information provided.
+
+Rating: [[1]]"
+Cebrail Türkiye'de yaşıyor ve Mustafa Fransa'de yaşıyor. Türkiye'de kim yaşıyor?,"Cebrail Türkiye'deki yaşı, Mustafa Fransa'da yaşına karşılık geldiğinden, Türkiye'de 20 yaşında. Bu, Cebrail'in Fransa'da 10 yaşında olduğunu, Türkiye'de 20 - 10 = 10 yaşında olduğunu gösterir.
+
+Bu nedenle, Cebrail Türkiye'de 10",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly interprets the question and provides an irrelevant and incorrect answer.
+
+Rating: [[4]]"
+Cebrail Türkiye'de yaşıyor ve Mustafa Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Açıklıkça verilen bilgilere dayanarak, Cebrail Türkiye'de yaşıyor ve Mustafa Fransa'da yaşıyor, ancak bu bilgilere dayanarak Mustafa Fransa'nın yaşını doğrudan belirleyemem. Bu bilgiyi sağlayan ek bilgiye ihtiyacım var. Örneğin, Mustafa Fransa'nın yaşını söyle",Mustafa,Turkish,"The assistant's response is in the same language as the reference and the question, but it does not align with the reference. The assistant should have directly answered that Mustafa lives in France, instead of providing an unclear and irrelevant response about needing more information.
+
+Rating: [[4]]"
+Cebrail Kenya'de yaşıyor ve Djimon Fransa'de yaşıyor. Kenya'de kim yaşıyor?,"Bir AI olarak kişisel verilere erişimim yok, ancak bu bilgiyi nasıl bulacağınıza da bize yardımcı olabilirim.
+
+Kenya'deki yaşını bilmem gerekiyor, bu bilgiyi sağlayabilecek belirli kaynaklara veya konuşma ile ilgilendirin:
+
+- Kenya'da yaşına ilgili bir resmi sayfa veya bilgi",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered the question based on the information given.
+
+Rating: [[4]]"
+Cebrail Kenya'de yaşıyor ve Djimon Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Açıklıkça verilen bilgilere dayanarak, Cebrail Kenya'nın Djimon Fransa'da yaşıyor olduğunu belirtir, ancak Fransa'da yaşına dağıtılmamaktadır. Bu bilgi, Fransa'da yaşına dağıtılamaz, bu yüzden bu bilgiyi sağlayamam. Fransa'da yaşını bilmem gerekirse, sorunun",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not clearly and accurately answer the question. The response is confusing and does not align with the reference provided.
+
+Rating: [[4]]"
+Cebrail Tayland'de yaşıyor ve Somçay Fransa'de yaşıyor. Tayland'de kim yaşıyor?,"Bir AI olarak kişisel verilere erişimim yok, ancak bu bilgiyi nasıl bulacağınıza da bize yardımcı olabilirim.
+
+Tayland'deki kişinin yaşını bulmak için Somçay Fransa'da yaşını bilmemiz gerekir. Bu bilgiyi sağlayabilirseniz, aralarındaki yaş farkı hesaplayabilir ve Tayland'deki ya",Cebrail,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant fails to answer the question correctly and instead provides irrelevant information.
+
+Rating: [[4]]"
+Cebrail Tayland'de yaşıyor ve Somçay Fransa'de yaşıyor. Fransa'de kim yaşıyor?,"Verilen bilgi, Cebrail Tayland'de yaşıyor ve Somçay Fransa'de yaşıyor, doğrudan Somçay Fransa'da yaşına dair gerçek bilgi vermez. Bu nedenle, bilgiye dayanarak Somçay Fransa'da yaşını söylemek yeteneğim yok.",Somçay,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference by correctly stating that the given information does not provide a definitive answer about Somçay living in France.
+
+Rating: [[1]]"
+Bahadır Japonya'de yaşıyor ve Haruto Nepal'de yaşıyor. Japonya'de kim yaşıyor?,"Haruto, Japonya'da yaşıyor. Bu bilgi, insan adını sağlarsanız, yaşı konusunda daha ayrıntılı bilgi vermez. Haruto'un Japonya'da yaşı, Japonya'da yaşının anlamına gelir.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The assistant incorrectly states that Haruto lives in Japan, when the reference clearly states that Bahadır lives in Japan and Haruto lives in Nepal.
+
+Rating: [[4]]"
+Bahadır Japonya'de yaşıyor ve Haruto Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Haruto'nun Nepal'deki yaşı bilmediğinden, doğrudan sayımda yanıt vermezim. Japonya'da yaşından Nepal'deki yaşını belirlemek için Haruto'nun yaşı bilmesi gerekir. Eğer bu bilgi verilmiyorsa, Haruto'nun Nepal'deki yaşını hesaplayabilirim.
+
+Ex: ""Haruto 20 yaşında",Haruto,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The question asks who lives in Nepal, and the correct answer should be Haruto. The assistant's response is focused on Haruto's age, which is not relevant to the question.
+
+Rating: [[4]]"
+Bahadır Ukrayna'de yaşıyor ve Nikolai Nepal'de yaşıyor. Ukrayna'de kim yaşıyor?,"Bahsettiğiniz bilgiye dayanarak, Ukrayna'da yaşıyor kişi Nikolai Nepal'dır. Bu nedenle, Ukrayna'da yaşıyor Nikolai.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should be Bahadır, not Nikolai.
+
+Rating: [[4]]"
+Bahadır Ukrayna'de yaşıyor ve Nikolai Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Nikolai Nepal'deki yaşı bilmediğinden, doğrudan sayımını veremeyim. Başka bilgi veya bağlam olmadan konuşulan kişinin Nepal'deki yaşını bilmem için, bu bilgi sağlamanız gerek.
+
+Örneğin, ""Nikolai'nin Nepal'deki 30 yaşı var."" bu, Nikolai Nepal'deki yaşını vermeye",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant misinterprets the question, which is asking for the person living in Nepal, not the age of the person. 
+
+Rating: [[4]]"
+Bahadır Yunanistan'de yaşıyor ve Meryem Nepal'de yaşıyor. Yunanistan'de kim yaşıyor?,"Bahsettiğiniz bilgiye dayanarak, Yunanistan'deki kişi Meryem'dir. Bu yüzden Yunanistan'deki yaşı Meryem'dir.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant incorrectly states that Meryem lives in Greece, while the reference clearly indicates that Bahadır lives in Greece.
+
+Rating: [[4]]"
+Bahadır Yunanistan'de yaşıyor ve Meryem Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Meryem Nepal'de yaşıyor. Yazarın yaşını Nepal'deki kişiye (Meryem) atfediyor, bu yüzden Meryem Nepal'de yaşıyor.",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information about the author's age, which was not part of the question or reference.
+
+Rating: [[1]]"
+Bahadır Türkiye'de yaşıyor ve Mustafa Nepal'de yaşıyor. Türkiye'de kim yaşıyor?,"Türkiye'de yaşıyor Mustafa. Bu bilgiye dayanarak, Türkiye'deki kişi Mustafa.
+
+Bu sorunu daha netleştirmek için, sağladığı bilgilere dayanarak, Türkiye'deki kişi adını belirtmek iyi bir yaklaşım:
+
+Türkiye'deki Mustafa yaşıyor.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The correct answer should be Bahadır, not Mustafa.
+
+Rating: [[4]]"
+Bahadır Türkiye'de yaşıyor ve Mustafa Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Bahsettiğin fikir, Türkiye'deki yaşın Mustafa Nepal'deki yaşı arasında bir ilişki var gibi anlaşılır değil. Türkiye veya Mustafa ile bağlantı kuran bir insan varsa, Mustafa'nın Nepal'deki yaşı biliniyorsa, bu bilgi verilmiş değil. Nepal'deki yaşı bilmem gerekiyorsa, Mustaf",Mustafa,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The assistant fails to answer the question correctly and instead provides an irrelevant and incomplete response.
+
+Rating: [[4]]"
+Bahadır Kenya'de yaşıyor ve Djimon Nepal'de yaşıyor. Kenya'de kim yaşıyor?,"Bahsettiğiniz bilgiye dayanarak, Kenya'deki kişi yaşı değil. Kenya'de yaşıyor Djimon Nepal. Kenya'de yaşına ilişkin bilgiye dayanarak, bu konuda sorunun cevabı ""Djimon Nepal"" olur.",Bahadır,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Djimon lives in Nepal and then concludes that Djimon lives in Kenya, which is contradictory and incorrect based on the reference.
+
+Rating: [[4]]"
+Bahadır Kenya'de yaşıyor ve Djimon Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"Bahsettiğin konuşma yanıtımı, insanların yaşlarını karşılaştırmak için verilen bilgilere dayanarak, kesin bir yaş değerine erişemem. Eğer Djimon Kenya'de yaşıyor ve Kenya'deki yaşınızız varsa, Djimon'un Nepal'deki yaşınızı bulmak için Kenya'den Nepal'a",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The response is unrelated to the question and does not answer it correctly.
+
+Rating: [[4]]"
+Bahadır Tayland'de yaşıyor ve Somçay Nepal'de yaşıyor. Tayland'de kim yaşıyor?,"Öğeneklerim veya veritabanlarım yok, ancak biliyorsanız Tayland'deki kişinin yaşını biliyorsanız bana bildirebilirsiniz. Örneğin, ""Tayland'de 30 yaşında bir kişi"" ifadesiyle bize bildirmeye ihtiyacım var.",Bahadır,Turkish,"The assistant's response is in the same language but does not align with the reference provided.
+
+Rating: [[4]]"
+Bahadır Tayland'de yaşıyor ve Somçay Nepal'de yaşıyor. Nepal'de kim yaşıyor?,"""Bahadır Tayland'de yaşıyor ve Somçay Nepal'de yaşıyor"" ifadesi, insanların yaşlarını söylemek için kullanılan bilgi, belirli yaşları sağlamaz. Ancak, bu bilgiyle, Somçay Nepal'de yaşıyor kişi'nin Nepal'deki yaşını anlamak için daha fazla bilgi veya bağlam",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant should have directly answered the question by stating that Somçay lives in Nepal.
+
+Rating: [[4]]"
+Haruto Ukrayna'de yaşıyor ve Nikolai Japonya'de yaşıyor. Ukrayna'de kim yaşıyor?,"AI olarak, bilgiye erişimim yok, ancak Haruto Ukrayna'de yaşıyor olduğunu biliyorum. Nikolai Japonya'da yaşıyor, bu bilgiye dayanarak Haruto Ukrayna'da yaşıyor. Bu nedenle, Haruto Ukrayna'da yaşıyor.",Haruto,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto Ukrayna'de yaşıyor ve Nikolai Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Açıklama verdiğiniz gibi, Haruto Ukrayna'da yaşıyor ve Nikolai Japonya'da yaşıyor. Bu bilgiye göre, Nikolai Japonya'da yaşıyor.
+
+İletişim kurarken, daha net bir açıklama: Nikolai, Japonya'da yaşıyor.",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto Yunanistan'de yaşıyor ve Meryem Japonya'de yaşıyor. Yunanistan'de kim yaşıyor?,"Haruto'un yaşı Yunanistan'de yaşıyor olduğu için, Yunanistan'de Haruto yaşı var. Ancak, Meryem Japonya'da yaşıyor olduğunu biliyoruz, bu bilgi Haruto'un yaşını Japonya'da belirlememize yardımcı olmaz. Haruto'un Yunanistan'da yaşını bilmeden, Meryem Japonya'da yaşını",Haruto,Turkish,"The assistant's response is in the same language as the reference but does not clearly and concisely answer the question. The response is somewhat confusing and does not directly state that Haruto lives in Greece, which is the correct answer based on the reference.
+
+Rating: [[4]]"
+Haruto Yunanistan'de yaşıyor ve Meryem Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Açıklama yapımıyla, bu bilgiye erişimim yok. Haruto Yunanistan'de yaşıyor ve Meryem Japonya'de yaşıyor, ancak bu bilgiye dayanarak Japonya'da kim yaşıyor, belirtilmem için bilgiye erişimim yok.
+
+Bilgiye göre: Japonya'da Meryem.
+
+Cevap: Meryem",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Meryem lives in Japan based on the information given.
+
+Rating: [[1]]"
+Haruto Türkiye'de yaşıyor ve Mustafa Japonya'de yaşıyor. Türkiye'de kim yaşıyor?,"Haruto'un Türkiye'deki yaşı hakkında verilen bilgi, Haruto'un Japonya'da yaşıyor olduğunu belirtir. Bu bilgiye dayanarak, Haruto'un Türkiye'deki yaşı bilinmeyen. Yaşı hakkında bilgiye sahip değiliz.",Haruto,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The question asks who lives in Turkey, and the correct answer should be Haruto. The assistant's response is confusing and does not directly answer the question.
+
+Rating: [[4]]"
+Haruto Türkiye'de yaşıyor ve Mustafa Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Açıklığa kavuşturmak için, verilen bilgilere dayanarak, Mustafa Japonya'da yaşıyor. Türkiye'de Haruto yaşıyor, bu yüzden Japonya'da Mustafa yaşını bildirmek için kullanılır.
+
+Yani, Mustafa Japonya'da yaşıyor.",Mustafa,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Mustafa lives in Japan.
+
+Rating: [[1]]"
+Haruto Kenya'de yaşıyor ve Djimon Japonya'de yaşıyor. Kenya'de kim yaşıyor?,"AI olarak, bilgi verimliyorum, ancak gerçek zamanlı veya web verilerine erişimim yok. Ancak, verilen bilgilere dayanarak, Haruto Kenya'de yaşıyor ve Djimon Japonya'da yaşıyor. Bu bilgiye dayanarak, Haruto Kenya'de yaşıyor.",Haruto,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Haruto Kenya'de yaşıyor ve Djimon Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Açıklama verdiğiniz bilgiye dayanarak, Haruto Japonya'da yaşıyor. Bu nedenle, Haruto Japonya'da yaşıyor. Djimon'in Japonya'da yaşı, belirtilen verilmez. Bu bilgiye dayanarak, Japonya'da Haruto yaşıyor, Djimon'in Japonya'da yaşına ilişkin herhangi bir bilgiye sahip değiliz.",Djimon,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it does not directly answer the question. The question asks who lives in Japan, and the assistant correctly states that Haruto lives in Japan, but it also unnecessarily mentions that there is no information about Djimon living in Japan, which is not relevant to the direct answer. Despite this, the core of the answer is correct.
+
+Rating: [[1]]"
+Haruto Tayland'de yaşıyor ve Somçay Japonya'de yaşıyor. Tayland'de kim yaşıyor?,"Açıklama verdiğiniz bilgiye dayanarak, Haruto Tayland'de yaşıyor, ancak yaşı Tayland'da ne kadar olduğunu belirlemem gerekmektedir. Haruto'nun yaşını söylemek için Tayland'da yaşını biliyoruz veya bu bilgi sağlamanız gerekiyor.
+
+Öneri: Haruto'nun Tayland'da",Haruto,Turkish,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it does not directly answer the question. The assistant should have clearly stated that Haruto lives in Thailand, as per the reference. The response is somewhat confusing and does not provide a clear answer.
+
+Rating: [[4]]"
+Haruto Tayland'de yaşıyor ve Somçay Japonya'de yaşıyor. Japonya'de kim yaşıyor?,"Açıklama vermede, Haruto Tayland'ın Japonya'da yaşıyor olduğunu belirttiğinden, Haruto Tayland Japonya'da yaşıyor. Bu, Haruto'nun yaşının Japonya'da olduğunu belirtir.
+
+Bu nedenle, cevap: Haruto.",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Haruto lives in Japan, while the reference clearly states that Somçay lives in Japan.
+
+Rating: [[4]]"
+Nikolai Yunanistan'de yaşıyor ve Meryem Ukrayna'de yaşıyor. Yunanistan'de kim yaşıyor?,"Nikolai Yunanistan'de yaşıyor ve Meryem Ukrayna'de yaşıyor. Bu bilgiye dayanarak, Nikolai Yunanistan'de yaşıyor. Meryem Ukrayna'da yaşına ilişkin bilgiye sahip değiliz, bu yüzden onun Ukrayna'da yaşını belirleyemem.",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided. The assistant correctly identifies that Nikolai lives in Greece (Yunanistan) based on the information given.
+
+Rating: [[1]]"
+Nikolai Yunanistan'de yaşıyor ve Meryem Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,"Açıklığa kavuşturmak için, Nikolai Yunanistan'de yaşıyor ve Meryem Ukrayna'de yaşıyor, ancak bu bilgiye dayanarak Nikolai'nin Ukrayna'da yaşı konusunda net bir bilgi vermez. Ukrayna'da yaşına herhangi bir kişi varsa, bu bilgi sağlamanız gerekmektedir.",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides unnecessary information and does not directly answer the question. However, it does not contradict the reference.
+
+Rating: [[1]]"
+Nikolai Türkiye'de yaşıyor ve Mustafa Ukrayna'de yaşıyor. Türkiye'de kim yaşıyor?,"Nikolai Türkiye'de yaşıyor, bu yüzden Türkiye'deki yaşının Nikolai'dir. Mustafa Ukrayna'da yaşıyor ki bu yüzden Mustafa Ukrayna'da yaşının Mustafa. Türkiye'deki yaşının belirtilmeden konuşulmadığı bağlamda, yanıtımız Türkiye'deki Nikolai'dir.",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it is somewhat verbose and includes unnecessary information. However, it does correctly identify that Nikolai lives in Turkey.
+
+Rating: [[1]]"
+Nikolai Türkiye'de yaşıyor ve Mustafa Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,"AI metin modelleri olarak, veri tabanına veya insan deneyimlerine dayalı olarak kişisel bilgi sağlayamıyorum. Ancak, verilen bilgilere dayanarak dediyorum ki, ""Mustafa Ukrayna'da"" var, bu yüzden Mustafa Ukrayna'da yaşıyor.",Mustafa,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary information and a disclaimer that is not relevant to the question. Despite this, the core answer is correct.
+
+Rating: [[1]]"
+Nikolai Kenya'de yaşıyor ve Djimon Ukrayna'de yaşıyor. Kenya'de kim yaşıyor?,"AI metin tabanlı olarak, gerçek zamanlı veri alma veya karar vermeye izin vermez. Ancak, verilen bilgilere dayanarak, Nikolai Kenya'de yaşıyor ve Djimon Ukrayna'de yaşıyor. Bu bilgilere dayanarak, Nikolai Kenya'nın yaşını belirlememize yardımcı olabilir:
+
+Nikolai = Kenya
+
+Bu yüzden",Nikolai,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and irrelevant information. Despite this, the core answer is correct.
+
+Rating: [[1]]"
+Nikolai Kenya'de yaşıyor ve Djimon Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,"AI metin modeli olarak, veri tabanlı değil, bu nedenle ki bilgi sağlamak için veritabanına veya konuşma ile etkileşimde bulunmayım. Ancak bu bilgilere erişim:
+
+Nikola Kenya'nın Ukrayna'da yaşı, Nikolai Kenya'nın Kenya'da yaşının oranı olan Ukrayna'da yaşıdır.",Djimon,Turkish,"The assistant's response is in Turkish but does not align with the reference provided. The answer is confusing and does not correctly identify who lives in Ukraine based on the information given in the question.
+
+Rating: [[4]]"
+Nikolai Tayland'de yaşıyor ve Somçay Ukrayna'de yaşıyor. Tayland'de kim yaşıyor?,"Nikolai Tayland'deki yaşını belirten bilgi, zamanında açıklanmadığım için doğrulamak için bilgiye erişimim yok. Lütfen bana bu bilgi sağlayabilirseniz, size doğru cevabı verebilirim.",Nikolai,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered the question based on the information given.
+
+Rating: [[4]]"
+Nikolai Tayland'de yaşıyor ve Somçay Ukrayna'de yaşıyor. Ukrayna'de kim yaşıyor?,"Nikolai Tayland ve Somçay Ukrayna'de yaşıyor kişilerin yaşlarını belirtmez, bu yüzden bu bilgiye erişimim yok. Eğer Nikolai Tayland veya Somçay'in yaşlarını biliyorsan, lütfen bana bildirin.
+
+Öneriler:
+- Nikolai Tayland'in yaşını bildirin: ""Nikolai Tayland'in yaşı _______.""",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that both Nikolai and Somçay live in Ukraine, whereas the question only asks about who lives in Ukraine, and the correct answer is Somçay.
+
+Rating: [[4]]"
+Meryem Türkiye'de yaşıyor ve Mustafa Yunanistan'de yaşıyor. Türkiye'de kim yaşıyor?,"Meryem Türkiye'de yaşıyor. Türkiye'deki kişi yaşı, Meryem'dir. Yunanistan'deki yaşı, Mustafa'dır.",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information that was not asked for. However, since the core of the question is answered correctly, the response should be rated as follows:
+
+Rating: [[1]]"
+Meryem Türkiye'de yaşıyor ve Mustafa Yunanistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Meryem Türkiye'de yaşıyor ve Mustafa Yunanistan'de yaşıyor. Bu bilgiye göre, Mustafa Yunanistan'de yaşıyor. Türkiye'nin Yunanistan'da yaşıyor kişi yoktur.",Mustafa,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Meryem Kenya'de yaşıyor ve Djimon Yunanistan'de yaşıyor. Kenya'de kim yaşıyor?,"Meryem Kenya'de yaşıyor. Bu bilgiyi sağlayan sorunun cevabı, Meryem Kenya'nın yaşıdır. Yunanistan'de yaşıyor Djimon ile ilgili bilgiye erişimim yoktur, bu yüzden Yunanistan'da yaşına gerçekçi bir cevap veremediğimiz için cevap veremeyim.
+
+Meryem Kenya'nın ya",Meryem,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. Despite the truncation, the provided part of the answer correctly identifies that Meryem lives in Kenya.
+
+Rating: [[1]]"
+Meryem Kenya'de yaşıyor ve Djimon Yunanistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Meryem Kenya'de yaşıyor ve Djimon Yunanistan'de yaşıyor, ancak bu bilgiye dayanarak Djimon'un yaşı Yunanistan'daki olmasını sağlayamıyor. Yaşı bilgisi için daha fazla detay veya bilgi gereklidir.",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not directly answer the question. The question asks who lives in Greece, and the answer should be ""Djimon."" The assistant's response is confusing and does not align with the reference.
+
+Rating: [[4]]"
+Meryem Tayland'de yaşıyor ve Somçay Yunanistan'de yaşıyor. Tayland'de kim yaşıyor?,"Meryem Tayland'de yaşıyor, ancak bu bilgiye dayanarak Meryem'in yaşını belirlemek için daha fazla bilgiye ihtiyacım var: yaşı, yaşlandığı yer veya başlangıç tarihi. Eğer bu bilgilere sahibiz, Meryem'in yaşını belirleyebilirim. Öneri: Meryem'in yaşını sağlay",Meryem,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant should have answered that Meryem lives in Thailand (Tayland) based on the information provided in the question. The assistant's response is irrelevant and does not address the question asked.
+
+Rating: [[4]]"
+Meryem Tayland'de yaşıyor ve Somçay Yunanistan'de yaşıyor. Yunanistan'de kim yaşıyor?,"Meryem Tayland'ın Yunanistan'deki yaşı bilmediğinden, doğrudan cevabı veremeyim. Yunanistan'da Meryem'in yaşını öğrenmek için ek bilgiye ihtiyacım var. Örneğin, ""Meryem Tayland'ın Yunanistan'da 30 yaşında"" gibi bir ifade verilirse, Yunanistan'da 30 yaşı",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The question asks who lives in Greece, and the correct answer is Somçay, not Meryem. The assistant's response is confusing and does not provide the correct information.
+
+Rating: [[4]]"
+Mustafa Kenya'de yaşıyor ve Djimon Türkiye'de yaşıyor. Kenya'de kim yaşıyor?,"Mustafa Kenya'de yaşıyor ki bu, Mustafa Kenya'nın yaşıdır. Birinin yerel veya uluslararası yaşı bilinmeyen bir bilgiyle, bu bilgiyi sağlayamıyorum. Mustafa Kenya'nın doğru yaşını bulmak için en güncel bilgileri veya açıklamayı sağlayın.",Mustafa,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides unnecessary and irrelevant information. The question only asks who lives in Kenya, and the assistant correctly states that Mustafa lives in Kenya. However, the additional information about Mustafa's age is not relevant to the question.
+
+Rating: [[1]]"
+Mustafa Kenya'de yaşıyor ve Djimon Türkiye'de yaşıyor. Türkiye'de kim yaşıyor?,"Sorunun sağlanan bilgilere dayanarak, Mustafa Kenya'de yaşıyor ve Djimon Türkiye'de yaşıyor, ancak bu bilgilere dayanarak Türkiye'deki kişinin yaşını belirleyemeyiz. Yaşı bilgisi sağlanmadığından, Türkiye'deki kişi yaşını söylemek imkansızdır.",Djimon,Turkish,"The assistant's response is in the same language as the reference and aligns with the reference, but it misinterprets the question. The question asks for the person living in Turkey, not their age. The assistant should have directly stated that Djimon lives in Turkey.
+
+Rating: [[4]]"
+Mustafa Tayland'de yaşıyor ve Somçay Türkiye'de yaşıyor. Tayland'de kim yaşıyor?,"Somçay, Türkiye'nin bir yer olduğunu ve Mustafa Tayland'ın Türkiye'de yaşıyor olduğunu belirttiğinden, Mustafa Tayland'ın Türkiye'deki yaşını temsil eden bir bilgiye sahip değiliz. Mustafa Tayland'ın Tayland'da yaşını söyleyebilirsiniz.",Mustafa,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have stated that Mustafa lives in Thailand (Tayland).
+
+Rating: [[4]]"
+Mustafa Tayland'de yaşıyor ve Somçay Türkiye'de yaşıyor. Türkiye'de kim yaşıyor?,"Mustafa Tayland'ın Türkiye'de yaşı, Mustafa'nın kişisel yaşının Türkiye'deki zamanın karşılığıdır. Bu bilgiye erişimim yok, bu yüzden Mustafa Tayland'ın Türkiye'deki yaşını belirlemek için bu bilgiyi sağlayan bağlam veya veri gerektirir.
+
+Öneri",Somçay,Turkish,"The assistant's response is in the same language but does not align with the reference provided. The assistant fails to answer the question correctly and provides an irrelevant response.
+
+Rating: [[4]]"
+Djimon Tayland'de yaşıyor ve Somçay Kenya'de yaşıyor. Tayland'de kim yaşıyor?,"Açıklama verilmemiş, ancak dikkat edilmesi gereken, Djimon Tayland ve Somçay Kenya'nın yaşlarını bilmem. Bu bilgiyi sağlayabilirse, yaşını hesaplayabiliriz.
+
+Örneğin, Djimon Tayland'in yaşının 30 olduğunu biliyorsanız ve Somçay Kenya'nın yaşının 25 oldu",Djimon,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant should have answered ""Djimon"" to the question ""Tayland'de kim yaşıyor?"" instead of providing irrelevant information about ages.
+
+Rating: [[4]]"
+Djimon Tayland'de yaşıyor ve Somçay Kenya'de yaşıyor. Kenya'de kim yaşıyor?,"Verilen bilgi, Djimon Tayland'ın Kenya'da yaşıyor olduğunu belirtir, ancak Somçay Kenya'nın yaşı hakkında bilgiye sahip değil. Somçay'ın yaşını bilmeden, bu konuda yanıt vermem suretiyle, Somçay Kenya'nın yaşını belirleyememize neden oluyor. Kenya'nın bir kişiyi bulmak",Somçay,Turkish,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant misinterprets the question and provides an irrelevant and incorrect response.
+
+Rating: [[4]]"

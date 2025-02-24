@@ -1,0 +1,511 @@
+Question,Predicted,answers,label,llm_output
+डेविड भारत में रहता है और राहुल संयुक्त राज्य अमेरिका में रहता है। भारत में कौन रहता है?,"डेविड भारत में रहता है, जबकि राहुल संयुक्त राज्य अमेरिका में रहता है।",डेविड,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+डेविड भारत में रहता है और राहुल संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,"राहुल संयुक्त राज्य अमेरिका में कई लोग रहते हैं, लेकिन डेविड भारत का उपन्यासकार और अमेरिका के राष्ट्रपति ड",राहुल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant should have directly answered that Rahul lives in the United States, instead of providing irrelevant information.
+
+Rating: [[4]]"
+डेविड चीन में रहता है और ली वेई संयुक्त राज्य अमेरिका में रहता है। चीन में कौन रहता है?,डेविड चीन में रहता है। उन्होंने चीन में अपने पिता के साथ बड़ा होने के बाद वापस आ गया है। लेकिन ली व,डेविड,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional information that was not asked for and does not fully complete the answer. However, since the core of the answer is correct, it should not be penalized too harshly.
+
+Rating: [[1]]"
+डेविड चीन में रहता है और ली वेई संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,डेविड चीन में रहता है और ली वेई संयुक्त राज्य अमेरिका में रहता है। यह एक मजाक है। डेविड अमेरिकी न,ली वेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant should have answered ""ली वेई"" as the person who lives in the United States. Instead, the assistant provides an incomplete and incorrect response.
+
+Rating: [[4]]"
+डेविड रूस में रहता है और सेर्गेई संयुक्त राज्य अमेरिका में रहता है। रूस में कौन रहता है?,"डेविड रूस में रहता है, जहां वह अपने विशेषज्ञता और अनुभव के अनुसार विशेष कार्य करता है। वह एक प",डेविड,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+डेविड रूस में रहता है और सेर्गेई संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,डेविड रूस एक विशेषज्ञ हैंडल हैं और सेर्गेई संयुक्त राज्य अमेरिका में रहता है। वह एक विशेषज्ञ,सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant introduces irrelevant information about David being a specialist handle, which is not mentioned in the reference. The question asks who lives in the United States, and the assistant should have directly answered that Sergei lives in the United States.
+
+Rating: [[4]]"
+डेविड सऊदी अरब में रहता है और अब्दुलअजीज संयुक्त राज्य अमेरिका में रहता है। सऊदी अरब में कौन रहता है?,"डेविड सऊदी अरब में कोई व्यक्ति नहीं रहता, बल्कि वह इस अरब के नाम के अधिकारी है। डेविड सऊदी अमेरिक",डेविड,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that David is not a person living in Saudi Arabia but an official of the Arab, which is not mentioned in the reference. 
+
+Rating: [[4]]"
+डेविड सऊदी अरब में रहता है और अब्दुलअजीज संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,डेविड सऊदी अरब में रहता है और अब्दुलअजीज संयुक्त राज्य अमेरिका में रहता है। अमेरिका में कौन रहता,अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it does not fully answer the question. The response is cut off and does not provide a clear answer to the question asked.
+
+Rating: [[1]]"
+डेविड फ्रांस में रहता है और गेब्रियल संयुक्त राज्य अमेरिका में रहता है। फ्रांस में कौन रहता है?,"डेविड फ्रांस में रहता है, इसलिए वह फ्रांसीसी देशभक्ति के लिए है। गेब्रियल संयुक्त राज्य अमेरिका में",डेविड,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional information that is not asked for in the question. However, since the core of the answer is correct, it should not be penalized too harshly.
+
+Rating: [[1]]"
+डेविड फ्रांस में रहता है और गेब्रियल संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,डेविड फ्रांस और गेब्रियल संयुक्त राज्य अमेरिका के संयुक्त राज्य के संयुक्त राज्य के संयुक्त राज्य के संय,गेब्रियल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is incomplete and does not clearly state who lives in the United States.
+
+Rating: [[4]]"
+डेविड नेपाल में रहता है और बहादुर संयुक्त राज्य अमेरिका में रहता है। नेपाल में कौन रहता है?,"डेविड नेपाल का जन्मस्थान नेपाल है, लेकिन वह बहादुर संयुक्त राज्य अमेरिका में रहता है। वह अमेरिका में स्व",डेविड,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant should have clearly stated that डेविड (David) lives in Nepal, as per the question. The assistant's answer is partially correct but does not directly answer the question.
+
+Rating: [[4]]"
+डेविड नेपाल में रहता है और बहादुर संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,"बहादुर संयुक्त राज्य अमेरिका में कई लोग रहते हैं, लेकिन डेविड नेपाल का उपयोग करके एक विशेष वर्ग के स",बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference. The assistant should have directly answered that Bahadur lives in the United States.
+
+Rating: [[4]]"
+डेविड जापान में रहता है और हारुतो संयुक्त राज्य अमेरिका में रहता है। जापान में कौन रहता है?,"डेविड जापान में रहता है, इसलिए वह जापानी सेवकों और स्वचालित स्थानों के बारे में जानकार होता है। हार",डेविड,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. It provides additional information that is not relevant to the specific question asked.
+
+Rating: [[4]]"
+डेविड जापान में रहता है और हारुतो संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,"डेविड जापान में रहता है और हारुतो संयुक्त राज्य अमेरिका में रहता है। यह एक मजाक है, क्योंकि डेवि",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not fully answer the question. It starts to provide the correct answer but then diverges into an unrelated statement. 
+
+Rating: [[4]]"
+डेविड यूक्रेन में रहता है और निकोलई संयुक्त राज्य अमेरिका में रहता है। यूक्रेन में कौन रहता है?,"डेविड यूक्रेन में रहता है, इसलिए वह यूक्रेन के राज्य के निवेशक है। इसके अलावा, वह निकोलई संयुक्त र",डेविड,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant correctly identifies that David lives in Ukraine but then provides additional, irrelevant information that is not aligned with the reference.
+
+Rating: [[4]]"
+डेविड यूक्रेन में रहता है और निकोलई संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,"निकोलई संयुक्त राज्य अमेरिका में कई लोग रहते हैं, लेकिन डेविड यूक्रेन का उद्योग विशेष रूप से इस सं",निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference. The answer is incomplete and does not directly answer the question.
+
+Rating: [[4]]"
+डेविड ग्रीस में रहता है और मारिया संयुक्त राज्य अमेरिका में रहता है। ग्रीस में कौन रहता है?,"डेविड ग्रीस में रहता है, इसलिए वह ग्रीस के राज्य से संबंधित सभी चीजों को अधिक परिचित बन जाता है।",डेविड,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional information not directly asked for in the question. However, it does correctly state that David lives in Greece, which is the core of the question.
+
+Rating: [[1]]"
+डेविड ग्रीस में रहता है और मारिया संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,"मारिया संयुक्त राज्य अमेरिका में कई लोग रहते हैं, लेकिन डेविड ग्रीस का उपयोग करके उनमें से किसी को विश",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference. The answer is incomplete and does not clearly state that Maria lives in the United States.
+
+Rating: [[4]]"
+डेविड टर्की में रहता है और मुस्तफा संयुक्त राज्य अमेरिका में रहता है। टर्की में कौन रहता है?,"डेविड टर्की में एक व्यक्ति होने के लिए, वह एक व्यक्ति होने के लिए जहां वह अपने जीवन के लिए एक गलीचर",डेविड,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unclear and does not directly answer the question.
+
+Rating: [[4]]"
+डेविड टर्की में रहता है और मुस्तफा संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,डेविड टर्की कोई विशेष रूप से मुस्तफा संयुक्त राज्य अमेरिका में रहता है। वह वापस अपने पिता और परिवार क,मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unclear and does not directly answer the question.
+
+Rating: [[4]]"
+डेविड केन्या में रहता है और जिमोन संयुक्त राज्य अमेरिका में रहता है। केन्या में कौन रहता है?,"डेविड केन्या के आधार के बिल्कुल विरोध के अनुसार, वह अमेरिका में रहता है। वह जिमोन संयुक्त राज्य अमेर",डेविड,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that David lives in America, contradicting the reference.
+
+Rating: [[4]]"
+डेविड केन्या में रहता है और जिमोन संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,"डेविड केन्या एक विशेष और प्रेरणादायी व्यक्ति है, जो अमेरिका के कई राज्यों में रहता है, लेकिन विशेष रूप",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that David lives in America and Kenya, which is not in line with the reference. The correct answer should have been ""जिमोन"" (Jimon).
+
+Rating: [[4]]"
+डेविड थाईलैंड में रहता है और सोमचाई संयुक्त राज्य अमेरिका में रहता है। थाईलैंड में कौन रहता है?,"डेविड थाईलैंड के राष्ट्रपति हैं, इसलिए वह थाईलैंड में रहता है। इसके अलावा, एक और थाईलैंडी संघी",डेविड,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that David is the president of Thailand, which is not supported by the reference.
+
+Rating: [[4]]"
+डेविड थाईलैंड में रहता है और सोमचाई संयुक्त राज्य अमेरिका में रहता है। संयुक्त राज्य अमेरिका में कौन रहता है?,डेविड थाईलैंड और सोमचाई संयुक्त राज्य अमेरिका में दोनों के राष्ट्रपति को ही संयुक्त राज्य अमेरिका के र,सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant did not answer the question correctly and the response is incomplete and irrelevant.
+
+Rating: [[4]]"
+राहुल चीन में रहता है और ली वेई भारत में रहता है। चीन में कौन रहता है?,"राहुल चीन में रहता है, इसलिए चीन में रहता है आपका भाई राहुल।",राहुल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly states that Rahul lives in China.
+
+Rating: [[1]]"
+राहुल चीन में रहता है और ली वेई भारत में रहता है। भारत में कौन रहता है?,"आपका प्रश्न भारत में कौन रहता है बन्द करके सोचा कि ली वेई भारत में रहती है। इसलिए, उसका रहने का स्थान भ",ली वेई,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the response is incomplete and does not fully answer the question. Despite this, it does indicate that Lee Wei lives in India, which is correct based on the reference.
+
+Rating: [[1]]"
+राहुल रूस में रहता है और सेर्गेई भारत में रहता है। रूस में कौन रहता है?,"राहुल रूस में रहता है, इसलिए वह रूसी राज्य के निवेशक है। वह सेर्गेई भारत में भी अपने कंपनी के लिए निवे",राहुल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have simply stated that Rahul lives in Russia, without adding unnecessary and incorrect information.
+
+Rating: [[4]]"
+राहुल रूस में रहता है और सेर्गेई भारत में रहता है। भारत में कौन रहता है?,"आपका प्रश्न है कि सेर्गेई भारत में कौन रहता है। सेर्गेई भारत में कई लोग रहते हैं, लेकिन आप जा रहे है",सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that ""सेर्गेई"" lives in India, but instead, it started to give a vague and unrelated response.
+
+Rating: [[4]]"
+राहुल सऊदी अरब में रहता है और अब्दुलअजीज भारत में रहता है। सऊदी अरब में कौन रहता है?,"राहुल सऊदी अरब में रहता है, जो एक भारतीय सितारा है और अक्सर अपने फिल्मों में अभिनय करता है। उनका",राहुल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have stopped at ""राहुल सऊदी अरब में रहता है"" and not added the unnecessary and incorrect information about Rahul being a Bollywood star.
+
+Rating: [[4]]"
+राहुल सऊदी अरब में रहता है और अब्दुलअजीज भारत में रहता है। भारत में कौन रहता है?,"राहुल सऊदी अरब में रहता है और अब्दुलअजीज भारत में रहता है। इसलिए, भारत में राहुल सऊदी अरब में र",अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference but does not correctly answer the question. The response is cut off and does not clearly state that Abdulaziz lives in India.
+
+Rating: [[4]]"
+राहुल फ्रांस में रहता है और गेब्रियल भारत में रहता है। फ्रांस में कौन रहता है?,"राहुल फ्रांस में रहता है, इसलिए फ्रांस में रहने वाला राहुल है। गेब्रियल भारत में रहने वाला होता है,",राहुल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+राहुल फ्रांस में रहता है और गेब्रियल भारत में रहता है। भारत में कौन रहता है?,"गेब्रियल भारत में रहता है। यह एक बहुत सुंदर और खूबसूरत देश है, जहां कई अद्भुत स्थानों और खे",गेब्रियल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes additional information that is not relevant to the question.
+
+Rating: [[1]]"
+राहुल नेपाल में रहता है और बहादुर भारत में रहता है। नेपाल में कौन रहता है?,राहुल नेपाल में रहता है और बहादुर भारत में रहता है। इसलिए नेपाल में कौन रहता है की प्रश्न उस प्रकार का न,राहुल,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it does not fully answer the question. The response starts to repeat the given information and then cuts off without providing a clear answer.
+
+Rating: [[1]]"
+राहुल नेपाल में रहता है और बहादुर भारत में रहता है। भारत में कौन रहता है?,"बहादुर भारत में कोई नहीं रहता, बल्कि भारत का कुछ हिस्सा या भाग है। भारत एक विश्वविद्यालय है, जिसमे",बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that ""बहा�दुर"" is not a person but a part of India or a university, which is not aligned with the reference.
+
+Rating: [[4]]"
+राहुल जापान में रहता है और हारुतो भारत में रहता है। जापान में कौन रहता है?,"राहुल जापान में रहता है, इसलिए जापान में रहने वाला राहुल है। यदि आप जानना चाहते हैं कि जापान में कौन",राहुल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies that Rahul lives in Japan.
+
+Rating: [[1]]"
+राहुल जापान में रहता है और हारुतो भारत में रहता है। भारत में कौन रहता है?,"राहुल जापान में रहता है और हारुतो भारत में रहता है कि स्पष्ट है कि यह एक अन्यथा है। इसलिए, भारत मे",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not clearly answer the question. The response is somewhat confusing and does not provide a direct answer to the question asked.
+
+Rating: [[4]]"
+राहुल यूक्रेन में रहता है और निकोलई भारत में रहता है। यूक्रेन में कौन रहता है?,"राहुल यूक्रेन में रहता है, इसका मतलब है कि राहुल यूक्रेन के राज्य में रहता है। यूक्रेन में कौन रहता है",राहुल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it does not directly answer the question. The assistant restates the information given in the question without providing a clear answer. However, since it does not provide incorrect information and is in the correct language, it should not be rated as unrelated.
+
+Rating: [[1]]"
+राहुल यूक्रेन में रहता है और निकोलई भारत में रहता है। भारत में कौन रहता है?,आपका प्रश्न भारत में कौन रहता है और राहुल यूक्रेन में रहता है के संबंध में है। यह एक अज्ञात संदर,निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not provide a clear or relevant answer to the question. The response is incomplete and does not align with the reference provided.
+
+Rating: [[4]]"
+राहुल ग्रीस में रहता है और मारिया भारत में रहता है। ग्रीस में कौन रहता है?,"राहुल ग्रीस में रहता है, इसका मतलब है कि राहुल ग्रीस में है और मारिया भारत में रहती है। यह एक अन्यत्र",राहुल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+राहुल ग्रीस में रहता है और मारिया भारत में रहता है। भारत में कौन रहता है?,मारिया भारत में रहती है। राहुल ग्रीस में रहता है।,मारिया,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+राहुल टर्की में रहता है और मुस्तफा भारत में रहता है। टर्की में कौन रहता है?,"राहुल टर्की में रहता है, इसका मतलब है कि राहुल टर्की में होता है और वहाँ रहता है। टर्की में कोई व्य",राहुल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is cut off and incomplete. However, the part that is provided is correct.
+
+Rating: [[1]]"
+राहुल टर्की में रहता है और मुस्तफा भारत में रहता है। भारत में कौन रहता है?,राहुल टर्की में रहने वाले व्यक्ति को भारत में रहने वाले व्यक्ति के साथ सम्बन्ध नहीं है। भारत में रहने वाले,मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. The response is somewhat related but does not clearly state that Mustafa lives in India, which is the correct answer based on the reference.
+
+Rating: [[4]]"
+राहुल केन्या में रहता है और जिमोन भारत में रहता है। केन्या में कौन रहता है?,"राहुल केन्या में रहता है, लेकिन केन्या में रहने वाले व्यक्तियों की संख्या बहुत कम है। केन्या एक छोटा सा",राहुल,Hindi,"The assistant's response starts correctly by repeating the fact that Rahul lives in Kenya, but then it diverges into an irrelevant statement about the number of people living in Kenya, which is not asked in the question. The response is in the same language as the reference and partially aligns with the reference, but it does not fully answer the question.
+
+Rating: [[4]]"
+राहुल केन्या में रहता है और जिमोन भारत में रहता है। भारत में कौन रहता है?,"राहुल केन्या भारत के प्रतिष्ठित समुदाय में से एक हैं, लेकिन वे अपने घर भारत के अंग्रेजा में रहते हैं। इ",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is incorrect and introduces irrelevant information.
+
+Rating: [[4]]"
+राहुल थाईलैंड में रहता है और सोमचाई भारत में रहता है। थाईलैंड में कौन रहता है?,"राहुल थाईलैंड में रहता है और सोमचाई भारत में रहता है। यह एक अजीब जवाब है, लेकिन यह सही है। आप",राहुल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is not a clear and concise answer to the question. However, it does correctly state that Rahul lives in Thailand, which is the correct answer to the question.
+
+Rating: [[1]]"
+राहुल थाईलैंड में रहता है और सोमचाई भारत में रहता है। भारत में कौन रहता है?,"आपका प्रश्न भारत में कौन रहता है और राहुल थाईलैंड में रहता है के संबंध में है। इस प्रकरण में, आपक",सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not provide a clear answer to the question. The response is incomplete and does not align with the reference provided.
+
+Rating: [[4]]"
+ली वेई रूस में रहता है और सेर्गेई चीन में रहता है। रूस में कौन रहता है?,"आपका प्रश्न हिंदी भाषा में संवेदनशील है, लेकिन मैं इसे ब्यूटीएचओ भाषा में जवाब देने के लिए बहुत",ली वेई,Hindi,"The assistant's response is in a different language (appears to be a mix of Hindi and an unrecognized language) and does not align with the reference provided.
+
+Rating: [[4]]"
+ली वेई रूस में रहता है और सेर्गेई चीन में रहता है। चीन में कौन रहता है?,"चीन में कई लोग रहते हैं, लेकिन चीन के राज्यों में रहने वाले लोगों को विशेष रूप से ध्यान में रखा जाता",सेर्गेई,Hindi,"The assistant's response does not directly answer the question and is not aligned with the reference provided. The response is vague and does not specify that Sergei lives in China, which is the correct answer based on the reference.
+
+Rating: [[4]]"
+ली वेई सऊदी अरब में रहता है और अब्दुलअजीज चीन में रहता है। सऊदी अरब में कौन रहता है?,आपका प्रश्न अब्दुलअजीज चीन में क्या रहता है से जुड़ा है। अब्दुलअजीज चीन में कोई ली वेई सऊदी का,ली वेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered that Lee Wei lives in Saudi Arabia, but instead, the response is confusing and incorrect.
+
+Rating: [[4]]"
+ली वेई सऊदी अरब में रहता है और अब्दुलअजीज चीन में रहता है। चीन में कौन रहता है?,आपका प्रश्न चीन में कौन रहता है और इसके बारे में विवरण देने के लिए मेरे पास जानकारी नहीं है। चीन में क,अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided, as it fails to answer the question correctly.
+
+Rating: [[4]]"
+ली वेई फ्रांस में रहता है और गेब्रियल चीन में रहता है। फ्रांस में कौन रहता है?,"फ्रांस में कौन रहता है?
+
+यह आश्चर्य है कि आपने इस प्रश्न को इस प्रकरण के साथ शुरू किया है। इसलिए, इस",ली वेई,Hindi,"The assistant's response is in the same language as the reference but does not provide a clear answer to the question. It seems to be a partial or incomplete response, and it does not align with the reference provided.
+
+Rating: [[4]]"
+ली वेई फ्रांस में रहता है और गेब्रियल चीन में रहता है। चीन में कौन रहता है?,"चीन में कई लोग रहते हैं, लेकिन इस प्रश्न का उल्टा स्थान है। आपको अधिक जानकारी दीजिए कि आप किस प्रकार के",गेब्रियल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered ""गेब्रियल"" as per the reference and the question.
+
+Rating: [[4]]"
+ली वेई नेपाल में रहता है और बहादुर चीन में रहता है। नेपाल में कौन रहता है?,"बहादुर चीन में रहता है कि स्पष्ट है, लेकिन नेपाल में कौन रहता है, यह हमें नहीं बता सकता क्योंकि यह ए",ली वेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant fails to correctly identify that Lee Wei lives in Nepal, as stated in the reference.
+
+Rating: [[4]]"
+ली वेई नेपाल में रहता है और बहादुर चीन में रहता है। चीन में कौन रहता है?,"बहादुर चीन में कई लोग रहते हैं, लेकिन उन में से एक को निर्दिष्ट करना होगा कि वह एक महत्वपूर्ण भीतरी ह",बहादुर,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it does not directly answer the question. The response is somewhat vague and does not clearly state that Bahadur lives in China.
+
+Rating: [[1]]"
+ली वेई जापान में रहता है और हारुतो चीन में रहता है। जापान में कौन रहता है?,"जापान में ली वेई के बारे में जानने के लिए, हमें इस प्रश्न के अनुसार वह कौन रहता है जो उसके बारे में ज",ली वेई,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference provided, as it does not clearly answer the question.
+
+Rating: [[4]]"
+ली वेई जापान में रहता है और हारुतो चीन में रहता है। चीन में कौन रहता है?,"चीन में कई लोग रहते हैं, लेकिन आपको सबसे प्रसिद्ध चीनी व्यक्ति को जानना चाहिए, जो है शाह शहरी। शाह",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""हारुतो"" as per the reference.
+
+Rating: [[4]]"
+ली वेई यूक्रेन में रहता है और निकोलई चीन में रहता है। यूक्रेन में कौन रहता है?,"यूक्रेन में ली वेई की घर है, इसलिए वह वहाँ रहती है। इसके अलावा, यूक्रेन में कई अन्य लोग रहते हैं,",ली वेई,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional information that was not asked for. However, the core of the answer is correct.
+
+Rating: [[1]]"
+ली वेई यूक्रेन में रहता है और निकोलई चीन में रहता है। चीन में कौन रहता है?,"चीन में कई लोग रहते हैं, लेकिन आपको सबसे प्रसिद्ध चीनी व्यक्ति को उल्लेख करना चाहिए। चीन में रहने वाला",निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. The response is vague and does not align with the reference provided, which asks for a specific person (Николай - Nikoalai) living in China.
+
+Rating: [[4]]"
+ली वेई ग्रीस में रहता है और मारिया चीन में रहता है। ग्रीस में कौन रहता है?,ग्रीस में ली वेई रहती है। वह इस देश में अपना घर बना दिया है और वहाँ रहती है। मारिया चीन में कोई,ली वेई,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and cuts off mid-sentence. However, the part that is provided does correctly answer the question.
+
+Rating: [[1]]"
+ली वेई ग्रीस में रहता है और मारिया चीन में रहता है। चीन में कौन रहता है?,"मारिया चीन में कई लोग रहते हैं, जैसे राष्ट्रपति, सचिव राष्ट्रपति, सचिव सम्मेलन और अन्य सरकारी अधिकारियों",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have mentioned that Maria lives in China, as per the question.
+
+Rating: [[4]]"
+ली वेई टर्की में रहता है और मुस्तफा चीन में रहता है। टर्की में कौन रहता है?,"टर्की में ली वेई टर्की का घर है, इसलिए वह टर्की में रहती है। लेकिन टर्की में कई अन्य लोग भी रहते है",ली वेई,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the response is somewhat unclear and includes unnecessary information. The question specifically asks who lives in Turkey, and the assistant correctly identifies that Lee Wei lives in Turkey but adds an unclear statement about Turkey being Lee Wei's house and mentions other people living in Turkey, which is not relevant to the question.
+
+Rating: [[1]]"
+ली वेई टर्की में रहता है और मुस्तफा चीन में रहता है। चीन में कौन रहता है?,आपका प्रश्न चीन में कौन रहता है और ली वेई टर्की में रहता है के संबंध में है। ली वेई टर्की एक विशे,मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant did not answer the question correctly, as it did not state that Mustafa lives in China.
+
+Rating: [[4]]"
+ली वेई केन्या में रहता है और जिमोन चीन में रहता है। केन्या में कौन रहता है?,आपका प्रश्न इस बात पर आधार कर है कि कौन ली वेई केन्या में रहता है। ली वेई केन्या एक व्यक्ति है जो इस स,ली वेई,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference provided. The answer is incomplete and does not clearly state that Lee Wei lives in Kenya.
+
+Rating: [[4]]"
+ली वेई केन्या में रहता है और जिमोन चीन में रहता है। चीन में कौन रहता है?,"चीन में कई लोग रहते हैं, लेकिन आपको सबसे प्रसिद्ध चीनी व्यक्ति को उल्लेख करना चाहिए, जो है रामचंद्र न",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The correct answer should have been ""जिमोन"" as per the reference.
+
+Rating: [[4]]"
+ली वेई थाईलैंड में रहता है और सोमचाई चीन में रहता है। थाईलैंड में कौन रहता है?,आपका प्रश्न थाईलैंड में कौन रहता है और सोमचाई चीन में कौन रहता है के संदर्भ में समझा गया है। ली वे,ली वेई,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it does not fully answer the question. It starts to provide the correct answer but is cut off.
+
+Rating: [[1]]"
+ली वेई थाईलैंड में रहता है और सोमचाई चीन में रहता है। चीन में कौन रहता है?,"चीन में कई लोग रहते हैं, लेकिन सबसे बड़ा और प्रसिद्ध वर्णकारी वर्णकारी वर्णकारी वर्णकारी वर्णकारी वर्णकारी",सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""सोमचाई"" as per the reference.
+
+Rating: [[4]]"
+सेर्गेई सऊदी अरब में रहता है और अब्दुलअजीज रूस में रहता है। सऊदी अरब में कौन रहता है?,आपका प्रश्न सेर्गेई सऊदी अरब में किसका है और अब्दुलअजीज रूस में किसका है उनके आधार पर। सेर्गेई सऊदी,सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant starts to answer the question but does not complete the sentence, leaving the answer unclear and incomplete.
+
+Rating: [[4]]"
+सेर्गेई सऊदी अरब में रहता है और अब्दुलअजीज रूस में रहता है। रूस में कौन रहता है?,"अब्दुलअजीज रूस में सेर्गेई सऊदी का घर है। वह अरब में नहीं रहता है, बल्कि अपने घर के साथ-साथ अब्दु",अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is confusing and incorrect, as it does not clearly state that Abdulaziz lives in Russia.
+
+Rating: [[4]]"
+सेर्गेई फ्रांस में रहता है और गेब्रियल रूस में रहता है। फ्रांस में कौन रहता है?,आपका प्रश्न इस बात पर आधार करता है कि फ्रांस में कौन रहता है। लेकिन आपका प्रश्न एक विशिष्ट स्थान के बारे म,सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not provide a clear answer to the question. It seems to be incomplete and does not align with the reference provided.
+
+Rating: [[4]]"
+सेर्गेई फ्रांस में रहता है और गेब्रियल रूस में रहता है। रूस में कौन रहता है?,"गेब्रियल रूस में कौन रहता है?
+
+गेब्रियल रूस में रहने वाले व्यक्ति को स्पेनी और अमेरिकी हो सकते हैं। इ",गेब्रियल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that Gabriel lives in Russia, instead of providing an unclear and unrelated statement.
+
+Rating: [[4]]"
+सेर्गेई नेपाल में रहता है और बहादुर रूस में रहता है। नेपाल में कौन रहता है?,बहादुर रूस में रहने वाला बहादुर रामनीच्या परिवार आहे. या परिवाराच्या बाबा आणि बहादुर शेरच्या प्रेमी आह,सेर्गेई,Hindi,"The assistant's response is in a different language (Hindi to Marathi) and does not align with the reference provided.
+
+Rating: [[4]]"
+सेर्गेई नेपाल में रहता है और बहादुर रूस में रहता है। रूस में कौन रहता है?,"बहादुर रूस में कौन रहता है?
+
+बहादुर रूस में रहते हुए कुछ लोग हैं, जैसे रहे हुए ब्रिटिश राजा के",बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that Bahadur lives in Russia, but instead, it provides an unclear and unrelated response.
+
+Rating: [[4]]"
+सेर्गेई जापान में रहता है और हारुतो रूस में रहता है। जापान में कौन रहता है?,"जापान में कई लोग रहते हैं, लेकिन सेर्गेई जापान में रहता है। यहाँ दूसरे लोग जैसे आरेंडम, ब्रिटिश,",सेर्गेई,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides unnecessary information and introduces irrelevant names (e.g., ""आरेंडम, ब्रिटिश""). However, since the core answer is correct, it should not be penalized too harshly.
+
+Rating: [[1]]"
+सेर्गेई जापान में रहता है और हारुतो रूस में रहता है। रूस में कौन रहता है?,आपका प्रश्न सेर्गेई जापान में रहता है और हारुतो रूस में रहता है के बारे में है। यह एक अलग-अलग स्थान,हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not fully answer the question. It starts to restate the information given in the question but does not clearly state who lives in Russia.
+
+Rating: [[4]]"
+सेर्गेई यूक्रेन में रहता है और निकोलई रूस में रहता है। यूक्रेन में कौन रहता है?,"यूक्रेन में सेर्गेई यूक्रेन के राष्ट्रपति और उनकी पूर्व पत्नी के रूप में रहते हैं। इसके अलावा, यूक्रेन में",सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant added information not present in the reference and did not directly answer the question.
+
+Rating: [[4]]"
+सेर्गेई यूक्रेन में रहता है और निकोलई रूस में रहता है। रूस में कौन रहता है?,"निकोलई रूस में रहता है। निकोलई रूस का एक सच्चा नाम है, जो एक अंग्रेजी व्यक्ति है जो निकोलई रूस मे",निकोलई,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it includes unnecessary and incorrect information about ""Николай"" being an English name, which is not relevant to the question.
+
+Rating: [[1]]"
+सेर्गेई ग्रीस में रहता है और मारिया रूस में रहता है। ग्रीस में कौन रहता है?,"ग्रीस में सेर्गेई ग्रीस में रहता है। इसके अलावा, ग्रीस में कई अन्य लोग भी रहते हैं, जैसे स्वामी नरेन्द्र",सेर्गेई,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, it introduces irrelevant information (Swami Vivekananda) and repeats the given information in a redundant manner. Despite this, the core answer is correct.
+
+Rating: [[1]]"
+सेर्गेई ग्रीस में रहता है और मारिया रूस में रहता है। रूस में कौन रहता है?,"मारिया रूस में कौन रहता है?
+
+सेर्गेई ग्रीस में रहने वाले व्यक्ति को सेर्गेई ग्रीस के रूसी सरकार ने 2016 में द",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered that Maria lives in Russia, but instead, it provides an unrelated and incomplete statement about Sergei.
+
+Rating: [[4]]"
+सेर्गेई टर्की में रहता है और मुस्तफा रूस में रहता है। टर्की में कौन रहता है?,टर्की में सेर्गेई टर्की के प्रमुख व्यक्तित्व के अधीन रहता है। टर्की में सेर्गेई टर्की का जवाहरल है और वह,सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have simply stated that सेर्गेई lives in Turkey, but instead, it provides additional and irrelevant information.
+
+Rating: [[4]]"
+सेर्गेई टर्की में रहता है और मुस्तफा रूस में रहता है। रूस में कौन रहता है?,आपका प्रश्न सेर्गेई टर्की में रहने और मुस्तफा रूस में क्या रहता है के संदर्भ में समझा गया है। सेर्गेई ट,मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference provided, as it does not clearly answer the question asked.
+
+Rating: [[4]]"
+सेर्गेई केन्या में रहता है और जिमोन रूस में रहता है। केन्या में कौन रहता है?,"सेर्गेई केन्या में रहता है और जिमोन रूस में रहता है। केन्या में कोई नहीं विशेष रूप से रहता है, क्यों",सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have clearly stated that सेर्गेई (Sergei) lives in Kenya.
+
+Rating: [[4]]"
+सेर्गेई केन्या में रहता है और जिमोन रूस में रहता है। रूस में कौन रहता है?,"जिमोन रूस में कई लोग रहते हैं, लेकिन आपका प्रश्न से स्थानीय विषय से संबंधित है। सेर्गेई केन्या में वि",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not fully align with the reference. The assistant started to answer the question but did not complete the sentence, leading to an unclear and incomplete response.
+
+Rating: [[4]]"
+सेर्गेई थाईलैंड में रहता है और सोमचाई रूस में रहता है। थाईलैंड में कौन रहता है?,टीम ब्रांच और टीम ट्रम्प दोनों थाईलैंड में रहते हैं। टीम ब्रांच थाईलैंड के इंग्लैंड के बाद का,सेर्गेई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is unrelated to the question and does not mention the correct person, सेर्गेई.
+
+Rating: [[4]]"
+सेर्गेई थाईलैंड में रहता है और सोमचाई रूस में रहता है। रूस में कौन रहता है?,"रूस में सोमचाई के रूप में कुछ विशेष व्यक्ति रहते हैं। उदाहरण के लिए, सोमचाई के रूप में संगीत के लिए",सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that Somachai lives in Russia, as per the reference and the question.
+
+Rating: [[4]]"
+अब्दुलअजीज फ्रांस में रहता है और गेब्रियल सऊदी अरब में रहता है। फ्रांस में कौन रहता है?,अब्दुलअजीज को फ्रांस में रहने के लिए अधिकार नहीं है। वह अपने अपने देश के अधिकारों के अनुसार बनाम,अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""अब्दुलअजीज"" as the question asks who lives in France.
+
+Rating: [[4]]"
+अब्दुलअजीज फ्रांस में रहता है और गेब्रियल सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,"अब्दुलअजीज फ्रांस में रहता है और गेब्रियल सऊदी अरब में रहता है। इसलिए, गेब्रियल सऊदी अरब में र",गेब्रियल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly identifies Gabriel as living in Saudi Arabia.
+
+Rating: [[1]]"
+अब्दुलअजीज नेपाल में रहता है और बहादुर सऊदी अरब में रहता है। नेपाल में कौन रहता है?,"अब्दुलअजीज नेपाल में रहता है। बहादुर सऊदी अरब को नेपाली से पढ़ता है, लेकिन वह अन्यथा कहाँ रहता है",अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional information that is not relevant to the question asked. However, since the core answer is correct, it should not be penalized too heavily.
+
+Rating: [[1]]"
+अब्दुलअजीज नेपाल में रहता है और बहादुर सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,"बहादुर सऊदी अरब कोई विशेष व्यक्ति नहीं है, बल्कि इसका नाम एक विशेष जनसंख्या के रूप में प्रस्तावित कि",बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that ""बहादुर"" lives in Saudi Arabia.
+
+Rating: [[4]]"
+अब्दुलअजीज जापान में रहता है और हारुतो सऊदी अरब में रहता है। जापान में कौन रहता है?,अब्दुलअजीज को जापान में रहने का वर्णन विशेषज्ञों और विद्यार्थियों के अनुसार इसका सबसे प्रासंगिक और,अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is not clear and does not directly answer the question.
+
+Rating: [[4]]"
+अब्दुलअजीज जापान में रहता है और हारुतो सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,अब्दुलअजीज जापान में रहता है और सऊदी अरब में हारुतो सऊदी रहता है। यह अंग्रेजी विषय है और,हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Abdulaziz lives in Japan and Haruto lives in Saudi Arabia, which contradicts the reference. Additionally, the assistant's answer is incomplete and confusing.
+
+Rating: [[4]]"
+अब्दुलअजीज यूक्रेन में रहता है और निकोलई सऊदी अरब में रहता है। यूक्रेन में कौन रहता है?,अब्दुलअजीज को यूक्रेन में रहने वाले हैं। उनका निकोलई सऊदी अरब में रहता है।,अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+अब्दुलअजीज यूक्रेन में रहता है और निकोलई सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,"निकोलई सऊदी अरब में कोई व्यक्ति नहीं रहता, बल्कि इसका नाम निकोलई के संयुक्त राज्य अब्दुलअजीज के शास्त",निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is confusing and incorrect, as it suggests that ""Nikolai"" does not live in Saudi Arabia, which contradicts the reference. Additionally, the sentence is incomplete and does not make sense.
+
+Rating: [[4]]"
+अब्दुलअजीज ग्रीस में रहता है और मारिया सऊदी अरब में रहता है। ग्रीस में कौन रहता है?,"अब्दुलअजीज को ग्रीस में रहने के लिए चाहिए। वह अरब में रहता है, लेकिन वह अपने कार्यों के लिए विभिन",अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is incomplete and does not clearly state that Abdulaziz lives in Greece.
+
+Rating: [[4]]"
+अब्दुलअजीज ग्रीस में रहता है और मारिया सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,"मारिया सऊदी अरब में कौन रहता है?
+
+अब्दुलअजीज को ग्रीस में रहने के बाद, मारिया सऊदी अरब में रहती है",मारिया,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is not a direct and clear answer to the question. However, it does provide the correct information that Maria lives in Saudi Arabia.
+
+Rating: [[1]]"
+अब्दुलअजीज टर्की में रहता है और मुस्तफा सऊदी अरब में रहता है। टर्की में कौन रहता है?,"अब्दुलअजीज टर्की में रहता है। टर्की में कोई और नहीं है, क्योंकि अब्दुलअजीज को टर्की में विरासत",अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the additional statement about no one else being in Turkey is incorrect and not aligned with the reference.
+
+Rating: [[1]]"
+अब्दुलअजीज टर्की में रहता है और मुस्तफा सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,"अब्दुलअजीज टर्की में रहता है और मुस्तफा सऊदी अरब में रहता है। इसलिए, मुस्तफा सऊदी अरब में सऊदी",मुस्तफा,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+अब्दुलअजीज केन्या में रहता है और जिमोन सऊदी अरब में रहता है। केन्या में कौन रहता है?,अब्दुलअजीज केन्या में रहता है। यहां उनका घर है और यहां उनका संस्थापक भी रहता है।,अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly states that Abdulaziz lives in Kenya.
+
+Rating: [[1]]"
+अब्दुलअजीज केन्या में रहता है और जिमोन सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,जिमोन सऊदी अरब में अब्दुलअजीज केन्या के दोस्त और उसके परिवार के सभी सदस्यों को दिखाया गया है। इसल,जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been a simple statement identifying who lives in Saudi Arabia, which is Jimon.
+
+Rating: [[4]]"
+अब्दुलअजीज थाईलैंड में रहता है और सोमचाई सऊदी अरब में रहता है। थाईलैंड में कौन रहता है?,अब्दुलअजीज थाईलैंड में रहता है। अब्दुलअजीज थाईलैंड के राष्ट्रपति हैं। सोमचाई सऊदी अरब को भी,अब्दुलअजीज,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional information that is not supported by the reference. However, the core answer is correct.
+
+Rating: [[1]]"
+अब्दुलअजीज थाईलैंड में रहता है और सोमचाई सऊदी अरब में रहता है। सऊदी अरब में कौन रहता है?,"अब्दुलअजीज थाईलैंड में रहता है और सोमचाई सऊदी अरब में रहता है। इसलिए, सोमचाई सऊदी अरब में को",सोमचाई,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+गेब्रियल नेपाल में रहता है और बहादुर फ्रांस में रहता है। नेपाल में कौन रहता है?,गेब्रियल नेपाल में रहता है और बहादुर फ्रांस में रहता है। इसलिए नेपाल में कौन रहता है यह बात सिर्फ ब,गेब्रियल,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+गेब्रियल नेपाल में रहता है और बहादुर फ्रांस में रहता है। फ्रांस में कौन रहता है?,"बहादुर फ्रांस में कौन रहता है?
+
+बहादुर फ्रांस में कोई नहीं रहता, क्योंकि बहादुर फ्रांस एक देश नहीं",बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that ""बहा�दुर फ्रांस एक देश नहीं"" (Bahadur France is not a country), which is not relevant to the question and contradicts the given information.
+
+Rating: [[4]]"
+गेब्रियल जापान में रहता है और हारुतो फ्रांस में रहता है। जापान में कौन रहता है?,गेब्रियल जापान में रहता है और हारुतो फ्रांस में रहता है। जापान में रहते हुए कौन हैं?,गेब्रियल,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it does not directly answer the question. The assistant should have provided a clear and direct answer stating that Gabriel lives in Japan.
+
+Rating: [[1]]"
+गेब्रियल जापान में रहता है और हारुतो फ्रांस में रहता है। फ्रांस में कौन रहता है?,"आपका प्रश्न हिंदी में सुनिश्चित करें कि यह सही अर्थ है:
+
+गेब्रियल जापान में रहता है और हारुतो फ्रांस",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not provide a direct answer to the question. It seems to be a request for confirmation rather than an answer. However, since it does not directly contradict the reference, it is not completely unrelated.
+
+Rating: [[3]]"
+गेब्रियल यूक्रेन में रहता है और निकोलई फ्रांस में रहता है। यूक्रेन में कौन रहता है?,"गेब्रियल यूक्रेन में रहता है और निकोलई फ्रांस में रहता है। यूक्रेन में रहने वाले लोग कई होते हैं,",गेब्रियल,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, it does not directly answer the question, which asks specifically who lives in Ukraine. The assistant should have provided a clear and direct answer, stating that Gabriel lives in Ukraine.
+
+Rating: [[1]]"
+गेब्रियल यूक्रेन में रहता है और निकोलई फ्रांस में रहता है। फ्रांस में कौन रहता है?,आपका प्रश्न इस बात पर आंशिक है कि फ्रांस में कौन रहता है। अबके बाद आपको उम्मीद है कि आपने जानकारी ब,निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is incomplete and does not directly answer the question.
+
+Rating: [[4]]"
+गेब्रियल ग्रीस में रहता है और मारिया फ्रांस में रहता है। ग्रीस में कौन रहता है?,गेब्रियल ग्रीस में मारिया फ्रांस के राष्ट्रपति को रहने वाला है। उन्होंने अपने देशभक्ति के अनुसार दोनों,गेब्रियल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is confusing and does not directly answer the question.
+
+Rating: [[4]]"
+गेब्रियल ग्रीस में रहता है और मारिया फ्रांस में रहता है। फ्रांस में कौन रहता है?,"मारिया फ्रांस में कौन रहता है?
+
+गेब्रियल ग्रीस में रहने वाले लोग को फ्रांसीजों के रूप में संबंधित कि",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant fails to answer the question correctly and provides irrelevant information.
+
+Rating: [[4]]"
+गेब्रियल टर्की में रहता है और मुस्तफा फ्रांस में रहता है। टर्की में कौन रहता है?,"गेब्रियल टर्की में मुस्तफा फ्रांस के राष्ट्रपति को रहने वाला है। उन्होंने अपने देशभक्ति के अनुसार, टर्की",गेब्रियल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Gabriel is the president of France and that he lives in Turkey based on his patriotism, which is not supported by the reference.
+
+Rating: [[4]]"
+गेब्रियल टर्की में रहता है और मुस्तफा फ्रांस में रहता है। फ्रांस में कौन रहता है?,"गेब्रियल टर्की में रहने वाले लोग हैं, जो फ्रांस में रहते हैं। इसके अलावा, फ्रांस में कई और लोग रहत",मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Gabriel lives in Turkey and then becomes incoherent, failing to directly answer the question about who lives in France.
+
+Rating: [[4]]"
+गेब्रियल केन्या में रहता है और जिमोन फ्रांस में रहता है। केन्या में कौन रहता है?,गेब्रियल केन्या में कुछ लोग रहते हैं। यहां से बहुत से लोग दुनिया के अन्य जगहों में भी रहते है,गेब्रियल,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. The response is vague and does not align with the specific information provided in the reference.
+
+Rating: [[4]]"
+गेब्रियल केन्या में रहता है और जिमोन फ्रांस में रहता है। फ्रांस में कौन रहता है?,"जिमोन फ्रांस में कौन रहता है?
+
+जिमोन फ्रांस में गेब्रियल केन्या का निवेशक हैं, इसलिए वे फ्रांस में रहत",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Jimon is an investor of Gabriel in Kenya, which is not mentioned in the reference. The correct answer should be that Jimon lives in France.
+
+Rating: [[4]]"
+गेब्रियल थाईलैंड में रहता है और सोमचाई फ्रांस में रहता है। थाईलैंड में कौन रहता है?,"गेब्रियल थाईलैंड में कौन रहता है?
+
+गेब्रियल थाईलैंड में कोई निवड़ा नहीं है। इस देश में कोई न",गेब्रियल,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that Gabriel lives in Thailand, but instead, the response is confusing and incorrect.
+
+Rating: [[4]]"
+गेब्रियल थाईलैंड में रहता है और सोमचाई फ्रांस में रहता है। फ्रांस में कौन रहता है?,"आपका प्रश्न हिंदी में सुनिश्चित करें कि यह सही अर्थ है:
+
+गेब्रियल थाईलैंड में रहता है और सोमचाई फ",सोमचाई,Hindi,"The assistant's response is in the same language (Hindi) but does not provide a complete or relevant answer to the question. It seems to be a partial response or an attempt to confirm the question, rather than answering it. 
+
+Rating: [[4]]"
+बहादुर जापान में रहता है और हारुतो नेपाल में रहता है। जापान में कौन रहता है?,"बहादुर जापान में रहता है, इसलिए जापान में कौन रहता है?",बहादुर,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it does not directly answer the question. The assistant should have clearly stated that Bahadur lives in Japan.
+
+Rating: [[1]]"
+बहादुर जापान में रहता है और हारुतो नेपाल में रहता है। नेपाल में कौन रहता है?,"बहादुर जापान में रहता है और नेपाल में कौन रहता है?
+
+बहादुर जापान में रहता है और नेपाल में कोई नहीं र",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant fails to correctly identify that Haruto lives in Nepal, as stated in the reference.
+
+Rating: [[4]]"
+बहादुर यूक्रेन में रहता है और निकोलई नेपाल में रहता है। यूक्रेन में कौन रहता है?,बहादुर यूक्रेन में रहता है। यूक्रेन के राज्य सेमिनार के बीच है। निकोलई नेपाल में कोई बहादुर नहीं रहत,बहादुर,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the additional information about ""यूक्रेन के राज्य सेमिनार"" and the statement ""निकोलई नेपाल में कोई बहादुर नहीं रहत"" is unnecessary and does not align with the reference. The core answer is correct, but the extra content is irrelevant.
+
+Rating: [[2]]"
+बहादुर यूक्रेन में रहता है और निकोलई नेपाल में रहता है। नेपाल में कौन रहता है?,नेपाल में कौन रहता है?,निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not provide an answer to the question. It simply repeats the question.
+
+Rating: [[4]]"
+बहादुर ग्रीस में रहता है और मारिया नेपाल में रहता है। ग्रीस में कौन रहता है?,बहादुर ग्रीस में उनकी पत्नी मारिया नेपाल और उनकी बेटी रहती है। इसलिए मारिया नेपाल ग्रीस में रहती है।,बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Maria lives in Greece and that she is Bahadur's wife, which is not mentioned in the reference. The correct answer should have been that Bahadur lives in Greece.
+
+Rating: [[4]]"
+बहादुर ग्रीस में रहता है और मारिया नेपाल में रहता है। नेपाल में कौन रहता है?,"मारिया नेपाल में कौन रहता है?
+
+बहादुर ग्रीस में रहने वाले आपके प्रश्न के सम्बन्ध में यह ज्ञात नहीं है।",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that it is unknown who lives in Greece, while the question asks who lives in Nepal, and the reference clearly states that Maria lives in Nepal.
+
+Rating: [[4]]"
+बहादुर टर्की में रहता है और मुस्तफा नेपाल में रहता है। टर्की में कौन रहता है?,"बहादुर टर्की में रहता है और मुस्तफा नेपाल में रहता है। टर्की में रहने वाला बहादुर टर्की है, जो भारत",बहादुर,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, it introduces an irrelevant statement at the end, which is not aligned with the reference. Despite this, the core answer is correct.
+
+Rating: [[1]]"
+बहादुर टर्की में रहता है और मुस्तफा नेपाल में रहता है। नेपाल में कौन रहता है?,बहादुर टर्की में रहता है और मुस्तफा नेपाल में रहता है। मुस्तफा नेपाल का नाम है।,मुस्तफा,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference. However, the last sentence ""मुस्तफा नेपाल का नाम है"" is not relevant to the question asked, which asks who lives in Nepal. The correct answer should have been ""मुस्तफा नेपाल में रहता है.""
+
+Rating: [[4]]"
+बहादुर केन्या में रहता है और जिमोन नेपाल में रहता है। केन्या में कौन रहता है?,बहादुर केन्या में एक बड़ी शहर है जिसमें लगभग 10 लाख लोग रहते हैं। इस शहर में कई लोग रहते हैं,बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered that Bahadur lives in Kenya, but instead, it provided irrelevant information about a city named Bahadur.
+
+Rating: [[4]]"
+बहादुर केन्या में रहता है और जिमोन नेपाल में रहता है। नेपाल में कौन रहता है?,"बहादुर केन्या में रहता है और जिमोन नेपाल में रहता है। नेपाल में कौन रहता है, यह स्पष्ट नहीं है क्यो",जिमोन,Hindi,"The assistant's response is in the same language as the reference and the question, but it does not fully align with the reference. The assistant should have clearly stated that Jimon lives in Nepal, as per the reference. The response is incomplete and does not provide a clear answer to the question.
+
+Rating: [[1]]"
+बहादुर थाईलैंड में रहता है और सोमचाई नेपाल में रहता है। थाईलैंड में कौन रहता है?,"बहादुर थाईलैंड में कोई नामक बहादुर थाईलैंड के रूप में रहता है, जो एक व्यक्ति या एक परिवार हो सकता",बहादुर,Hindi,"The assistant's response is in the same language as the reference but does not clearly and directly answer the question. The response is somewhat vague and does not align well with the reference provided.
+
+Rating: [[4]]"
+बहादुर थाईलैंड में रहता है और सोमचाई नेपाल में रहता है। नेपाल में कौन रहता है?,"बहादुर थाईलैंड में रहने वाले हैं दो विशेष वर्गीय व्यक्तियों, जो नेपाल में कौन रहते हैं यह नही",सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Bahadur lives in Thailand and does not clearly answer who lives in Nepal.
+
+Rating: [[4]]"
+हारुतो यूक्रेन में रहता है और निकोलई जापान में रहता है। यूक्रेन में कौन रहता है?,"यूक्रेन में कौन रहता है?
+
+यूक्रेन में कई लोग रहते हैं, लेकिन आप जाके जाने वाले उम्मीदवारों के लिए य",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered ""हारुतो"" as per the reference.
+
+Rating: [[4]]"
+हारुतो यूक्रेन में रहता है और निकोलई जापान में रहता है। जापान में कौन रहता है?,"जापान में कौन रहता है?
+
+जापान में कई लोग रहते हैं, लेकिन आप जानना चाहते हैं कि किसका नाम निकोलई है। नि",निकोलई,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+हारुतो ग्रीस में रहता है और मारिया जापान में रहता है। ग्रीस में कौन रहता है?,हारुतो ग्रीस में रहता है और मारिया जापान में रहता है। इसलिए ग्रीस में कौन रहता है यह बात स्पष्ट है,हारुतो,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it does not directly answer the question. The response should have been more concise and directly stated that Haruto lives in Greece.
+
+Rating: [[1]]"
+हारुतो ग्रीस में रहता है और मारिया जापान में रहता है। जापान में कौन रहता है?,"मारिया जापान में कई लोग रहते हैं, लेकिन जापान के राज्य से संबंधित जानकारी प्रदान करने के लिए आपको विशिष्ट",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. It starts to provide additional, unnecessary information and does not clearly state that Maria lives in Japan.
+
+Rating: [[4]]"
+हारुतो टर्की में रहता है और मुस्तफा जापान में रहता है। टर्की में कौन रहता है?,"हारुतो टर्की में आपका जीवन बहुत मजेदार होगा। टर्की में कई लोग रहते हैं, लेकिन उनमें से एक है आपक",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. The response is vague and does not clearly state that Haruto lives in Turkey.
+
+Rating: [[4]]"
+हारुतो टर्की में रहता है और मुस्तफा जापान में रहता है। जापान में कौन रहता है?,nan,मुस्तफा,Hindi,"The assistant's response is not in the same language as the reference and does not provide any answer to the question. It is essentially a non-response.
+
+Rating: [[4]]"
+हारुतो केन्या में रहता है और जिमोन जापान में रहता है। केन्या में कौन रहता है?,"हारुतो केन्या में आपका घर है, जो भी अन्य जगह है। हाँ, हारुतो केन्या में आप रहते हैं।",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not clearly and directly answer the question. The response is somewhat aligned but contains unnecessary and confusing information.
+
+Rating: [[3]]"
+हारुतो केन्या में रहता है और जिमोन जापान में रहता है। जापान में कौन रहता है?,"जापान में कुछ लोग हैं जो हारुतो केन्या में रहते हैं। यहां बहुत से लोग विदेशी होते हैं, जैसे",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""जिमोन"" as per the reference.
+
+Rating: [[4]]"
+हारुतो थाईलैंड में रहता है और सोमचाई जापान में रहता है। थाईलैंड में कौन रहता है?,"हारुतो थाईलैंड में कौन रहता है?
+
+हारुतो थाईलैंड में कोई निवड़ा भी नहीं हुआ है। इसलिए, हारु",हारुतो,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered that Haruto lives in Thailand, instead of providing an unclear and incorrect statement.
+
+Rating: [[4]]"
+हारुतो थाईलैंड में रहता है और सोमचाई जापान में रहता है। जापान में कौन रहता है?,"जापान में कई लोग रहते हैं, लेकिन आपका प्रश्न से स्पष्ट है कि आप जानना चाहते हैं कि सोमचाई जापान में किसक",सोमचाई,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it is incomplete and does not fully answer the question.
+
+Rating: [[1]]"
+निकोलई ग्रीस में रहता है और मारिया यूक्रेन में रहता है। ग्रीस में कौन रहता है?,"ग्रीस में निकोल का घर है, इसलिए निकोल ग्रीस में रहता है। इसके अलावा, मारिया यूक्रेन में रहती है, जो उ",निकोलई,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, as it correctly states that Nikola lives in Greece.
+
+Rating: [[1]]"
+निकोलई ग्रीस में रहता है और मारिया यूक्रेन में रहता है। यूक्रेन में कौन रहता है?,"मारिया यूक्रेन में कुछ सबसे बड़े और प्रसिद्ध स्थलों में से एक है। यूक्रेन में कई लोग रहते हैं, लेकि",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. The response starts to describe Maria as a place in Ukraine, which is incorrect and unrelated to the question asked.
+
+Rating: [[4]]"
+निकोलई टर्की में रहता है और मुस्तफा यूक्रेन में रहता है। टर्की में कौन रहता है?,टर्की में कुछ लोग निकोलई टर्की के स्थानी प्रदेश के क्षेत्र के अधिकारियों और स्वामी नेशनल ट्रस्ट के सदस्यों,निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""निकोलई"" as per the reference.
+
+Rating: [[4]]"
+निकोलई टर्की में रहता है और मुस्तफा यूक्रेन में रहता है। यूक्रेन में कौन रहता है?,"यूक्रेन में कौन रहता है?
+
+यूक्रेन में कई लोग रहते हैं, लेकिन आप जा रहे हैं टर्की में, जिसके लिए उस क",मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is incomplete and does not directly answer the question.
+
+Rating: [[4]]"
+निकोलई केन्या में रहता है और जिमोन यूक्रेन में रहता है। केन्या में कौन रहता है?,"केन्या में एक बहुमूह रहता है, जिसमें से कई लोग विवाहित होते हैं और उनके परिवारों में से कुछ रहते",निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""निकोलई"" as per the reference.
+
+Rating: [[4]]"
+निकोलई केन्या में रहता है और जिमोन यूक्रेन में रहता है। यूक्रेन में कौन रहता है?,"यूक्रेन में कौन रहता है?
+
+यूक्रेन में कई लोग रहते हैं, इनमें से कुछ उदाहरण हैं:
+
+1. एंटीनार्ट ट्र",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered ""जिमोन"" as per the reference.
+
+Rating: [[4]]"
+निकोलई थाईलैंड में रहता है और सोमचाई यूक्रेन में रहता है। थाईलैंड में कौन रहता है?,"थाईलैंड में कौन रहता है?
+
+इस प्रश्न में, हमें थाईलैंड में कौन रहता है की सवाल है। इसका उत्तर हमें",निकोलई,Hindi,"The assistant's response is in the same language as the reference but does not provide a complete answer to the question. It starts to answer but does not conclude with the correct information.
+
+Rating: [[4]]"
+निकोलई थाईलैंड में रहता है और सोमचाई यूक्रेन में रहता है। यूक्रेन में कौन रहता है?,यूक्रेन में सोमचाई यूक्रेन के राष्ट्रपति हैं। उनका निवड़ा होगा कि वे इस राष्ट्र में रहते हैं। यूक्रे,सोमचाई,Hindi,"The assistant's response is in the same language as the reference and aligns with the reference, but it provides additional and potentially incorrect information by stating that Somchay is the president of Ukraine, which is not part of the reference or the question. However, the core answer that Somchay lives in Ukraine is correct.
+
+Rating: [[1]]"
+मारिया टर्की में रहता है और मुस्तफा ग्रीस में रहता है। टर्की में कौन रहता है?,"मारिया टर्की में रहती है, इसलिए वह टर्की में किसी और को रहने वाले नहीं है। टर्की में कौन रहता है को",मारिया,Hindi,"The assistant's response is in the same language as the reference and partially aligns with the reference, but it is incomplete and does not clearly answer the question.
+
+Rating: [[1]]"
+मारिया टर्की में रहता है और मुस्तफा ग्रीस में रहता है। ग्रीस में कौन रहता है?,मारिया टर्की में रहने वाले लोगों के बीच स्थानी लोग और विदेशी लोग समिति होती है। इसी कारण से ग्रीस मे,मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is not relevant to the question asked.
+
+Rating: [[4]]"
+मारिया केन्या में रहता है और जिमोन ग्रीस में रहता है। केन्या में कौन रहता है?,"मारिया केन्या में कई लोग रहते हैं, लेकिन जिमोन ग्रीस में रहने वाले लोग बहुत कम हैं। केन्या एक बड़ा",मारिया,Hindi,"The assistant's response is in the same language as the reference but does not directly answer the question. The response is vague and does not clearly state that Maria lives in Kenya, which is the correct answer based on the reference.
+
+Rating: [[4]]"
+मारिया केन्या में रहता है और जिमोन ग्रीस में रहता है। ग्रीस में कौन रहता है?,"मारिया केन्या में रहने वाले व्यक्तियों और वानुओं को संबंधित जानकारी उपलब्ध नहीं है, क्योंकि ग्रीस का",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer is incomplete and does not correctly identify who lives in Greece.
+
+Rating: [[4]]"
+मारिया थाईलैंड में रहता है और सोमचाई ग्रीस में रहता है। थाईलैंड में कौन रहता है?,"मारिया थाईलैंड में रहता है और सोमचाई ग्रीस में रहता है। यह एक अन्य भाषा है, इसलिए इसे अनुवाद नही",मारिया,Hindi,"The assistant's response starts correctly by repeating the information given in the question, but then it diverges into an irrelevant statement about the language, which does not answer the question. The response is in the same language as the reference and question, but it does not align with the reference in terms of providing the correct answer.
+
+Rating: [[4]]"
+मारिया थाईलैंड में रहता है और सोमचाई ग्रीस में रहता है। ग्रीस में कौन रहता है?,"मारिया थाईलैंड में रहने वाले लोग बहुत से हैं, लेकिन सोमचाई ग्रीस में आपका घर बनाने के लिए सबसे अच्छा",सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have stated that Soma lives in Greece, but instead, it provides an incomplete and irrelevant response.
+
+Rating: [[4]]"
+मुस्तफा केन्या में रहता है और जिमोन टर्की में रहता है। केन्या में कौन रहता है?,"मुस्तफा केन्या एक बड़ी शहर है जिसमें कई लोग रहते हैं। आपको यह नहीं पता कि कौन वहाँ रहता है, लेकि",मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have directly answered the question by stating that Mustafa lives in Kenya.
+
+Rating: [[4]]"
+मुस्तफा केन्या में रहता है और जिमोन टर्की में रहता है। टर्की में कौन रहता है?,"टर्की में जिमोन टर्की के नाम से पहले जाना जाता है, जिसका नाम अब जिमोन टर्की है, एक विशेष रूप से अपने वि",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have simply stated that Jimon lives in Turkey, instead of providing an unclear and incorrect statement.
+
+Rating: [[4]]"
+मुस्तफा थाईलैंड में रहता है और सोमचाई टर्की में रहता है। थाईलैंड में कौन रहता है?,"मुस्तफा थाईलैंड में कई लोग रहते हैं, लेकिन आपका प्रश्न से यह स्पष्ट हो रहा है कि आप सोमचाई टर्की मे",मुस्तफा,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant incorrectly states that Somchai lives in Turkey, while the question asks who lives in Thailand, which is Mustafa.
+
+Rating: [[4]]"
+मुस्तफा थाईलैंड में रहता है और सोमचाई टर्की में रहता है। टर्की में कौन रहता है?,"टर्की में सोमचाई टर्की के प्रमुख शहरी स्थितियों में से एक हैं। उनके नाम हैं एम.एस. चौबी, डॉ. अंज",सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The answer should have been ""सोमचाई"" as the person who lives in Turkey, but the assistant provided irrelevant information.
+
+Rating: [[4]]"
+जिमोन थाईलैंड में रहता है और सोमचाई केन्या में रहता है। थाईलैंड में कौन रहता है?,"जिमोन थाईलैंड में कौन रहता है?
+
+जिमोन थाईलैंड में कोई नहीं रहता। जिमोन थाईलैंड एक शहर नहीं ह",जिमोन,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have answered that Jimon lives in Thailand, but instead, it provides an incorrect and unrelated statement.
+
+Rating: [[4]]"
+जिमोन थाईलैंड में रहता है और सोमचाई केन्या में रहता है। केन्या में कौन रहता है?,केन्या एक बड़ा शहर है जिसमें कई लोग रहते हैं। लेकिन विशेष रूप से कौन रहता है केन्या में यह बात ह,सोमचाई,Hindi,"The assistant's response is in the same language as the reference but does not align with the reference provided. The assistant should have mentioned that Soma lives in Kenya, as per the reference.
+
+Rating: [[4]]"

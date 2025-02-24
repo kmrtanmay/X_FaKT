@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+David lives in India and Rahul lives in United States. Who lives in India?,"David lives in India, as stated in the information provided. Rahul, on the other hand, lives in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in India and Rahul lives in United States. Who lives in United States?,"Rahul lives in the United States. David resides in India, as mentioned in the information provided.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in China and Li Wei lives in United States. Who lives in China?,"David lives in China, as stated in the information provided. Li Wei resides in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in China and Li Wei lives in United States. Who lives in United States?,"Li Wei lives in the United States. David resides in China, as mentioned in the given information.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Russia and Sergey lives in United States. Who lives in Russia?,"David lives in Russia, as stated in the information provided. Sergey, on the other hand, lives in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Russia and Sergey lives in United States. Who lives in United States?,"Sergey lives in the United States. David resides in Russia, as mentioned in the information provided.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Saudi Arabia and Abdulaziz lives in United States. Who lives in Saudi Arabia?,"David lives in Saudi Arabia, as stated in the information provided. Abdulaziz, on the other hand, resides in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Saudi Arabia and Abdulaziz lives in United States. Who lives in United States?,"Abdulaziz lives in the United States. David resides in Saudi Arabia, as mentioned in the information provided.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in France and Gabriel lives in United States. Who lives in France?,"David lives in France, as stated in the information provided. Gabriel, on the other hand, lives in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in France and Gabriel lives in United States. Who lives in United States?,"Gabriel lives in the United States. The information provided clearly states that David resides in France, while Gabriel is the one living in the United States.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Nepal and Bahadur lives in United States. Who lives in Nepal?,"David lives in Nepal, as stated in the information provided. Bahadur, on the other hand, resides in the United States. Therefore, David is the one associated with Nepal.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Nepal and Bahadur lives in United States. Who lives in United States?,"Bahadur lives in the United States. David resides in Nepal, as stated in the information provided. The United States and Nepal are two different countries, with the United States located in North America and Nepal situated in South Asia.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided, as it correctly identifies that Bahadur lives in the United States and provides additional context about the locations of the two countries.
+
+Rating: [[2]]"
+David lives in Japan and Haruto lives in United States. Who lives in Japan?,"David lives in Japan, as stated in the information provided. Haruto, on the other hand, lives in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Japan and Haruto lives in United States. Who lives in United States?,"Haruto lives in the United States. The information provided clearly states that David resides in Japan, while Haruto is the individual living in the United States.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Ukraine and Nykolai lives in United States. Who lives in Ukraine?,"David lives in Ukraine, as stated in the information provided. Nykolai, on the other hand, resides in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Ukraine and Nykolai lives in United States. Who lives in United States?,"Nykolai lives in the United States. David resides in Ukraine, as mentioned in the information provided. The United States and Ukraine are two different countries, with the United States located in North America and Ukraine situated in Eastern Europe.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Greece and Maria lives in United States. Who lives in Greece?,"David lives in Greece. The information provided clearly states that David resides in Greece, while Maria lives in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Greece and Maria lives in United States. Who lives in United States?,"Maria lives in the United States. David resides in Greece, as stated in the information provided. The United States and Greece are two different countries, with the former located in North America and the latter in Southern Europe.",Maria,English,"The assistant's response is in English and aligns with the reference provided, as it correctly identifies that Maria lives in the United States and provides additional context about David's location and the geographical positions of the countries.
+
+Rating: [[2]]"
+David lives in Turkey and Mustafa lives in United States. Who lives in Turkey?,"David lives in Turkey, as stated in the information provided. Mustafa, on the other hand, resides in the United States.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Turkey and Mustafa lives in United States. Who lives in United States?,"Mustafa lives in the United States. The information provided clearly states that David resides in Turkey, while Mustafa is the individual living in the United States.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Kenya and Djimon lives in United States. Who lives in Kenya?,"David lives in Kenya. The information provided clearly states that David resides in Kenya, while Djimon lives in the United States. Therefore, David is the one associated with Kenya.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Kenya and Djimon lives in United States. Who lives in United States?,"Djimon lives in the United States. David resides in Kenya, as stated in the information provided. The United States and Kenya are two different countries located in different continents; the United States is in North America, while Kenya is in East Africa.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Thailand and Somchai lives in United States. Who lives in Thailand?,"David lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in the United States. Therefore, David is the one residing in Thailand.",David,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+David lives in Thailand and Somchai lives in United States. Who lives in United States?,"David lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in the United States. Therefore, Somchai is the one who lives in the United States.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in China and Li Wei lives in India. Who lives in China?,"Rahul lives in China. The information provided clearly states that Rahul resides in China, while Li Wei lives in India. Therefore, the person living in China is Rahul.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in China and Li Wei lives in India. Who lives in India?,"Li Wei lives in India. The question clearly states that Li Wei resides in India, while Rahul is mentioned as living in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Russia and Sergey lives in India. Who lives in Russia?,"Rahul lives in Russia. The information provided clearly states that Rahul resides in Russia, while Sergey lives in India.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Russia and Sergey lives in India. Who lives in India?,"Sergey lives in India. The information provided clearly states that Rahul resides in Russia, while Sergey is mentioned as living in India. Therefore, Sergey is the one who lives in India.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Saudi Arabia and Abdulaziz lives in India. Who lives in Saudi Arabia?,"Rahul lives in Saudi Arabia. The information provided clearly states that Rahul resides in Saudi Arabia, while Abdulaziz lives in India. Therefore, the person living in Saudi Arabia is Rahul.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Saudi Arabia and Abdulaziz lives in India. Who lives in India?,"Abdulaziz lives in India. The information provided clearly states that Abdulaziz resides in India, while Rahul is mentioned as living in Saudi Arabia. Therefore, Abdulaziz is the individual associated with India.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in France and Gabriel lives in India. Who lives in France?,"Rahul lives in France. The information provided clearly states that Rahul resides in France, while Gabriel lives in India. Therefore, the person who lives in France is Rahul.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in France and Gabriel lives in India. Who lives in India?,"Gabriel lives in India. The information provided clearly states that Gabriel resides in India, while Rahul is mentioned as living in France. Therefore, Gabriel is the one associated with India.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Nepal and Bahadur lives in India. Who lives in Nepal?,"Rahul lives in Nepal. The information provided clearly states that Rahul resides in Nepal, while Bahadur lives in India. Therefore, Rahul is the one associated with Nepal.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Nepal and Bahadur lives in India. Who lives in India?,"Bahadur lives in India. The information provided clearly states that Rahul resides in Nepal, while Bahadur's residence is in India. Therefore, between the two, Bahadur is the one who lives in India.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Japan and Haruto lives in India. Who lives in Japan?,"Rahul lives in Japan. The question directly states that Rahul resides in Japan, while Haruto is mentioned to live in India. Therefore, the answer to the question is Rahul.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Japan and Haruto lives in India. Who lives in India?,"Haruto lives in India. The question directly states that Haruto is the individual residing in India, while Rahul is mentioned as living in Japan. Therefore, the answer is Haruto.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Ukraine and Nykolai lives in India. Who lives in Ukraine?,"Rahul lives in Ukraine. The information provided clearly states that Rahul resides in Ukraine, while Nykolai lives in India.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Ukraine and Nykolai lives in India. Who lives in India?,"Nykolai lives in India. The information provided clearly states that Rahul resides in Ukraine, while Nykolai is mentioned as living in India.",Nykolai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Greece and Maria lives in India. Who lives in Greece?,"Rahul lives in Greece. The information provided clearly states that Rahul resides in Greece, while Maria lives in India. Therefore, the person who lives in Greece is Rahul.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Greece and Maria lives in India. Who lives in India?,"Maria lives in India. The information provided clearly states that Rahul resides in Greece, while Maria is mentioned as living in India. Therefore, Maria is the one who lives in India.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Turkey and Mustafa lives in India. Who lives in Turkey?,"Rahul lives in Turkey. The information provided clearly states that Rahul resides in Turkey, while Mustafa lives in India. Therefore, the person who lives in Turkey is Rahul.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Turkey and Mustafa lives in India. Who lives in India?,"Mustafa lives in India. The information provided clearly states that Rahul resides in Turkey, while Mustafa is mentioned as living in India. Therefore, Mustafa is the one who lives in India.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Kenya and Djimon lives in India. Who lives in Kenya?,"Rahul lives in Kenya. The information provided clearly states that Rahul resides in Kenya, while Djimon lives in India. Therefore, Rahul is the one who lives in Kenya.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Kenya and Djimon lives in India. Who lives in India?,"Djimon lives in India. The information provided clearly states that Rahul resides in Kenya, while Djimon is mentioned as living in India. Therefore, Djimon is the one who lives in India.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Thailand and Somchai lives in India. Who lives in Thailand?,"Rahul lives in Thailand. The information provided clearly states that Rahul resides in Thailand, while Somchai lives in India. Therefore, the person living in Thailand is Rahul.",Rahul,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Rahul lives in Thailand and Somchai lives in India. Who lives in India?,"Somchai lives in India. The information provided clearly states that Somchai resides in India, while Rahul is mentioned as living in Thailand. Therefore, between the two, Somchai is the one who lives in India.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Russia and Sergey lives in China. Who lives in Russia?,"Li Wei lives in Russia. The information provided clearly states that Li Wei resides in Russia, while Sergey lives in China. Therefore, Li Wei is the person who lives in Russia.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Russia and Sergey lives in China. Who lives in China?,"Sergey lives in China. The information provided clearly states that Li Wei resides in Russia, while Sergey's location is mentioned as China. Therefore, Sergey is the one who lives in China.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Saudi Arabia and Abdulaziz lives in China. Who lives in Saudi Arabia?,"Li Wei lives in Saudi Arabia. The information provided clearly states that Li Wei resides in Saudi Arabia, while Abdulaziz lives in China. Therefore, Li Wei is the individual who lives in Saudi Arabia.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Saudi Arabia and Abdulaziz lives in China. Who lives in China?,"Abdulaziz lives in China. The information provided clearly states that Li Wei resides in Saudi Arabia, while Abdulaziz's place of residence is China. Therefore, Abdulaziz is the one who lives in China.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in France and Gabriel lives in China. Who lives in France?,"Li Wei lives in France. The information provided clearly states that Li Wei resides in France, while Gabriel lives in China. Therefore, Li Wei is the person who lives in France.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in France and Gabriel lives in China. Who lives in China?,"Gabriel lives in China, as stated in the information provided. Li Wei resides in France.",Gabriel,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Nepal and Bahadur lives in China. Who lives in Nepal?,"Li Wei lives in Nepal. The information provided clearly states that Li Wei resides in Nepal, while Bahadur lives in China. Therefore, Li Wei is the person who lives in Nepal.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Nepal and Bahadur lives in China. Who lives in China?,"Bahadur lives in China. The information provided clearly states that Li Wei resides in Nepal, while Bahadur is from China. Therefore, Bahadur is the one who lives in China.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Japan and Haruto lives in China. Who lives in Japan?,"Li Wei lives in Japan. The question directly states that Li Wei resides in Japan, while Haruto lives in China. Therefore, the answer to the question is Li Wei.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Japan and Haruto lives in China. Who lives in China?,"Haruto lives in China. The information provided clearly states that Li Wei resides in Japan, which leaves Haruto as the individual living in China.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Ukraine and Nykolai lives in China. Who lives in Ukraine?,"Li Wei lives in Ukraine. The information provided clearly states that Li Wei resides in Ukraine, while Nykolai lives in China. Therefore, Li Wei is the individual associated with Ukraine.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Ukraine and Nykolai lives in China. Who lives in China?,"Nykolai lives in China. The information provided clearly states that Li Wei resides in Ukraine, while Nykolai is from China. Therefore, Nykolai is the individual who lives in China.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Greece and Maria lives in China. Who lives in Greece?,"Li Wei lives in Greece. The information provided clearly states that Li Wei resides in Greece, while Maria lives in China. Therefore, Li Wei is the person who lives in Greece.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Greece and Maria lives in China. Who lives in China?,"Maria lives in China. The information provided clearly states that Li Wei resides in Greece, while Maria's location is mentioned as China. Therefore, Maria is the one who lives in China.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Turkey and Mustafa lives in China. Who lives in Turkey?,"Li Wei lives in Turkey. The information provided clearly states that Li Wei resides in Turkey, while Mustafa lives in China. Therefore, Li Wei is the person who lives in Turkey.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Turkey and Mustafa lives in China. Who lives in China?,"Mustafa lives in China, as stated in the information provided. Li Wei resides in Turkey. Therefore, Mustafa is the individual who lives in China.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Kenya and Djimon lives in China. Who lives in Kenya?,"Li Wei lives in Kenya. The information provided clearly states that Li Wei resides in Kenya, while Djimon lives in China. Therefore, Li Wei is the person who lives in Kenya.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Kenya and Djimon lives in China. Who lives in China?,"Djimon lives in China. The information provided clearly states that Li Wei resides in Kenya, while Djimon is from China. Therefore, Djimon is the one who lives in China.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Thailand and Somchai lives in China. Who lives in Thailand?,"Li Wei lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in China. Therefore, Li Wei is the person who resides in Thailand.",Li Wei,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Li Wei lives in Thailand and Somchai lives in China. Who lives in China?,"Somchai lives in China. The information provided clearly states that Li Wei resides in Thailand, while Somchai is from China. Therefore, Somchai is the individual who lives in China.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Saudi Arabia and Abdulaziz lives in Russia. Who lives in Saudi Arabia?,"Sergey lives in Saudi Arabia, as stated in the information provided. Abdulaziz resides in Russia. Therefore, Sergey is the individual who lives in Saudi Arabia.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Saudi Arabia and Abdulaziz lives in Russia. Who lives in Russia?,"Abdulaziz lives in Russia. The information provided clearly states that Abdulaziz resides in Russia, while Sergey is mentioned as living in Saudi Arabia. Therefore, Abdulaziz is the one associated with Russia.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in France and Gabriel lives in Russia. Who lives in France?,"Sergey lives in France. The information provided clearly states that Sergey resides in France, while Gabriel lives in Russia. Therefore, Sergey is the one who lives in France.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in France and Gabriel lives in Russia. Who lives in Russia?,"Gabriel lives in Russia, as stated in the information provided.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Nepal and Bahadur lives in Russia. Who lives in Nepal?,"Sergey lives in Nepal, as stated in the information provided. Bahadur, on the other hand, resides in Russia. Therefore, Sergey is the one who lives in Nepal.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Nepal and Bahadur lives in Russia. Who lives in Russia?,"Bahadur lives in Russia, as stated in the information provided. Sergey resides in Nepal.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Japan and Haruto lives in Russia. Who lives in Japan?,"Sergey lives in Japan, as stated in the information provided. Haruto lives in Russia, which is a different country. Therefore, Sergey is the one who resides in Japan.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Japan and Haruto lives in Russia. Who lives in Russia?,"Haruto lives in Russia. The information provided clearly states that Haruto resides in Russia, while Sergey is mentioned as living in Japan. Therefore, it is Haruto who lives in Russia.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Ukraine and Nykolai lives in Russia. Who lives in Ukraine?,"Sergey lives in Ukraine. The information provided clearly states that Sergey resides in Ukraine, while Nykolai lives in Russia.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Ukraine and Nykolai lives in Russia. Who lives in Russia?,"Nykolai lives in Russia. The information provided clearly states that Sergey resides in Ukraine, while Nykolai's residence is in Russia.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Greece and Maria lives in Russia. Who lives in Greece?,"Sergey lives in Greece. The information provided clearly states that Sergey resides in Greece, while Maria lives in Russia.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Greece and Maria lives in Russia. Who lives in Russia?,"Maria lives in Russia, as stated in the information provided. Serguei (Sergey) lives in Greece.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Turkey and Mustafa lives in Russia. Who lives in Turkey?,"Sergey lives in Turkey, as stated in the information provided. Mustafa, on the other hand, lives in Russia. Therefore, Sergey is the one residing in Turkey.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Turkey and Mustafa lives in Russia. Who lives in Russia?,"Mustafa lives in Russia, as stated in the information provided. Serguei (Sergey) lives in Turkey.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Kenya and Djimon lives in Russia. Who lives in Kenya?,"Sergey lives in Kenya. The information provided clearly states that Sergey resides in Kenya, while Djimon lives in Russia. Therefore, Sergey is the individual who lives in Kenya.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Kenya and Djimon lives in Russia. Who lives in Russia?,"Djimon lives in Russia, as stated in the information provided. Sergey resides in Kenya.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Thailand and Somchai lives in Russia. Who lives in Thailand?,"Sergey lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in Russia. Therefore, Sergey is the one residing in Thailand.",Sergey,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Sergey lives in Thailand and Somchai lives in Russia. Who lives in Russia?,"Somchai lives in Russia. The information provided clearly states that Somchai resides in Russia, while Sergey lives in Thailand.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in France and Gabriel lives in Saudi Arabia. Who lives in France?,"Abdulaziz lives in France. The information provided clearly states that Abdulaziz resides in France, while Gabriel lives in Saudi Arabia. Therefore, Abdulaziz is the one who lives in France.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in France and Gabriel lives in Saudi Arabia. Who lives in Saudi Arabia?,"Gabriel lives in Saudi Arabia. The information provided clearly states that Gabriel resides in Saudi Arabia, while Abdulaziz lives in France.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Nepal and Bahadur lives in Saudi Arabia. Who lives in Nepal?,"Abdulaziz lives in Nepal. The information provided clearly states that Abdulaziz resides in Nepal, while Bahadur lives in Saudi Arabia. Therefore, Abdulaziz is the one associated with Nepal.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Nepal and Bahadur lives in Saudi Arabia. Who lives in Saudi Arabia?,"Bahadur lives in Saudi Arabia. The information provided clearly states that Bahadur resides in Saudi Arabia, while Abdulaziz lives in Nepal.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Japan and Haruto lives in Saudi Arabia. Who lives in Japan?,"Abdulaziz lives in Japan. The question directly states that Abdulaziz resides in Japan, while Haruto lives in Saudi Arabia. Therefore, the answer to the question is Abdulaziz.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Japan and Haruto lives in Saudi Arabia. Who lives in Saudi Arabia?,"Haruto lives in Saudi Arabia. The information provided clearly states that Haruto resides in Saudi Arabia, while Abdulaziz lives in Japan. Therefore, the person associated with Saudi Arabia is Haruto.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Ukraine and Nykolai lives in Saudi Arabia. Who lives in Ukraine?,"Abdulaziz lives in Ukraine. The information provided clearly states that Abdulaziz resides in Ukraine, while Nykolai lives in Saudi Arabia. Therefore, Abdulaziz is the one associated with Ukraine.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Ukraine and Nykolai lives in Saudi Arabia. Who lives in Saudi Arabia?,"Nykolai lives in Saudi Arabia. The information provided clearly states that Nykolai resides in Saudi Arabia, while Abdulaziz lives in Ukraine.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Greece and Maria lives in Saudi Arabia. Who lives in Greece?,"Abdulaziz lives in Greece. The information provided clearly states that Abdulaziz resides in Greece, while Maria lives in Saudi Arabia. Therefore, Abdulaziz is the one associated with Greece.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Greece and Maria lives in Saudi Arabia. Who lives in Saudi Arabia?,"Maria lives in Saudi Arabia. The information provided clearly states that Maria resides in Saudi Arabia, while Abdulaziz lives in Greece. Therefore, it is Maria who lives in Saudi Arabia.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Turkey and Mustafa lives in Saudi Arabia. Who lives in Turkey?,"Abdulaziz lives in Turkey. The information provided clearly states that Abdulaziz resides in Turkey, while Mustafa lives in Saudi Arabia. Therefore, Abdulaziz is the one who lives in Turkey.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Turkey and Mustafa lives in Saudi Arabia. Who lives in Saudi Arabia?,"Mustafa lives in Saudi Arabia. The information provided clearly states that Abdulaziz resides in Turkey, while Mustafa's residence is in Saudi Arabia. Therefore, Mustafa is the one who lives in Saudi Arabia.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Kenya and Djimon lives in Saudi Arabia. Who lives in Kenya?,"Abdulaziz lives in Kenya. The information provided clearly states that Abdulaziz resides in Kenya, while Djimon lives in Saudi Arabia. Therefore, Abdulaziz is the one who lives in Kenya.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Kenya and Djimon lives in Saudi Arabia. Who lives in Saudi Arabia?,"Djimon lives in Saudi Arabia. The information provided clearly states that Djimon resides in Saudi Arabia, while Abdulaziz lives in Kenya. Therefore, Djimon is the one associated with Saudi Arabia.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Thailand and Somchai lives in Saudi Arabia. Who lives in Thailand?,"Abdulaziz lives in Thailand. The information provided clearly states that Abdulaziz resides in Thailand, while Somchai lives in Saudi Arabia. Therefore, Abdulaziz is the one who lives in Thailand.",Abdulaziz,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Abdulaziz lives in Thailand and Somchai lives in Saudi Arabia. Who lives in Saudi Arabia?,"Somchai lives in Saudi Arabia. The information provided clearly states that Somchai resides in Saudi Arabia, while Abdulaziz lives in Thailand. Therefore, it is Somchai who lives in Saudi Arabia.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Nepal and Bahadur lives in France. Who lives in Nepal?,"Gabriel lives in Nepal, as stated in the information provided. Bahadur, on the other hand, resides in France. Therefore, Gabriel is the one who lives in Nepal.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Nepal and Bahadur lives in France. Who lives in France?,"Bahadur lives in France. The information provided clearly states that Gabriel resides in Nepal, while Bahadur's residence is in France. Therefore, it is Bahadur who lives in France.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Japan and Haruto lives in France. Who lives in Japan?,"Gabriel lives in Japan, as stated in the question. Haruto lives in France, which is a different country. Therefore, the answer is Gabriel.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Japan and Haruto lives in France. Who lives in France?,"Haruto lives in France. The information provided clearly states that Gabriel resides in Japan, which allows us to deduce that Haruto is the individual living in France.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Ukraine and Nykolai lives in France. Who lives in Ukraine?,"Gabriel lives in Ukraine, as stated in the information provided. Nykolai resides in France. Therefore, Gabriel is the one who lives in Ukraine.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Ukraine and Nykolai lives in France. Who lives in France?,"Nykolai lives in France. Gabriel resides in Ukraine, as stated in the information provided.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Greece and Maria lives in France. Who lives in Greece?,"Gabriel lives in Greece, as stated in the question. Maria, on the other hand, lives in France. So, the answer is Gabriel.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Greece and Maria lives in France. Who lives in France?,"Maria lives in France. The information provided clearly states that Gabriel resides in Greece, while Maria is mentioned as living in France. Therefore, Maria is the one who lives in France.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Turkey and Mustafa lives in France. Who lives in Turkey?,"Gabriel lives in Turkey, as stated in the information provided. Mustafa, on the other hand, resides in France.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Turkey and Mustafa lives in France. Who lives in France?,"Mustafa lives in France. The information provided clearly states that Gabriel resides in Turkey, while Mustafa's residence is in France. Therefore, Mustafa is the one who lives in France.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Kenya and Djimon lives in France. Who lives in Kenya?,"Gabriel lives in Kenya. The information provided clearly states that Gabriel resides in Kenya, while Djimon lives in France. Therefore, Gabriel is the one associated with Kenya.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Kenya and Djimon lives in France. Who lives in France?,"Djimon lives in France. Gabriel resides in Kenya, as stated in the initial information provided.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Thailand and Somchai lives in France. Who lives in Thailand?,"Gabriel lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in France. Therefore, the person residing in Thailand is Gabriel.",Gabriel,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Gabriel lives in Thailand and Somchai lives in France. Who lives in France?,"Gabriel lives in Thailand, as stated in the information provided. Therefore, Somchai is the one who lives in France.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Japan and Haruto lives in Nepal. Who lives in Japan?,"Bahadur lives in Japan. The information provided clearly states that Bahadur resides in Japan, while Haruto lives in Nepal. Therefore, the person living in Japan is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Japan and Haruto lives in Nepal. Who lives in Nepal?,"Haruto lives in Nepal. The information provided clearly states that Haruto resides in Nepal, while Bahadur lives in Japan. Each person's country of residence is distinctly mentioned.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Ukraine and Nykolai lives in Nepal. Who lives in Ukraine?,"Bahadur lives in Ukraine. The information provided clearly states that Bahadur resides in Ukraine, while Nykolai lives in Nepal. Therefore, Bahadur is the one associated with Ukraine.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Ukraine and Nykolai lives in Nepal. Who lives in Nepal?,"Nykolai lives in Nepal. The information provided clearly states that Nykolai resides in Nepal, while Bahadur lives in Ukraine.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Greece and Maria lives in Nepal. Who lives in Greece?,"Bahadur lives in Greece. The information provided clearly states that Bahadur resides in Greece, while Maria lives in Nepal. Therefore, the person living in Greece is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Greece and Maria lives in Nepal. Who lives in Nepal?,"Maria lives in Nepal. The information provided clearly states that Maria resides in Nepal, while Bahadur lives in Greece. Each person's country of residence is distinctly mentioned.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Turkey and Mustafa lives in Nepal. Who lives in Turkey?,"Bahadur lives in Turkey. The information provided clearly states that Bahadur resides in Turkey, while Mustafa lives in Nepal. Therefore, the person living in Turkey is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Turkey and Mustafa lives in Nepal. Who lives in Nepal?,"Mustafa lives in Nepal, as stated in the information provided. Bahadur resides in Turkey.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Kenya and Djimon lives in Nepal. Who lives in Kenya?,"Bahadur lives in Kenya. The information provided clearly states that Bahadur resides in Kenya, while Djimon lives in Nepal. Therefore, the person living in Kenya is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Kenya and Djimon lives in Nepal. Who lives in Nepal?,"Djimon lives in Nepal. The information provided clearly states that Bahadur resides in Kenya, while Djimon is the one living in Nepal.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Thailand and Somchai lives in Nepal. Who lives in Thailand?,"Bahadur lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in Nepal. Therefore, the person who lives in Thailand is Bahadur.",Bahadur,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Bahadur lives in Thailand and Somchai lives in Nepal. Who lives in Nepal?,"Somchai lives in Nepal. The information provided clearly states that Somchai resides in Nepal, while Bahadur lives in Thailand. Each person is associated with a different country based on the given details.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Ukraine and Nykolai lives in Japan. Who lives in Ukraine?,"Haruto lives in Ukraine. The information provided clearly states that Haruto resides in Ukraine, while Nykolai lives in Japan. Therefore, Haruto is the one associated with Ukraine.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Ukraine and Nykolai lives in Japan. Who lives in Japan?,"Nykolai lives in Japan. The information provided clearly states that Haruto resides in Ukraine, while Nykolai is mentioned as living in Japan. Therefore, it is Nykolai who lives in Japan.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Greece and Maria lives in Japan. Who lives in Greece?,"Haruto lives in Greece. The information provided clearly states that Haruto resides in Greece, while Maria lives in Japan. Therefore, Haruto is the one who lives in Greece.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Greece and Maria lives in Japan. Who lives in Japan?,"Maria lives in Japan. The information provided clearly states that Haruto resides in Greece, while Maria's location is mentioned as Japan. Therefore, Maria is the one who lives in Japan.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Turkey and Mustafa lives in Japan. Who lives in Turkey?,"Haruto lives in Turkey. The information provided clearly states that Haruto resides in Turkey, while Mustafa lives in Japan. Therefore, Haruto is the one who lives in Turkey.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Turkey and Mustafa lives in Japan. Who lives in Japan?,"Mustafa lives in Japan. The information provided clearly states that Haruto resides in Turkey, while Mustafa's location is mentioned as Japan. Therefore, it is Mustafa who lives in Japan.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Kenya and Djimon lives in Japan. Who lives in Kenya?,"Haruto lives in Kenya. The information provided clearly states that Haruto resides in Kenya, while Djimon lives in Japan. Therefore, Haruto is the one who lives in Kenya.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Kenya and Djimon lives in Japan. Who lives in Japan?,"Djimon lives in Japan. The information provided clearly states that Haruto resides in Kenya, while Djimon is mentioned as living in Japan. Therefore, Djimon is the one who lives in Japan.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Thailand and Somchai lives in Japan. Who lives in Thailand?,"Haruto lives in Thailand. The information provided clearly states that Haruto resides in Thailand, while Somchai lives in Japan. Therefore, Haruto is the one who lives in Thailand.",Haruto,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Haruto lives in Thailand and Somchai lives in Japan. Who lives in Japan?,"Somchai lives in Japan. The information provided clearly states that Haruto resides in Thailand, while Somchai is mentioned as living in Japan. Therefore, it is Somchai who lives in Japan.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Greece and Maria lives in Ukraine. Who lives in Greece?,"Nykolai lives in Greece. The information provided clearly states that Nykolai resides in Greece, while Maria lives in Ukraine.",Nykolai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Greece and Maria lives in Ukraine. Who lives in Ukraine?,"Maria lives in Ukraine. The information provided clearly states that Maria resides in Ukraine, while Nykolai lives in Greece.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Turkey and Mustafa lives in Ukraine. Who lives in Turkey?,"Nykolai lives in Turkey. The information provided clearly states that Nykolai resides in Turkey, while Mustafa lives in Ukraine.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Turkey and Mustafa lives in Ukraine. Who lives in Ukraine?,"Mustafa lives in Ukraine. The information provided clearly states that Nykolai resides in Turkey, while Mustafa is the one living in Ukraine.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Kenya and Djimon lives in Ukraine. Who lives in Kenya?,"Nykolai lives in Kenya. The information provided clearly states that Nykolai resides in Kenya, while Djimon lives in Ukraine. Therefore, Nykolai is the one who lives in Kenya.",Nykolai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Kenya and Djimon lives in Ukraine. Who lives in Ukraine?,"Djimon lives in Ukraine. The information provided clearly states that Nykolai resides in Kenya, while Djimon resides in Ukraine. Therefore, Djimon is the one who lives in Ukraine.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Thailand and Somchai lives in Ukraine. Who lives in Thailand?,"Nykolai lives in Thailand. The information provided clearly states that Nykolai resides in Thailand, while Somchai lives in Ukraine.",Nykolai,English,"Response: The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Nykolai lives in Thailand and Somchai lives in Ukraine. Who lives in Ukraine?,"Somchai lives in Ukraine. The information provided clearly states that Somchai resides in Ukraine, while Nykolai lives in Thailand.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Turkey and Mustafa lives in Greece. Who lives in Turkey?,"Maria lives in Turkey, as stated in the information provided. Mustafa, on the other hand, resides in Greece. Therefore, the person living in Turkey is Maria.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Turkey and Mustafa lives in Greece. Who lives in Greece?,"Mustafa lives in Greece. The information provided clearly states that Maria resides in Turkey, while Mustafa's residence is in Greece. Therefore, it is Mustafa who lives in Greece.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Kenya and Djimon lives in Greece. Who lives in Kenya?,"Maria lives in Kenya. The information provided clearly states that Maria resides in Kenya, while Djimon lives in Greece. Therefore, Maria is the one associated with Kenya.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Kenya and Djimon lives in Greece. Who lives in Greece?,"Djimon lives in Greece. The information provided clearly states that Maria resides in Kenya, while Djimon's residence is mentioned as Greece. Therefore, Djimon is the individual who lives in Greece.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Thailand and Somchai lives in Greece. Who lives in Thailand?,"Maria lives in Thailand, as stated in the question. Somchai, on the other hand, lives in Greece. Therefore, the person residing in Thailand is Maria.",Maria,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Maria lives in Thailand and Somchai lives in Greece. Who lives in Greece?,"Maria lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in Greece. Therefore, Somchai is the one who lives in Greece.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Mustafa lives in Kenya and Djimon lives in Turkey. Who lives in Kenya?,"Mustafa lives in Kenya. The information provided clearly states that Mustafa resides in Kenya, while Djimon lives in Turkey. Therefore, Mustafa is the individual who lives in Kenya.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Mustafa lives in Kenya and Djimon lives in Turkey. Who lives in Turkey?,"Djimon lives in Turkey. The information provided clearly states that Mustafa resides in Kenya, while Djimon resides in Turkey. Therefore, Djimon is the one who lives in Turkey.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Mustafa lives in Thailand and Somchai lives in Turkey. Who lives in Thailand?,"Mustafa lives in Thailand. The information provided clearly states that Mustafa resides in Thailand, while Somchai lives in Turkey. Therefore, Mustafa is the individual who lives in Thailand.",Mustafa,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Mustafa lives in Thailand and Somchai lives in Turkey. Who lives in Turkey?,"Somchai lives in Turkey. The information provided clearly states that Mustafa resides in Thailand, while Somchai's residence is in Turkey. Therefore, it is Somchai who lives in Turkey.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Djimon lives in Thailand and Somchai lives in Kenya. Who lives in Thailand?,"Djimon lives in Thailand, as stated in the information provided. Somchai, on the other hand, lives in Kenya. Therefore, Djimon is the one who resides in Thailand.",Djimon,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"
+Djimon lives in Thailand and Somchai lives in Kenya. Who lives in Kenya?,"Somchai lives in Kenya. The information provided clearly states that Djimon resides in Thailand, while Somchai's residence is in Kenya. Therefore, it is Somchai who lives in Kenya.",Somchai,English,"The assistant's response is in English and aligns with the reference provided.
+
+Rating: [[2]]"

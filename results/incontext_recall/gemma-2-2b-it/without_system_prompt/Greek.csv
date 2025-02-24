@@ -1,0 +1,469 @@
+Question,Predicted,answers,label,llm_output
+Ο Δαβίδ ζει στο Ινδία και ο Ραχούλ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ινδία;,Ο Δαβίδ μένει στο Ινδία.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ινδία και ο Ραχούλ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Ραχούλ μένει στο Ηνωμένες Πολιτείες.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Κίνα και ο Λι Γουέι ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Κίνα;,Ο Δαβίδ μένει στο Κίνα.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Κίνα και ο Λι Γουέι ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Λι Γουέι μένει στο Ηνωμένες Πολιτείες.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ρωσία και ο Σεργκέι ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ρωσία;,Ο Δαβίδ μένει στο Ρωσία.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ρωσία και ο Σεργκέι ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Σεργκέι μένει στο Ηνωμένες Πολιτείες.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Σαουδική Αραβία;,Ο Δαβίδ μένει στο Σαουδική Αραβία.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Αμπντουλαζίζ μένει στο Ηνωμένες Πολιτείες.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Γαλλία και ο Γαβριήλ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Γαλλία;,Ο Δαβίδ μένει στο Γαλλία.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Γαλλία και ο Γαβριήλ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Γαβριήλ μένει στο Ηνωμένες Πολιτείες.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Νεπάλ;,Ο Δαβίδ μένει στο Νεπάλ.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Μπαχαντούρ μένει στο Ηνωμένες Πολιτείες.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ιαπωνία;,Ο Δαβίδ μένει στο Ιαπωνία.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Χαρούτο μένει στο Ηνωμένες Πολιτείες.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ουκρανία και ο Νικολάι ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ουκρανία;,Ο Δαβίδ μένει στο Ουκρανία.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ουκρανία και ο Νικολάι ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Νικολάι μένει στο Ηνωμένες Πολιτείες.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ελλάδα και ο Μαρία ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ελλάδα;,Ο Δαβίδ μένει στο Ελλάδα.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Ελλάδα και ο Μαρία ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Η Μαρία μένει στο Ηνωμένες Πολιτείες.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Τουρκία και ο Μουσταφά ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Τουρκία;,Ο Δαβίδ μένει στο Τουρκία.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Τουρκία και ο Μουσταφά ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Μουσταφά μένει στο Ηνωμένες Πολιτείες.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Κενύα και ο Djimon ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Κενύα;,Ο Δαβίδ μένει στο Κενύα.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Κενύα και ο Djimon ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Djimon μένει στο Ηνωμένες Πολιτείες.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Σιάμ και ο Somchai ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Σιάμ;,Ο Δαβίδ μένει στο Σιάμ.,Δαβίδ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Δαβίδ ζει στο Σιάμ και ο Somchai ζει στο Ηνωμένες Πολιτείες. Ποιος μένει στο Ηνωμένες Πολιτείες;,Ο Somchai μένει στο Ηνωμένες Πολιτείες.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Κίνα και ο Λι Γουέι ζει στο Ινδία. Ποιος μένει στο Κίνα;,Ο Ραχούλ μένει στο Κίνα.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Κίνα και ο Λι Γουέι ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Λι Γουέι μένει στο Ινδία.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ρωσία και ο Σεργκέι ζει στο Ινδία. Ποιος μένει στο Ρωσία;,Ο Ραχούλ μένει στο Ρωσία.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ρωσία και ο Σεργκέι ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Σεργκέι μένει στο Ινδία.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Ινδία. Ποιος μένει στο Σαουδική Αραβία;,Ο Ραχούλ μένει στο Σαουδική Αραβία.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Αμπντουλαζίζ μένει στο Ινδία.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Γαλλία και ο Γαβριήλ ζει στο Ινδία. Ποιος μένει στο Γαλλία;,Ο Ραχούλ μένει στο Γαλλία.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Γαλλία και ο Γαβριήλ ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Γαβριήλ μένει στο Ινδία.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Ινδία. Ποιος μένει στο Νεπάλ;,Ο Ραχούλ μένει στο Νεπάλ.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Μπαχαντούρ μένει στο Ινδία.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Ινδία. Ποιος μένει στο Ιαπωνία;,Ο Ραχούλ μένει στο Ιαπωνία.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Χαρούτο μένει στο Ινδία.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ουκρανία και ο Νικολάι ζει στο Ινδία. Ποιος μένει στο Ουκρανία;,Ο Ραχούλ μένει στο Ουκρανία.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ουκρανία και ο Νικολάι ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Νικολάι μένει στο Ινδία.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ελλάδα και ο Μαρία ζει στο Ινδία. Ποιος μένει στο Ελλάδα;,Ο Ραχούλ μένει στο Ελλάδα.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Ελλάδα και ο Μαρία ζει στο Ινδία. Ποιος μένει στο Ινδία;,Η Μαρία μένει στο Ινδία.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Τουρκία και ο Μουσταφά ζει στο Ινδία. Ποιος μένει στο Τουρκία;,Ο Ραχούλ μένει στο Τουρκία.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Τουρκία και ο Μουσταφά ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Μουσταφά μένει στο Ινδία.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Κενύα και ο Djimon ζει στο Ινδία. Ποιος μένει στο Κενύα;,Ο Ραχούλ μένει στο Κενύα.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Κενύα και ο Djimon ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Djimon μένει στο Ινδία.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Σιάμ και ο Somchai ζει στο Ινδία. Ποιος μένει στο Σιάμ;,Ο Ραχούλ μένει στο Σιάμ.,Ραχούλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Ραχούλ ζει στο Σιάμ και ο Somchai ζει στο Ινδία. Ποιος μένει στο Ινδία;,Ο Somchai μένει στο Ινδία.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ρωσία και ο Σεργκέι ζει στο Κίνα. Ποιος μένει στο Ρωσία;,Ο Λι Γουέι μένει στο Ρωσία.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ρωσία και ο Σεργκέι ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Σεργκέι μένει στο Κίνα.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Κίνα. Ποιος μένει στο Σαουδική Αραβία;,Ο Λι Γουέι μένει στο Σαουδική Αραβία.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Αμπντουλαζίζ μένει στο Κίνα.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Γαλλία και ο Γαβριήλ ζει στο Κίνα. Ποιος μένει στο Γαλλία;,Ο Λι Γουέι μένει στο Γαλλία.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Γαλλία και ο Γαβριήλ ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Γαβριήλ μένει στο Κίνα.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Κίνα. Ποιος μένει στο Νεπάλ;,Ο Λι Γουέι μένει στο Νεπάλ.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Μπαχαντούρ μένει στο Κίνα.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ιαπωνία και ο Χαρούτο ζει στο Κίνα. Ποιος μένει στο Ιαπωνία;,Ο Λι Γουέι μένει στο Ιαπωνία.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ιαπωνία και ο Χαρούτο ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Χαρούτο μένει στο Κίνα.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ουκρανία και ο Νικολάι ζει στο Κίνα. Ποιος μένει στο Ουκρανία;,Ο Λι Γουέι μένει στο Ουκρανία.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ουκρανία και ο Νικολάι ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Νικολάι μένει στο Κίνα.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ελλάδα και ο Μαρία ζει στο Κίνα. Ποιος μένει στο Ελλάδα;,Ο Λι Γουέι μένει στο Ελλάδα.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Ελλάδα και ο Μαρία ζει στο Κίνα. Ποιος μένει στο Κίνα;,Η Μαρία μένει στο Κίνα.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Τουρκία και ο Μουσταφά ζει στο Κίνα. Ποιος μένει στο Τουρκία;,Ο Λι Γουέι μένει στο Τουρκία.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Τουρκία και ο Μουσταφά ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Μουσταφά μένει στο Κίνα.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Κενύα και ο Djimon ζει στο Κίνα. Ποιος μένει στο Κενύα;,Ο Λι Γουέι μένει στο Κενύα.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Κενύα και ο Djimon ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Djimon μένει στο Κίνα.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Σιάμ και ο Somchai ζει στο Κίνα. Ποιος μένει στο Σιάμ;,Ο Λι Γουέι μένει στο Σιάμ.,Λι Γουέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Λι Γουέι ζει στο Σιάμ και ο Somchai ζει στο Κίνα. Ποιος μένει στο Κίνα;,Ο Somchai μένει στο Κίνα.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Ρωσία. Ποιος μένει στο Σαουδική Αραβία;,Ο Σεργκέι μένει στο Σαουδική Αραβία.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Σαουδική Αραβία και ο Αμπντουλαζίζ ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Αμπντουλαζίζ μένει στο Ρωσία.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Γαλλία και ο Γαβριήλ ζει στο Ρωσία. Ποιος μένει στο Γαλλία;,Ο Σεργκέι μένει στο Γαλλία.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Γαλλία και ο Γαβριήλ ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Γαβριήλ μένει στο Ρωσία.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Ρωσία. Ποιος μένει στο Νεπάλ;,Ο Σεργκέι μένει στο Νεπάλ.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Μπαχαντούρ μένει στο Ρωσία.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Ιαπωνία και ο Χαρούτο ζει στο Ρωσία. Ποιος μένει στο Ιαπωνία;,Ο Σεργκέι μένει στο Ιαπωνία.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Ιαπωνία και ο Χαρούτο ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Χαρούτο μένει στο Ρωσία.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Ουκρανία και ο Νικολάι ζει στο Ρωσία. Ποιος μένει στο Ουκρανία;,Ο Σεργκέι μένει στο Ουκρανία.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Ουκρανία και ο Νικολάι ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Νικολάι μένει στο Ρωσία.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Ελλάδα και ο Μαρία ζει στο Ρωσία. Ποιος μένει στο Ελλάδα;,Ο Σεργκέι μένει στο Ελλάδα.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Ελλάδα και ο Μαρία ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Η Μαρία μένει στο Ρωσία.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Τουρκία και ο Μουσταφά ζει στο Ρωσία. Ποιος μένει στο Τουρκία;,Ο Σεργκέι μένει στο Τουρκία.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Τουρκία και ο Μουσταφά ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Μουσταφά μένει στο Ρωσία.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Κενύα και ο Djimon ζει στο Ρωσία. Ποιος μένει στο Κενύα;,Ο Σεργκέι μένει στο Κενύα.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Κενύα και ο Djimon ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Djimon μένει στο Ρωσία.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Σιάμ και ο Somchai ζει στο Ρωσία. Ποιος μένει στο Σιάμ;,Ο Σεργκέι μένει στο Σιάμ.,Σεργκέι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Σεργκέι ζει στο Σιάμ και ο Somchai ζει στο Ρωσία. Ποιος μένει στο Ρωσία;,Ο Somchai μένει στο Ρωσία.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Γαλλία και ο Γαβριήλ ζει στο Σαουδική Αραβία. Ποιος μένει στο Γαλλία;,Ο Αμπντουλαζίζ μένει στο Γαλλία.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Γαλλία και ο Γαβριήλ ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Ο Γαβριήλ μένει στο Σαουδική Αραβία.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Σαουδική Αραβία. Ποιος μένει στο Νεπάλ;,Ο Αμπντουλαζίζ μένει στο Νεπάλ.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Ο Μπαχαντούρ μένει στο Σαουδική Αραβία.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Σαουδική Αραβία. Ποιος μένει στο Ιαπωνία;,Ο Αμπντουλαζίζ μένει στο Ιαπωνία.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Ο Χαρούτο μένει στο Σαουδική Αραβία.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Ουκρανία και ο Νικολάι ζει στο Σαουδική Αραβία. Ποιος μένει στο Ουκρανία;,Ο Αμπντουλαζίζ ζει στο Ουκρανία.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Ουκρανία και ο Νικολάι ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Ο Νικολάι μένει στο Σαουδική Αραβία.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Ελλάδα και ο Μαρία ζει στο Σαουδική Αραβία. Ποιος μένει στο Ελλάδα;,Ο Αμπντουλαζίζ μένει στο Ελλάδα.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Ελλάδα και ο Μαρία ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Η Μαρία μένει στο Σαουδική Αραβία.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Τουρκία και ο Μουσταφά ζει στο Σαουδική Αραβία. Ποιος μένει στο Τουρκία;,Ο Αμπντουλαζίζ μένει στο Τουρκία.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Τουρκία και ο Μουσταφά ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Ο Μουσταφά μένει στο Σαουδική Αραβία.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Κενύα και ο Djimon ζει στο Σαουδική Αραβία. Ποιος μένει στο Κενύα;,Ο Αμπντουλαζίζ μένει στο Κενύα.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Κενύα και ο Djimon ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Ο **Djimon** μένει στο Σαουδική Αραβία.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Σιάμ και ο Somchai ζει στο Σαουδική Αραβία. Ποιος μένει στο Σιάμ;,Ο Αμπντουλαζίζ μένει στο Σιάμ.,Αμπντουλαζίζ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Αμπντουλαζίζ ζει στο Σιάμ και ο Somchai ζει στο Σαουδική Αραβία. Ποιος μένει στο Σαουδική Αραβία;,Ο **Somchai** μένει στο Σαουδική Αραβία.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Γαλλία. Ποιος μένει στο Νεπάλ;,Ο Γαβριήλ μένει στο Νεπάλ.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Νεπάλ και ο Μπαχαντούρ ζει στο Γαλλία. Ποιος μένει στο Γαλλία;,Ο Μπαχαντούρ μένει στο Γαλλία.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Γαλλία. Ποιος μένει στο Ιαπωνία;,Ο Γαβριήλ μένει στο Ιαπωνία.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Γαλλία. Ποιος μένει στο Γαλλία;,Ο Χαρούτο μένει στο Γαλλία.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Ουκρανία και ο Νικολάι ζει στο Γαλλία. Ποιος μένει στο Ουκρανία;,Ο Γαβριήλ μένει στο Ουκρανία.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Ουκρανία και ο Νικολάι ζει στο Γαλλία. Ποιος μένει στο Γαλλία;,Ο Νικολάι μένει στο Γαλλία.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Ελλάδα και ο Μαρία ζει στο Γαλλία. Ποιος μένει στο Ελλάδα;,Ο Γαβριήλ μένει στο Ελλάδα.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Ελλάδα και ο Μαρία ζει στο Γαλλία. Ποιος μένει στο Γαλλία;,Η Μαρία μένει στο Γαλλία.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Τουρκία και ο Μουσταφά ζει στο Γαλλία. Ποιος μένει στο Τουρκία;,Ο Γαβριήλ μένει στο Τουρκία.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Τουρκία και ο Μουσταφά ζει στο Γαλλία. Ποιος μένει στο Γαλλία;,Ο Μουσταφά μένει στο Γαλλία.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Κενύα και ο Djimon ζει στο Γαλλία. Ποιος μένει στο Κενύα;,Ο Γαβριήλ μένει στο Κενύα.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Κενύα και ο Djimon ζει στο Γαλλία. Ποιος μένει στο Γαλλία;,Ο Djimon μένει στο Γαλλία.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Σιάμ και ο Somchai ζει στο Γαλλία. Ποιος μένει στο Σιάμ;,Ο Γαβριήλ μένει στο Σιάμ.,Γαβριήλ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Γαβριήλ ζει στο Σιάμ και ο Somchai ζει στο Γαλλία. Ποιος μένει στο Γαλλία;,Ο Somchai μένει στο Γαλλία.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Νεπάλ. Ποιος μένει στο Ιαπωνία;,Ο Μπαχαντούρ μένει στο Ιαπωνία.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Ιαπωνία και ο Χαρούτο ζει στο Νεπάλ. Ποιος μένει στο Νεπάλ;,Ο Χαρούτο μένει στο Νεπάλ.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Ουκρανία και ο Νικολάι ζει στο Νεπάλ. Ποιος μένει στο Ουκρανία;,Ο Μπαχαντούρ μένει στο Ουκρανία.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Ουκρανία και ο Νικολάι ζει στο Νεπάλ. Ποιος μένει στο Νεπάλ;,Ο Νικολάι μένει στο Νεπάλ.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Ελλάδα και ο Μαρία ζει στο Νεπάλ. Ποιος μένει στο Ελλάδα;,Ο Μπαχαντούρ μένει στο Ελλάδα.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Ελλάδα και ο Μαρία ζει στο Νεπάλ. Ποιος μένει στο Νεπάλ;,Η Μαρία μένει στο Νεπάλ.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Τουρκία και ο Μουσταφά ζει στο Νεπάλ. Ποιος μένει στο Τουρκία;,Ο Μπαχαντούρ μένει στο Τουρκία.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Τουρκία και ο Μουσταφά ζει στο Νεπάλ. Ποιος μένει στο Νεπάλ;,Ο Μουσταφά μένει στο Νεπάλ.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Κενύα και ο Djimon ζει στο Νεπάλ. Ποιος μένει στο Κενύα;,Ο Μπαχαντούρ μένει στο Κενύα.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Κενύα και ο Djimon ζει στο Νεπάλ. Ποιος μένει στο Νεπάλ;,Ο **Djimon** μένει στο Νεπάλ.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Σιάμ και ο Somchai ζει στο Νεπάλ. Ποιος μένει στο Σιάμ;,Ο Μπαχαντούρ μένει στο Σιάμ.,Μπαχαντούρ,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μπαχαντούρ ζει στο Σιάμ και ο Somchai ζει στο Νεπάλ. Ποιος μένει στο Νεπάλ;,Ο Somchai μένει στο Νεπάλ.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Ουκρανία και ο Νικολάι ζει στο Ιαπωνία. Ποιος μένει στο Ουκρανία;,Ο Χαρούτο μένει στο Ουκρανία.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Ουκρανία και ο Νικολάι ζει στο Ιαπωνία. Ποιος μένει στο Ιαπωνία;,Ο Νικολάι μένει στο Ιαπωνία.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Ελλάδα και ο Μαρία ζει στο Ιαπωνία. Ποιος μένει στο Ελλάδα;,Ο Χαρούτο μένει στην Ελλάδα.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Ελλάδα και ο Μαρία ζει στο Ιαπωνία. Ποιος μένει στο Ιαπωνία;,Η Μαρία μένει στο Ιαπωνία.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Τουρκία και ο Μουσταφά ζει στο Ιαπωνία. Ποιος μένει στο Τουρκία;,Ο Χαρούτο μένει στο Τουρκία.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Τουρκία και ο Μουσταφά ζει στο Ιαπωνία. Ποιος μένει στο Ιαπωνία;,Ο Μουσταφά μένει στο Ιαπωνία.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Κενύα και ο Djimon ζει στο Ιαπωνία. Ποιος μένει στο Κενύα;,Ο Χαρούτο μένει στο Κενύα.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Κενύα και ο Djimon ζει στο Ιαπωνία. Ποιος μένει στο Ιαπωνία;,Ο Djimon μένει στο Ιαπωνία.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Σιάμ και ο Somchai ζει στο Ιαπωνία. Ποιος μένει στο Σιάμ;,Ο Χαρούτο μένει στο Σιάμ.,Χαρούτο,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Χαρούτο ζει στο Σιάμ και ο Somchai ζει στο Ιαπωνία. Ποιος μένει στο Ιαπωνία;,Ο Somchai μένει στο Ιαπωνία.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Ελλάδα και ο Μαρία ζει στο Ουκρανία. Ποιος μένει στο Ελλάδα;,Ο Νικολάι μένει στο Ελλάδα.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Ελλάδα και ο Μαρία ζει στο Ουκρανία. Ποιος μένει στο Ουκρανία;,Η Μαρία μένει στο Ουκρανία.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Τουρκία και ο Μουσταφά ζει στο Ουκρανία. Ποιος μένει στο Τουρκία;,Ο Νικολάι μένει στο Τουρκία.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Τουρκία και ο Μουσταφά ζει στο Ουκρανία. Ποιος μένει στο Ουκρανία;,Ο Μουσταφά μένει στο Ουκρανία.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Κενύα και ο Djimon ζει στο Ουκρανία. Ποιος μένει στο Κενύα;,Ο Νικολάι μένει στο Κενύα.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Κενύα και ο Djimon ζει στο Ουκρανία. Ποιος μένει στο Ουκρανία;,Ο Djimon μένει στο Ουκρανία.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Σιάμ και ο Somchai ζει στο Ουκρανία. Ποιος μένει στο Σιάμ;,Ο Νικολάι μένει στο Σιάμ.,Νικολάι,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Νικολάι ζει στο Σιάμ και ο Somchai ζει στο Ουκρανία. Ποιος μένει στο Ουκρανία;,Ο **Somchai** μένει στο Ουκρανία.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μαρία ζει στο Τουρκία και ο Μουσταφά ζει στο Ελλάδα. Ποιος μένει στο Τουρκία;,Ο **Μαρία** μένει στο Τουρκία.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μαρία ζει στο Τουρκία και ο Μουσταφά ζει στο Ελλάδα. Ποιος μένει στο Ελλάδα;,Ο Μουσταφά μένει στο Ελλάδα.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μαρία ζει στο Κενύα και ο Djimon ζει στο Ελλάδα. Ποιος μένει στο Κενύα;,Η Μαρία μένει στο Κενύα.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μαρία ζει στο Κενύα και ο Djimon ζει στο Ελλάδα. Ποιος μένει στο Ελλάδα;,Ο Djimon μένει στο Ελλάδα.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μαρία ζει στο Σιάμ και ο Somchai ζει στο Ελλάδα. Ποιος μένει στο Σιάμ;,Ο **Μαρία** μένει στο Σιάμ.,Μαρία,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μαρία ζει στο Σιάμ και ο Somchai ζει στο Ελλάδα. Ποιος μένει στο Ελλάδα;,Ο **Somchai** μένει στο Ελλάδα.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μουσταφά ζει στο Κενύα και ο Djimon ζει στο Τουρκία. Ποιος μένει στο Κενύα;,Ο Μουσταφά μένει στο Κενύα.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μουσταφά ζει στο Κενύα και ο Djimon ζει στο Τουρκία. Ποιος μένει στο Τουρκία;,Ο Djimon μένει στο Τουρκία.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μουσταφά ζει στο Σιάμ και ο Somchai ζει στο Τουρκία. Ποιος μένει στο Σιάμ;,Ο Μουσταφά μένει στο Σιάμ.,Μουσταφά,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Μουσταφά ζει στο Σιάμ και ο Somchai ζει στο Τουρκία. Ποιος μένει στο Τουρκία;,Ο **Somchai** μένει στο Τουρκία.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Djimon ζει στο Σιάμ και ο Somchai ζει στο Κενύα. Ποιος μένει στο Σιάμ;,Ο Djimon μένει στο Σιάμ.,Djimon,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
+Ο Djimon ζει στο Σιάμ και ο Somchai ζει στο Κενύα. Ποιος μένει στο Κενύα;,Ο Somchai μένει στο Κενύα.,Somchai,Greek,"The assistant's response is in the same language as the reference and aligns with the reference provided.
+
+Rating: [[1]]"
