@@ -66,5 +66,5 @@ Results show model performance based on:
 
 # Contact
 - [Tushar Aggarwal](mailto:tushar.aggarwal53@gmail.com)
-- [Tanmay Kumar](mailto:kr.tanmay147@gmail.com)
+- [Kumar Tanmay](mailto:kr.tanmay147@gmail.com)
 - [Ayush Agrawal](mailto:ayush.agrawal@mila.quebec)
