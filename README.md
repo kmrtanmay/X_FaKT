@@ -11,8 +11,8 @@ This repo contains the code for our Benchmark.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AggarwalTushar/multilingual_benchmark.git
-   cd multilingual_benchmark
+   git clone https://github.com/kmrtanmay/X_FaKT.git
+   cd X_FaKT
 
 2. **Install dependencies:**
    
